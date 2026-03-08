@@ -1,109 +1,731 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>PT站点合并RSS</title>
 <link>https://example.com</link>
-<description>合并多个PT站点的去重RSS - 生成时间: 2026-03-08 14:50:01</description>
-<lastBuildDate>Sun, 08 Mar 2026 14:50:01 +0800</lastBuildDate>
+<description>合并多个PT站点的去重RSS - 生成时间: 2026-03-08 18:28:58</description>
+<lastBuildDate>Sun, 08 Mar 2026 18:28:58 +0800</lastBuildDate>
 <language>zh-CN</language>
 <item>
-<title>[Animations]Bob the Builder S20 2016 1080p HMAX WEB-DL x264 DD 2.0-FULCRUM[巴布工程师 第二十季 全52集][34.66 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530678</link>
-<guid isPermaLink="false">0b51fb2160e52338014927037bd3cd682897af83</guid>
-<pubDate>Sun, 08 Mar 2026 14:18:13 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530678</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530678" type="application/x-bittorrent" />
+<title>[电影]Happy Ghost II 1985 1080p BluRay x265 10bit FLAC 2.0 2Audio-ADE[开心鬼放暑假 / 开心鬼2  【国|粤音轨】 【简|繁|英字幕】][7.82 GB]</title>
+<link>https://audiences.me/details.php?id=23862</link>
+<guid isPermaLink="false">3508e85e2ae8d54d22a481034f8aeeedc197ed2f</guid>
+<pubDate>Fri, 29 Apr 2022 00:50:58 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=23862</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Happy Ghost II 10bit FLAC 2 0 2Audio<br/>年份: 1985<br/>分辨率: 1080p<br/>来源: bluray<br/>编码: hevc<br/>发布组: ADE<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=23862">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=23862</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=23862">https://audiences.me/details.php?id=23862</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=23862" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[TV Series]Emily in Paris S01 2020 2160p NF WEB-DL DDP 5.1 DV H.265-Kitsune[艾米丽在巴黎 第一季 / 艾蜜莉在巴黎 *第一季 全10集* | 类别：剧情  喜剧  爱情][37.15 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530676</link>
-<guid isPermaLink="false">1ae978be9bfe01aebfa52bfd98a118da9cb2ff1d</guid>
-<pubDate>Sun, 08 Mar 2026 14:13:58 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530676</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530676" type="application/x-bittorrent" />
+<title>[电影]Funny Ghost 1989 1080p BluRay x265 10bit FLAC 2Audio-ADE[猛鬼撞鬼 【粤|国音轨】 【简|繁|英字幕】][6.29 GB]</title>
+<link>https://audiences.me/details.php?id=29314</link>
+<guid isPermaLink="false">247ab55f82a35f7a7553ab780321d8ba09ff5c4f</guid>
+<pubDate>Thu, 12 May 2022 23:50:50 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=29314</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Funny Ghost 10bit FLAC 2Audio<br/>年份: 1989<br/>分辨率: 1080p<br/>来源: bluray<br/>编码: hevc<br/>发布组: ADE<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=29314">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=29314</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=29314">https://audiences.me/details.php?id=29314</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=29314" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Animations]Bob the Builder S10 2005 1080p PCOK WEB-DL x264 AAC 2.0-tokar86a[巴布工程师 第十季 全14集][7.83 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530674</link>
-<guid isPermaLink="false">5b1da1605c72377b7063aa605206b706376f4332</guid>
-<pubDate>Sun, 08 Mar 2026 14:07:24 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530674</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530674" type="application/x-bittorrent" />
+<title>[剧集]About Love S01E20 2026 2160p WEB-DL H265 HDR 60FPS AAC-ADWeb[玫瑰丛生 第20集 | 类型：剧情 爱情 | 主演：王子文 刘宇宁 蒋欣 谷嘉诚 朱嘉琦 | 蝉女 / 最爱的你 / 爱如蝉翼 / 相遇恰逢其时 / 五光十色的我们 *云视听极光*][4.80 GB]</title>
+<link>https://audiences.me/details.php?id=630562</link>
+<guid isPermaLink="false">842730e1987cc31fb27df96048a30b396e82d4eb</guid>
+<pubDate>Sun, 08 Mar 2026 17:53:33 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630562</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: About Love 60FPS<br/>年份: 2026<br/>季: S01<br/>集: E20<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630562">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630562</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630562">https://audiences.me/details.php?id=630562</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630562" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Animations]Bob the Builder S09 2003 1080p PCOK WEB-DL x264 AAC 2.0-AndreMor[巴布工程师 第九季 全13集][7.23 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530673</link>
-<guid isPermaLink="false">1a2cf89c03ab75179151c6f35a2ace44bdc357ed</guid>
-<pubDate>Sun, 08 Mar 2026 14:05:52 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530673</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530673" type="application/x-bittorrent" />
+<title>[剧集]About Love S01E20 2026 2160p WEB-DL H265 DV AAC-ADWeb[玫瑰丛生 第20集 | 类型：剧情 爱情 | 主演：王子文 刘宇宁 蒋欣 谷嘉诚 朱嘉琦 | 蝉女 / 最爱的你 / 爱如蝉翼 / 相遇恰逢其时 / 五光十色的我们 *云视听极光*][1.44 GB]</title>
+<link>https://audiences.me/details.php?id=630560</link>
+<guid isPermaLink="false">40dde7ee1c05e1e35f80220244c76cd6242c3b58</guid>
+<pubDate>Sun, 08 Mar 2026 17:51:32 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630560</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: About Love<br/>年份: 2026<br/>季: S01<br/>集: E20<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: dv<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630560">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630560</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630560">https://audiences.me/details.php?id=630560</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630560" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Animations]Bob the Builder S08 2002 1080p PCOK WEB-DL x264 AAC 2.0-AndreMor[巴布工程师 第八季 全13集][7.23 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530672</link>
-<guid isPermaLink="false">8bfbb5d615a36b031ce61d46ac253b6ca931384e</guid>
-<pubDate>Sun, 08 Mar 2026 14:02:11 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530672</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530672" type="application/x-bittorrent" />
+<title>[剧集]About Love S01E20 2026 1080p WEB-DL H265 AAC-ADWeb[玫瑰丛生 第20集 | 类型：剧情 爱情 | 主演：王子文 刘宇宁 蒋欣 谷嘉诚 朱嘉琦 | 蝉女 / 最爱的你 / 爱如蝉翼 / 相遇恰逢其时 / 五光十色的我们 *云视听极光*][165.25 MB]</title>
+<link>https://audiences.me/details.php?id=630559</link>
+<guid isPermaLink="false">dcd043c5b0d14754dbf045234a22c50846a8641b</guid>
+<pubDate>Sun, 08 Mar 2026 17:50:32 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630559</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: About Love<br/>年份: 2026<br/>季: S01<br/>集: E20<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630559">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630559</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630559">https://audiences.me/details.php?id=630559</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630559" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Animations]Bob the Builder S07 2003 1080p PCOK WEB-DL x264 AAC 2.0-AndreMor[巴布工程师 第七季 全13集][7.23 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530671</link>
-<guid isPermaLink="false">dd9d2313a4f5b99e29ef6380f05db6a53c4267b8</guid>
-<pubDate>Sun, 08 Mar 2026 13:58:22 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530671</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530671" type="application/x-bittorrent" />
+<title>[剧集]Como agua para chocolate S02E04 Day of the Dead Bread 2160p HMAX WEB-DL DD+ 5.1 Atmos DoVi HDR H.265-playWEB[巧克力情人  [第二季 第04集] / 恰似水于巧克力 / 恰似水之于巧克力 / 如水似巧克力 / Like Water for Chocolate | 类型：剧情 爱情][3.13 GB]</title>
+<link>https://audiences.me/details.php?id=630554</link>
+<guid isPermaLink="false">5f6b902cdb8398a6b203c85e72997e645dd6b2bc</guid>
+<pubDate>Sun, 08 Mar 2026 17:16:05 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630554</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Como agua para chocolate Day of the Dead Bread HMA<br/>季: S02<br/>集: E04<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>发布组: playWEB<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630554">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630554</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630554">https://audiences.me/details.php?id=630554</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630554" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Movies]War Machine 2026 2160p NF WEB-DL DDP 5.1 Atmos H.265-FROGWeb[侵略机器 / 战争机器 | 类型: 动作 / 科幻 / 惊悚][11.61 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530670</link>
-<guid isPermaLink="false">f46e873fc0eab05cf790f630407df5fef2ebb816</guid>
-<pubDate>Sun, 08 Mar 2026 13:52:06 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530670</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530670" type="application/x-bittorrent" />
+<title>[剧集]Como agua para chocolate S02E04 Day of the Dead Bread 2160p HMAX WEB-DL DD+ 5.1 Atmos H.265-playWEB[巧克力情人  [第二季 第04集] / 恰似水于巧克力 / 恰似水之于巧克力 / 如水似巧克力 / Like Water for Chocolate | 类型：剧情 爱情][2.14 GB]</title>
+<link>https://audiences.me/details.php?id=630553</link>
+<guid isPermaLink="false">cda8e847cfea8da23647d86c8b6d2c75109bc650</guid>
+<pubDate>Sun, 08 Mar 2026 17:15:15 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630553</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Como agua para chocolate Day of the Dead Bread HMA<br/>季: S02<br/>集: E04<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: playWEB<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630553">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630553</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630553">https://audiences.me/details.php?id=630553</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630553" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[Movies]War Machine 2026 2160p NF WEB-DL DDP 5.1 Atmos DV H.265-FROGWeb[侵略机器 / 战争机器 | 类型: 动作 / 科幻 / 惊悚][14.65 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530669</link>
-<guid isPermaLink="false">e800ca8df0fea8d32f68fea82c7a06840930c5d5</guid>
-<pubDate>Sun, 08 Mar 2026 13:49:52 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530669</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530669" type="application/x-bittorrent" />
+<title>[纪录片]Abolish Everything 2025 S02E06 2160p NBLA WEB-DL AAC 2.0 H.265-BTN[Abolish Everything!  [第二季 第06集] | 类型：纪录片 | 2026][3.12 GB]</title>
+<link>https://audiences.me/details.php?id=630543</link>
+<guid isPermaLink="false">872900201467f09ec0cc225500a6323a20092f40</guid>
+<pubDate>Sun, 08 Mar 2026 16:55:03 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630543</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Abolish Everything NBLA 2 0 H 265 BTN 类型 纪录片<br/>年份: 2025<br/>季: S02<br/>集: E06<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: BTN<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630543">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630543</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630543">https://audiences.me/details.php?id=630543</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630543" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[TV Series]CIA S01 1080p AMZN WEB-DL DDP.5.1 H.264-CHDWEB[美剧：中央情报局 第2集 CIA/联邦调查局：CIA/联邦调查局：中央情报局 | 类型:剧情/动作/悬疑/惊悚/犯罪/冒险 | 英语][2.48 GB]</title>
-<link>https://ptchdbits.co/details.php?id=530668</link>
-<guid isPermaLink="false">f1f382818874e885898a9aeeb2368681fbaf06ce</guid>
-<pubDate>Sun, 08 Mar 2026 13:27:00 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530668</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530668" type="application/x-bittorrent" />
+<title>[剧集]The Capture S03E01 2160p iP WEB-DL AAC 2.0 HLG H.265-TBN[真相捕捉  [第三季 第01集] / 囚禁 / 捕风捉影(台) | 类型：悬疑 惊悚][7.28 GB]</title>
+<link>https://audiences.me/details.php?id=630541</link>
+<guid isPermaLink="false">fedfa69a07372ae153aaf1d0e672bb84c1360a99</guid>
+<pubDate>Sun, 08 Mar 2026 16:52:22 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630541</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: The Capture iP 2 0 HLG H 265 TBN 囚禁 捕风捉影 台 类型 悬疑 惊<br/>季: S03<br/>集: E01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: TBN<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630541">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630541</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630541">https://audiences.me/details.php?id=630541</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630541" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[TV Series]CIA S01 1080p Paramount+ WEB-DL DDP.5.1 H.264-CHDWEB[中央情报局 第2集  CIA / 中情局 / 联邦调查局：中央情报局 / 联邦调查局：中情局 | 类型:剧情/动作/悬疑/惊悚/犯罪/冒险 |  英语][658.09 MB]</title>
-<link>https://ptchdbits.co/details.php?id=530667</link>
-<guid isPermaLink="false">766265171d433e797a428edb908090ec9f30db48</guid>
-<pubDate>Sun, 08 Mar 2026 13:26:17 +0800</pubDate>
-<source>ptchdbits</source>
-<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530667</description>
-<enclosure url="https://ptchdbits.co/download.php?id=530667" type="application/x-bittorrent" />
+<title>[电影]Girl 2025 2160p 60fps HQ WEB-DL HEVC 10bit AV3A 5.1 4 8Audios-QHstudIo[女孩【4K超高码率 | 高帧率 | 三维菁彩声+HiFi声+多规格音轨】【导演：舒淇 | 主演：汤毓绮 | 邱泽 | 白小樱 | 林品彤】QHstudIo小组作品][25.01 GB]</title>
+<link>https://audiences.me/details.php?id=630539</link>
+<guid isPermaLink="false">3d3fc1057f754f78a0c62a4bb18dc3b2e81b7548</guid>
+<pubDate>Sun, 08 Mar 2026 16:44:17 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630539</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Girl 60fps HQ 10bit AV3A 5 1 4 8Audios<br/>年份: 2025<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hq<br/>编码: hevc<br/>发布组: QHstudIo<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630539">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630539</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630539">https://audiences.me/details.php?id=630539</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630539" type="application/x-bittorrent" />
 </item>
 <item>
-<title>[TVSeries 2160p]Our Dazzling Days 2026 S01 Complete 2160p WEB-DL 60Fps HDRVivid H.265 10bit DDP5.1-UBWEB[岁月有情时/烟花少年 / 烟花与少年 / 子弟 | 全30集 | 导演: 黄伟 | 主演: 黄景瑜 关晓彤 徐若晗 王天辰 果靖霖 [国语/简繁中字] [软字幕版] [4K60FPS版] *菁彩HDR*][57.51 GB]</title>
-<link>https://hdhome.org/details.php?id=282671</link>
-<guid isPermaLink="false">b3f5e4386b50d8f4aca544df4ef845b42192c8b0</guid>
-<pubDate>Sun, 08 Mar 2026 14:29:18 +0800</pubDate>
+<title>[电影]Mad Fate 2023 2160p HQ WEB-DL DDP2.0 H.265 60fps 2Audios-HDSWEB[命案 / 重案 / Fatal Fate | 主演: 林家栋 杨乐文 吴廷烨 [60帧] [高码率版本] [国粤双语]][19.27 GB]</title>
+<link>https://audiences.me/details.php?id=630531</link>
+<guid isPermaLink="false">ebbee1f0f01bbe54848494365b24f8950a745694</guid>
+<pubDate>Sun, 08 Mar 2026 16:10:10 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630531</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Mad Fate HQ H 265 60fps 2Audios HDSWEB<br/>年份: 2023<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hq<br/>发布组: HDSWEB<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630531">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630531</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630531">https://audiences.me/details.php?id=630531</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630531" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]One Hundred Thousand Years of Qi Training S01E01-E100 2023 1080p WEB-DL H265 DDP2.0-ADWeb[[国创连载] 炼气十万年 第一季 第01-100集 | 类型：动作 动画 奇幻 古装 *云视听极光*][19.78 GB]</title>
+<link>https://audiences.me/details.php?id=486927</link>
+<guid isPermaLink="false">e1d3212709480ea137531ea6db097766f0c61d5a</guid>
+<pubDate>Sat, 14 Jun 2025 17:14:50 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=486927</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: One Hundred Thousand Years of Qi Training E100 ADW<br/>年份: 2023<br/>季: S01<br/>集: E01<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=486927">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=486927</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=486927">https://audiences.me/details.php?id=486927</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=486927" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]One Hundred Thousand Years of Qi Training S01E101-E200 2023 1080p WEB-DL H265 DDP2.0-ADWeb[[国创连载] 炼气十万年 第一季 第101-200集 | 类型：动作 动画 奇幻 古装 *云视听极光*][23.33 GB]</title>
+<link>https://audiences.me/details.php?id=486928</link>
+<guid isPermaLink="false">b7b36a38c971f5a2dc6c2977ea4a1a7bd49259ca</guid>
+<pubDate>Sat, 14 Jun 2025 17:15:43 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=486928</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: One Hundred Thousand Years of Qi Training 1 E200 A<br/>年份: 2023<br/>季: S01<br/>集: E10<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=486928">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=486928</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=486928">https://audiences.me/details.php?id=486928</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=486928" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]One Hundred Thousand Years of Qi Training S01E201-E300 2023 1080p WEB-DL H265 AAC-ADWeb[炼气十万年 第一季 第201-300集 | 类型：动作 动画 奇幻 古装 *云视听极光*][18.46 GB]</title>
+<link>https://audiences.me/details.php?id=603214</link>
+<guid isPermaLink="false">012e1bbd7613379c933160edd21c0e14e06452e7</guid>
+<pubDate>Sun, 11 Jan 2026 14:04:26 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=603214</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: One Hundred Thousand Years of Qi Training 1 E300<br/>年份: 2023<br/>季: S01<br/>集: E20<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=603214">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=603214</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=603214">https://audiences.me/details.php?id=603214</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=603214" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第一季 全24集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][5.75 GB]</title>
+<link>https://audiences.me/details.php?id=630523</link>
+<guid isPermaLink="false">ffc899cc32142e945259d32d15269bdc3bf0b17a</guid>
+<pubDate>Sun, 08 Mar 2026 15:33:44 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630523</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630523">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630523</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630523">https://audiences.me/details.php?id=630523</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630523" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第一季 全24集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][1.20 GB]</title>
+<link>https://audiences.me/details.php?id=630522</link>
+<guid isPermaLink="false">2e2d027d0e62df4561c8418c4e6b832dbd7421e8</guid>
+<pubDate>Sun, 08 Mar 2026 15:33:41 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630522</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630522">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630522</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630522">https://audiences.me/details.php?id=630522</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630522" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Like Water for Chocolate S02E04 DV HDR 2160p WEB h265-EDITH[巧克力情人  [第二季 第04集] / 恰似水于巧克力 / 恰似水之于巧克力 / 如水似巧克力 / Like Water for Chocolate | 类型：剧情 爱情 | 2026][3.22 GB]</title>
+<link>https://audiences.me/details.php?id=630517</link>
+<guid isPermaLink="false">e7f90d9874603c2187e152bc565dc83742dc27fa</guid>
+<pubDate>Sun, 08 Mar 2026 15:08:42 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630517</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Like Water for Chocolate WEB EDITH 恰似水于巧克力 恰似水之于巧克<br/>年份: 2026<br/>季: S02<br/>集: E04<br/>分辨率: 2160p<br/>HDR: dv<br/>编码: hevc<br/>发布组: EDITH<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630517">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630517</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630517">https://audiences.me/details.php?id=630517</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630517" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Galloping Heart S01 2026 2160p WEB-DL H265 AAC-ADWeb[奔腾的心 第一季 全16集 *银河奇异果*][4.89 GB]</title>
+<link>https://audiences.me/details.php?id=630514</link>
+<guid isPermaLink="false">d9625faa893243b55030ada0ea8be1766c8dc56e</guid>
+<pubDate>Sun, 08 Mar 2026 15:05:10 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630514</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Galloping Heart<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630514">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630514</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630514">https://audiences.me/details.php?id=630514</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630514" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[电影]War Machine 2026 2160p NF WEB-DL DDP 5.1 Atmos DoVi H.265-FROGWeb[侵略机器 / 战争机器 | 类型：动作 科幻 惊悚][14.65 GB]</title>
+<link>https://audiences.me/details.php?id=630504</link>
+<guid isPermaLink="false">1964da8b509850c5d6c0f401ec2948ce4a2693b2</guid>
+<pubDate>Sun, 08 Mar 2026 14:37:42 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630504</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: War Machine NF 5 1 DoVi H 265<br/>年份: 2026<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: FROGWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630504">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630504</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630504">https://audiences.me/details.php?id=630504</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630504" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Love is Sweet S01 2020 2160p WEB-DL H.265 60fps AAC-HHWEB[半是蜜糖半是伤 全36集 | 4k 60帧 | 类型:剧情/爱情 | 主演:罗云熙/白鹿/肖燕/高瀚宇/王以纶][56.24 GB]</title>
+<link>https://audiences.me/details.php?id=547326</link>
+<guid isPermaLink="false">5bb91c6b13b23d39be1bfbdb0574ada7de066e43</guid>
+<pubDate>Tue, 30 Sep 2025 17:17:40 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=547326</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Love is Sweet H 265 60fps<br/>年份: 2020<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: HHWEB<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=547326">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=547326</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=547326">https://audiences.me/details.php?id=547326</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=547326" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[电影]Kung Fu Panda 3 2016 USA UHD BluRay 2160p Atmos TrueHD7.1 DoVi HDR10 x265 10bit-CHD[功夫熊猫3 / 熊猫阿宝3 / 阿宝正传3   国{重混公映次世代&amp;三区台配}粤英三语    国配简繁双语特效八字幕][19.62 GB]</title>
+<link>https://audiences.me/details.php?id=630485</link>
+<guid isPermaLink="false">19d0351b7e224ce09cc77f4b15ae3a9cc5eea929</guid>
+<pubDate>Sun, 08 Mar 2026 13:55:49 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630485</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Kung Fu Panda 3 USA UHD TrueHD7 1 DoVi HDR10 10bit<br/>年份: 2016<br/>分辨率: 2160p<br/>来源: bluray<br/>HDR: hdr<br/>编码: hevc<br/>发布组: CHD<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630485">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630485</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630485">https://audiences.me/details.php?id=630485</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630485" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Pursuit of Jade S01E01-E07 2026 2160p iQ WEB-DL H.265 DDP5.1.ADWeb[逐玉 第01-07集 | 类型: 剧情 / 爱情 / 古装 主演: 田曦薇 / 张凌赫 / 任豪 / 孔雪儿 / 邓凯 / 李卿 / 喻钟黎 / 刘琳  ][8.17 GB]</title>
+<link>https://audiences.me/details.php?id=630484</link>
+<guid isPermaLink="false">52d24203ebd754c3a3dff943b8d6592f13dafa9d</guid>
+<pubDate>Sun, 08 Mar 2026 13:52:55 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630484</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Pursuit of Jade E07 iQ H 265 ADWeb<br/>年份: 2026<br/>季: S01<br/>集: E01<br/>分辨率: 2160p<br/>来源: webdl<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630484">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630484</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630484">https://audiences.me/details.php?id=630484</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630484" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Emily in Paris S01 2160p NF WEB-DL DDP 5.1 DV H.265-Kitsune[艾米丽在巴黎  [第一季] / 艾蜜莉在巴黎 | 类型：剧情 喜剧 爱情][37.15 GB]</title>
+<link>https://audiences.me/details.php?id=630483</link>
+<guid isPermaLink="false">6ba9651da33e30c7c6cc5b113a986e6c5a37160b</guid>
+<pubDate>Sun, 08 Mar 2026 13:25:16 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630483</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Emily in Paris NF 5 1 H 265 Kitsune 艾蜜莉在巴黎 类型 剧情 喜<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: dv<br/>发布组: Kitsune<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630483">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630483</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630483">https://audiences.me/details.php?id=630483</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630483" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]The Practical Guide to Love S01E03 2026 1080p MAX WEB-DL H.265 DDP2.0-ADWeb[未婚男女的效率恋爱 미혼한 사람들의 효율적인 만남 第03集 | 类型: 剧情 主演: 韩志旼 / 朴成焄 / 李基泽][816.81 MB]</title>
+<link>https://audiences.me/details.php?id=630482</link>
+<guid isPermaLink="false">02cde876bee398d54ebf7e77d7122845f88ce3f1</guid>
+<pubDate>Sun, 08 Mar 2026 13:12:11 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630482</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: The Practical Guide to Love MAX H 265<br/>年份: 2026<br/>季: S01<br/>集: E03<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630482">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630482</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630482">https://audiences.me/details.php?id=630482</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630482" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]American Classic S01E03 2160p WEB h265-ETHEL[美国经典 [第一季 第03集] | 类型：喜剧 | 2026][3.52 GB]</title>
+<link>https://audiences.me/details.php?id=630481</link>
+<guid isPermaLink="false">9f7e11369775dbb5aafc4fb0b1a75d2840deba31</guid>
+<pubDate>Sun, 08 Mar 2026 13:06:08 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630481</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: American Classic WEB ETHEL 类型 喜剧<br/>年份: 2026<br/>季: S01<br/>集: E03<br/>分辨率: 2160p<br/>编码: hevc<br/>发布组: ETHEL<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630481">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630481</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630481">https://audiences.me/details.php?id=630481</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630481" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]American Classic S01E03 2160p AMZN WEB-DL DDP 5.1 H.265-RAWR[美国经典 [第一季 第03集] | 类型：喜剧 | 2026][3.52 GB]</title>
+<link>https://audiences.me/details.php?id=630479</link>
+<guid isPermaLink="false">90b52559c9a78a42662d1d49301dc2670067406d</guid>
+<pubDate>Sun, 08 Mar 2026 13:05:47 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630479</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: American Classic AMZN 5 1 H 265 RAWR 类型 喜剧<br/>年份: 2026<br/>季: S01<br/>集: E03<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: RAWR<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630479">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630479</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630479">https://audiences.me/details.php?id=630479</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630479" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Sweet Home S02 2160p NF WEB-DL H.265 DDP5.1-ADWeb[甜蜜家园 스위트홈 全8集 | 类型: 剧情 / 惊悚 主演: 宋江 / 李施吟 / 李到晛 / 李阵郁 / 朴珪瑛 / 高旻示 / 金南熙][56.66 GB]</title>
+<link>https://audiences.me/details.php?id=501964</link>
+<guid isPermaLink="false">8585e8fb8d589abf2489baba6981e4296116a188</guid>
+<pubDate>Sat, 12 Jul 2025 08:54:13 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=501964</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Sweet Home NF H 265<br/>季: S02<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=501964">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=501964</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=501964">https://audiences.me/details.php?id=501964</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=501964" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E24 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第24集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][211.03 MB]</title>
+<link>https://audiences.me/details.php?id=630472</link>
+<guid isPermaLink="false">dd9fabef317ca2e4ec94a07ffd425419baf416f6</guid>
+<pubDate>Sun, 08 Mar 2026 12:11:50 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630472</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E24<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630472">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630472</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630472">https://audiences.me/details.php?id=630472</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630472" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E24 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第24集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][45.51 MB]</title>
+<link>https://audiences.me/details.php?id=630471</link>
+<guid isPermaLink="false">bade08411374551be3d4ba7062f21bcb6757ea57</guid>
+<pubDate>Sun, 08 Mar 2026 12:11:31 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630471</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E24<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630471">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630471</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630471">https://audiences.me/details.php?id=630471</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630471" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E23 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第23集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][236.08 MB]</title>
+<link>https://audiences.me/details.php?id=630470</link>
+<guid isPermaLink="false">2c0f4dd1583f75b39e1dc629189536c82b0fee4d</guid>
+<pubDate>Sun, 08 Mar 2026 12:11:10 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630470</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E23<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630470">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630470</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630470">https://audiences.me/details.php?id=630470</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630470" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E23 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第23集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][50.24 MB]</title>
+<link>https://audiences.me/details.php?id=630469</link>
+<guid isPermaLink="false">cbc0b05352082ccc737b61d852c30402057e73d2</guid>
+<pubDate>Sun, 08 Mar 2026 12:10:47 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630469</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E23<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630469">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630469</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630469">https://audiences.me/details.php?id=630469</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630469" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E22 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第22集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][210.03 MB]</title>
+<link>https://audiences.me/details.php?id=630466</link>
+<guid isPermaLink="false">5c3780f65657198236386c3aa887f1910fbf51eb</guid>
+<pubDate>Sun, 08 Mar 2026 12:09:06 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630466</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E22<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630466">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630466</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630466">https://audiences.me/details.php?id=630466</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630466" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[电影]Fatal Attraction 1987 UHD BluRay 2160p DV HDR x265 10bit TrueHD 5.1-UBits[致命诱惑 / 孽缘(港) / 致命的吸引力(台 ) / 致命的诱惑 / Affairs of the Heart | 剧情 / 惊悚 | [简中/繁中/英文字幕] [杜比视界]][21.41 GB]</title>
+<link>https://audiences.me/details.php?id=630465</link>
+<guid isPermaLink="false">489df4bd148b9fb1673930134c300b831e427e03</guid>
+<pubDate>Sun, 08 Mar 2026 12:06:30 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630465</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Fatal Attraction UHD 10bit 5 1 UBits<br/>年份: 1987<br/>分辨率: 2160p<br/>来源: bluray<br/>HDR: dv<br/>编码: hevc<br/>发布组: UBits<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630465">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630465</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630465">https://audiences.me/details.php?id=630465</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630465" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E22 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第22集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][42.56 MB]</title>
+<link>https://audiences.me/details.php?id=630464</link>
+<guid isPermaLink="false">b91fb119c62c6939f9c033b4ef77880ede616a74</guid>
+<pubDate>Sun, 08 Mar 2026 12:04:18 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630464</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E22<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630464">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630464</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630464">https://audiences.me/details.php?id=630464</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630464" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E21 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第21集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][231.85 MB]</title>
+<link>https://audiences.me/details.php?id=630463</link>
+<guid isPermaLink="false">bfc3f2e59b5178f9e69cd7e2bfb837a3a598450d</guid>
+<pubDate>Sun, 08 Mar 2026 12:03:54 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630463</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E21<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630463">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630463</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630463">https://audiences.me/details.php?id=630463</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630463" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E21 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第21集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][47.92 MB]</title>
+<link>https://audiences.me/details.php?id=630462</link>
+<guid isPermaLink="false">d146fc4a6372b598c198387d5b31557ee41d44e2</guid>
+<pubDate>Sun, 08 Mar 2026 12:03:31 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630462</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E21<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630462">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630462</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630462">https://audiences.me/details.php?id=630462</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630462" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E20 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第20集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][224.22 MB]</title>
+<link>https://audiences.me/details.php?id=630460</link>
+<guid isPermaLink="false">afb53c4038b4706caede22c4ab558cfcea1d2dcc</guid>
+<pubDate>Sun, 08 Mar 2026 12:03:06 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630460</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E20<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630460">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630460</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630460">https://audiences.me/details.php?id=630460</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630460" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E20 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第20集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][48.17 MB]</title>
+<link>https://audiences.me/details.php?id=630459</link>
+<guid isPermaLink="false">f8bfa95f9cbd568148807f815a9ce5b308bd3a35</guid>
+<pubDate>Sun, 08 Mar 2026 12:02:43 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630459</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E20<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630459">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630459</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630459">https://audiences.me/details.php?id=630459</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630459" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E19 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第19集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][272.17 MB]</title>
+<link>https://audiences.me/details.php?id=630458</link>
+<guid isPermaLink="false">fb93c40988f527545d31236c41cfee7bb7275267</guid>
+<pubDate>Sun, 08 Mar 2026 12:02:19 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630458</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E19<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630458">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630458</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630458">https://audiences.me/details.php?id=630458</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630458" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E19 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第19集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][51.56 MB]</title>
+<link>https://audiences.me/details.php?id=630457</link>
+<guid isPermaLink="false">5037430e0804d169945dd23ca40fefdf5ac39335</guid>
+<pubDate>Sun, 08 Mar 2026 12:01:53 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630457</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E19<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630457">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630457</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630457">https://audiences.me/details.php?id=630457</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630457" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E18 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第18集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][396.99 MB]</title>
+<link>https://audiences.me/details.php?id=630456</link>
+<guid isPermaLink="false">c9409eaa9efa538e81c67e58a611bddfb7d6dc15</guid>
+<pubDate>Sun, 08 Mar 2026 12:01:29 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630456</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E18<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630456">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630456</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630456">https://audiences.me/details.php?id=630456</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630456" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E18 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第18集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][72.88 MB]</title>
+<link>https://audiences.me/details.php?id=630455</link>
+<guid isPermaLink="false">e5da93b7d750102bc064968ea9a75c533190a332</guid>
+<pubDate>Sun, 08 Mar 2026 12:01:03 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630455</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E18<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630455">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630455</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630455">https://audiences.me/details.php?id=630455</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630455" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E17 2026 2160p WEB-DL H265 AAC-ADWeb[藏匿爱意 第17集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][262.57 MB]</title>
+<link>https://audiences.me/details.php?id=630454</link>
+<guid isPermaLink="false">da19a8cf2351f5ac3033539d10c8ea17492bd530</guid>
+<pubDate>Sun, 08 Mar 2026 12:00:39 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630454</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E17<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630454">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630454</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630454">https://audiences.me/details.php?id=630454</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630454" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Forbidden Love S01E17 2026 1080p WEB-DL H265 AAC-ADWeb[藏匿爱意 第17集 | 类型：爱情 | 主演：姚冠宇 周子歆 梁凯程 *云视听极光*][53.28 MB]</title>
+<link>https://audiences.me/details.php?id=630452</link>
+<guid isPermaLink="false">1d9007edeb32094e42a8ce5c8d045aadbaa9a348</guid>
+<pubDate>Sun, 08 Mar 2026 12:00:14 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630452</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Forbidden Love<br/>年份: 2026<br/>季: S01<br/>集: E17<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630452">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630452</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630452">https://audiences.me/details.php?id=630452</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630452" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]The Inescapable S01E12 2026 2160p WEB-DL H265 AAC-ADWeb[锁簪 第12集 | 类型：悬疑 古装 | 主演：管栎 付柔美琦 杨宇斌 何昊阳 小豆花 *云视听极光*][351.77 MB]</title>
+<link>https://audiences.me/details.php?id=630438</link>
+<guid isPermaLink="false">38e2da62da90889e64a30bc7b93a93d10472eea3</guid>
+<pubDate>Sun, 08 Mar 2026 11:54:40 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630438</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: The Inescapable<br/>年份: 2026<br/>季: S01<br/>集: E12<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630438">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630438</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630438">https://audiences.me/details.php?id=630438</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630438" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[电影]Ocean's Twelve 2004 2160p USA UHD Blu-Ray x265 10bit HDR10 DTS-HD MA 5.1-UBits[十二罗汉 / 瞒天过海2：长驱直入(台) / 盗海豪情12瞒徒(港) | 惊悚 / 犯罪 | [简体/繁体/简英双语/繁英双语中文SUP字幕] [HDR]][26.75 GB]</title>
+<link>https://audiences.me/details.php?id=630437</link>
+<guid isPermaLink="false">d7e9f19206adfdb570df4d5816299a9cc3887cbc</guid>
+<pubDate>Sun, 08 Mar 2026 11:54:17 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630437</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Ocean s Twelve USA UHD Blu Ray 10bit HDR10 MA 5 1 <br/>年份: 2004<br/>分辨率: 2160p<br/>HDR: hdr<br/>编码: hevc<br/>发布组: UBits<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630437">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630437</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630437">https://audiences.me/details.php?id=630437</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630437" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]Jin Ji De Ye Chen S01E16 2026 2160p WEB-DL H265 AAC-ADWeb[进击的叶辰 第16集 | 类型：剧情 喜剧 动作 | 主演：任豪 李沐宸 | 上门龙婿 *云视听极光*][337.60 MB]</title>
+<link>https://audiences.me/details.php?id=630435</link>
+<guid isPermaLink="false">cd09c8a4d8e505365281adfc1dda990c1ff3f3df</guid>
+<pubDate>Sun, 08 Mar 2026 11:53:20 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630435</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: Jin Ji De Ye Chen<br/>年份: 2026<br/>季: S01<br/>集: E16<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630435">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630435</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630435">https://audiences.me/details.php?id=630435</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630435" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[剧集]The Inescapable S01E11 2026 2160p WEB-DL H265 AAC-ADWeb[锁簪 第11集 | 类型：悬疑 古装 | 主演：管栎 付柔美琦 杨宇斌 何昊阳 小豆花 *云视听极光*][476.61 MB]</title>
+<link>https://audiences.me/details.php?id=630430</link>
+<guid isPermaLink="false">40ccf9f2a29762efe7641430010efdd5b54be2e3</guid>
+<pubDate>Sun, 08 Mar 2026 11:50:54 +0800</pubDate>
+<source>audiences</source>
+<description>来源: audiences | 种子: https://audiences.me/download.php?id=630430</description>
+<content:encoded><![CDATA[<p><b>来源:</b> audiences</p><p><b>解析信息:</b><br/>名称: The Inescapable<br/>年份: 2026<br/>季: S01<br/>集: E11<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: ADWeb<br/></p><p><b>下载:</b> <a href="https://audiences.me/download.php?id=630430">点击下载种子</a></p><p><b>种子链接:</b> https://audiences.me/download.php?id=630430</p><p><b>详情页:</b> <a href="https://audiences.me/details.php?id=630430">https://audiences.me/details.php?id=630430</a></p>]]></content:encoded>
+<enclosure url="https://audiences.me/download.php?id=630430" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Minning Town S01 2021 2160p WEB-DL H.265 DDP 2.0 8Audio 2Audio-OurTV[闽宁镇/Minning Town | 类别：剧情][154.32 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530709</link>
+<guid isPermaLink="false">43651f3c4d7ef2f6679e05b3a0c51ae276e25836</guid>
+<pubDate>Sun, 08 Mar 2026 17:41:08 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530709</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Minning Town H 265 2 0 8Audio 2Audio<br/>年份: 2021<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2630904628.jpg" /&gt;&lt;span style="color: #666666;"&gt;加载中...&lt;/span&gt;&lt;br /&gt;◎译　　名　闽宁镇/Minning Town&lt;br /&gt;◎片　　名　山海情&lt;br /&gt;◎年　　代　2021&lt;br /&gt;◎产　　地　中国大陆&lt;br /&gt;◎类　　别　剧情&lt;br /&gt;◎语　　言　汉语普通话/西北方言&lt;br /&gt;◎上映日期　2021-01-12(中国大陆)&lt;br /&gt;◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt12788432/"&gt;https</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530709">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530709</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530709">https://ptchdbits.co/details.php?id=530709</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530709" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Loving Strangers 2026 S01 Complete 2160p WEB-DL 60Fps HQ HDR10 H.265 10bit DTS5.1-UBWEB[秋雪漫过的冬天/我的大叔(中国版)/谢谢你听见我/你一定要幸福呀 | 全28集 | 导演: 韩天 | 主演: 赵又廷 张子枫 江一燕 张超 [国语/中字] [4K60FPS HQ版]][220.47 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530708</link>
+<guid isPermaLink="false">a63a1f25be2ddfed29b04ef230022a523308eb93</guid>
+<pubDate>Sun, 08 Mar 2026 17:24:49 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530708</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Loving Strangers Complete 60Fps HQ HDR10 H 265 10b<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img alt="image" src="https://m.media-amazon.com/images/M/MV5BNjdkZTE3MmMtMjQ5Yy00ZDU1LWFlMzMtZTRjOGJhNmUwMzUxXkEyXkFqcGc@._V1_FMjpg_UY3500_.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;❁ 片　　名:　秋雪漫过的冬天&lt;br /&gt;❁ 译　　名:　Loving Strangers / 你一定要幸福呀 / 我的大叔(中国版) / 谢谢你听见我&lt;br /&gt;❁ 年　　代:　2026&lt;br /&gt;❁ 产　　地:　中国大陆&lt;br /&gt;❁ 类　　别:　剧情&lt;br /&gt;❁ 语　　言:　汉语普通话&lt;br /&gt;❁ 上映日期:　2026-01-10(中国大陆)&lt;br /&gt;❁ IMDb评分:　7.6 / 10 from 36 user</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530708">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530708</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530708">https://ptchdbits.co/details.php?id=530708</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530708" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]The Beauty 2026 S01 Complete 2160p Disney+ WEB-DL HEVC 10bit DV DDP5.1 2Audios-QHstudIo[美丽毒素 / 美人 全11集 【4K高码率 | 杜比视界 | 英语+杜比环绕音 | 内封(官方)简繁英字幕】【导演：瑞恩·墨菲 | 主演：埃文·彼得斯 | 丽贝卡·豪尔 | 阿什顿·库彻 | 杰里米·波普】QHstudIo小组作品][47.70 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530706</link>
+<guid isPermaLink="false">bcb475aaf5453581c06304f154483419b1761b42</guid>
+<pubDate>Sun, 08 Mar 2026 17:13:06 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530706</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: The Beauty Complete Disney 10bit 2Audios<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: dv<br/>编码: hevc<br/>发布组: QHstudIo<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;HDDolby官组作品，源站种子ID：229566，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: Black;"&gt;&lt;font size="5"&gt;高清杜比 &lt;b&gt;&lt;span style="color: DarkOrange;"&gt;QHstudIo小组&lt;b&gt;&lt;span style="color: Black;"&gt;出品！&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;font size="4"&gt;禁止以非PT方式转载分享，非必要禁止删改本页信息，包括但不限于本说明、下示截图及mediainfo&lt;/font&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;img alt="image" src="https://imglink.win/i</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530706">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530706</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530706">https://ptchdbits.co/details.php?id=530706</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530706" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Sunny Nights S01 2025 2160p STAN WEB-DL HDR H.265 DDP 5.1-RAWR[阳光灿烂的夜晚 全8集][48.12 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530703</link>
+<guid isPermaLink="false">6ef57523096e89d1ee62a36e119fedd6456136e8</guid>
+<pubDate>Sun, 08 Mar 2026 16:43:37 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530703</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Sunny Nights STAN H 265 5 1<br/>年份: 2025<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>发布组: RAWR<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hqwab0.jpg" /&gt;&lt;br /&gt;◎译　　名　阳光灿烂的夜晚&lt;br /&gt;◎片　　名　Sunny Nights&lt;br /&gt;◎年　　代　2025&lt;br /&gt;◎产　　地　澳大利亚 / 美国&lt;br /&gt;◎类　　别　剧情 / 喜剧&lt;br /&gt;◎语　　言　英语&lt;br /&gt;◎上映日期　2025-12-25(澳大利亚)&lt;br /&gt;◎IMDb评星  ★★★★★★✦☆☆☆&lt;br /&gt;◎IMDb评分  6.3/10 from 271 users&lt;br /&gt;◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt32881046/"&gt;https://www.imdb.com/title/tt32881046/&lt;/a&gt;&lt;br /&gt;◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/36809714/"&gt;https://movie.douban.com/subject/36809714</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530703">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530703</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530703">https://ptchdbits.co/details.php?id=530703</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530703" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Sunny Nights S01 2025 1080p STAN WEB-DL H.264 DDP 5.1-RAWR[阳光灿烂的夜晚 全8集][12.80 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530701</link>
+<guid isPermaLink="false">d3220565db96402a2dbe1d022696114358ab9b87</guid>
+<pubDate>Sun, 08 Mar 2026 16:40:58 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530701</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Sunny Nights STAN H 264 5 1<br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: RAWR<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hqwab0.jpg" /&gt;&lt;br /&gt;◎译　　名　阳光灿烂的夜晚&lt;br /&gt;◎片　　名　Sunny Nights&lt;br /&gt;◎年　　代　2025&lt;br /&gt;◎产　　地　澳大利亚 / 美国&lt;br /&gt;◎类　　别　剧情 / 喜剧&lt;br /&gt;◎语　　言　英语&lt;br /&gt;◎上映日期　2025-12-25(澳大利亚)&lt;br /&gt;◎IMDb评星  ★★★★★★✦☆☆☆&lt;br /&gt;◎IMDb评分  6.3/10 from 271 users&lt;br /&gt;◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt32881046/"&gt;https://www.imdb.com/title/tt32881046/&lt;/a&gt;&lt;br /&gt;◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/36809714/"&gt;https://movie.douban.com/subject/36809714</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530701">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530701</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530701">https://ptchdbits.co/details.php?id=530701</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530701" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]The Inner Eye 2026 S01 Complete 2160p WEB-DL H.265 AAC-UBWEB[女神蒙上眼 | 全30集 | 导演: 刘一志 | 主演: 辛芷蕾 林雨申 [国语/中字] [4K版]][56.00 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530700</link>
+<guid isPermaLink="false">8ea06009936ed43e8bfa2408ee7fc2bb548362f5</guid>
+<pubDate>Sun, 08 Mar 2026 16:30:22 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530700</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: The Inner Eye Complete H 265 UBWEB<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;❁ 片　　名:　女神蒙上眼&lt;br /&gt;❁ 译　　名:　The Inner Eye&lt;br /&gt;❁ 年　　代:　2026&lt;br /&gt;❁ 产　　地:　中国大陆&lt;br /&gt;❁ 类　　别:　剧情&lt;br /&gt;❁ 语　　言:　汉语普通话&lt;br /&gt;❁ 上映日期:　2026-01-25(中国大陆)&lt;br /&gt;❁ IMDb链接:　&lt;a class="faqlink" href="https://www.imdb.com/title/tt36968175/"&gt;https://www.imdb.com/title/tt36968175/&lt;/a&gt;&lt;br /&gt;❁ 豆瓣评分:　7.5 / 10 from 16361 users&lt;br /&gt;❁ 豆瓣链接:　&lt;a class="faqlink" href="https://movie.douban.com/subject</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530700">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530700</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530700">https://ptchdbits.co/details.php?id=530700</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530700" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Our Dazzling Days 2026 S01 Complete 2160p WEB-DL 60Fps HDRVivid H.265 10bit DDP5.1-UBWEB[岁月有情时/烟花少年 / 烟花与少年 / 子弟 | 全30集 | 导演: 黄伟 | 主演: 黄景瑜 关晓彤 徐若晗 王天辰 果靖霖 [国语/简繁中字] [软字幕版] [4K60FPS版] *菁彩HDR*][57.51 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530699</link>
+<guid isPermaLink="false">941c682f84c19daaeb25b255a38bcb32423714e4</guid>
+<pubDate>Sun, 08 Mar 2026 16:29:29 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530699</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Our Dazzling Days Complete 60Fps H 265 10bit UBWEB<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr+<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;❁ 片　　名:　岁月有情时&lt;br /&gt;❁ 译　　名:　Our Dazzling Days / 子弟 / 烟花与少年 / 烟花少年&lt;br /&gt;❁ 年　　代:　2026&lt;br /&gt;❁ 产　　地:　中国大陆&lt;br /&gt;❁ 类　　别:　剧情 / 历史&lt;br /&gt;❁ 语　　言:　汉语普通话&lt;br /&gt;❁ 上映日期:　2026-02-20(中国大陆)&lt;br /&gt;❁ IMDb链接:　&lt;a class="faqlink" href="https://www.imdb.com/title/tt32475213/"&gt;https://www.imdb.com/title/tt32475213/&lt;/a&gt;&lt;br /&gt;❁ 豆瓣评分:　0 / 10 from 0 users&lt;br /&gt;❁ 豆瓣链接:　&lt;a class="faqlink" href="https://m</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530699">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530699</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530699">https://ptchdbits.co/details.php?id=530699</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530699" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]The Legend of Kaifeng S01 1080p HamiVideo WEB-DL AAC2.0 H.264-CHDWEB[开封府/开封府传奇/大宋惊世奇案 全58集 | 类型:剧情/悬疑/古装 | 内嵌中字][144.39 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530698</link>
+<guid isPermaLink="false">e5c8a72bb95d45822166c199344da6a3b9fdebcb</guid>
+<pubDate>Sun, 08 Mar 2026 16:20:08 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530698</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: The Legend of Kaifeng HamiVideo AAC2 0 H 264<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: CHDWEB<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://shewang.net/images/2026/03/08/1772958104.1756968.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;◎译　　名　开封府 / 开封府传奇 / 大宋惊世奇案&lt;br /&gt;◎年　　代　2017&lt;br /&gt;◎产　　地　中国大陆&lt;br /&gt;◎类　　别　剧情 / 悬疑 / 古装&lt;br /&gt;◎语　　言　汉语普通话&lt;br /&gt;◎上映日期　2017-07-17(中国大陆) / 2018-07-16(上星)&lt;br /&gt;◎IMDb链接　&lt;a class="faqlink" href="https://www.imdb.com/title/tt11428176/"&gt;https://www.imdb.com/title/tt11428176/&lt;/a&gt;&lt;br /&gt;◎豆瓣评分　6.5/10 (11126人评价)&lt;br /&gt;◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26688489/"&gt;https://movie.douban.com/su</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530698">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530698</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530698">https://ptchdbits.co/details.php?id=530698</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530698" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TV Series]Do You Like Brahms S01 1080p HamiVideo WEB-DL AAC2.0 H.264-CHDWEB[韩剧：你喜欢勃拉姆斯吗 브람스를 좋아하세요/你喜欢布拉姆斯吗(台) 全16集 | 类型:剧情/音乐 | 内嵌中字][54.83 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530696</link>
+<guid isPermaLink="false">5a1d0c96b9c1f670ca257d718b0a4cf44d33bb2c</guid>
+<pubDate>Sun, 08 Mar 2026 16:15:55 +0800</pubDate>
+<source>ptchdbits</source>
+<description>来源: ptchdbits | 种子: https://ptchdbits.co/download.php?id=530696</description>
+<content:encoded><![CDATA[<p><b>来源:</b> ptchdbits</p><p><b>解析信息:</b><br/>名称: Do You Like Brahms HamiVideo AAC2 0 H 264<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: CHDWEB<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://shewang.net/images/2026/03/08/1772957712.3189576.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;◎译　　名　你喜欢勃拉姆斯吗 브람스를 좋아하세요 / 你喜欢布拉姆斯吗(台) / Do You Like Brahms?&lt;br /&gt;◎年　　代　2020&lt;br /&gt;◎产　　地　韩国&lt;br /&gt;◎类　　别　剧情 / 音乐&lt;br /&gt;◎语　　言　韩语&lt;br /&gt;◎上映日期　2020-08-31(韩国)&lt;br /&gt;◎IMDb链接　&lt;a class="faqlink" href="https://www.imdb.com/title/tt12867750/"&gt;https://www.imdb.com/title/tt12867750/&lt;/a&gt;&lt;br /&gt;◎豆瓣评分　7.9/10 (11040人评价)&lt;br /&gt;◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/34972372/"&gt;https://movie.douban.</p><p><b>下载:</b> <a href="https://ptchdbits.co/download.php?id=530696">点击下载种子</a></p><p><b>种子链接:</b> https://ptchdbits.co/download.php?id=530696</p><p><b>详情页:</b> <a href="https://ptchdbits.co/details.php?id=530696">https://ptchdbits.co/details.php?id=530696</a></p>]]></content:encoded>
+<enclosure url="https://ptchdbits.co/download.php?id=530696" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[Anime 2160p]Shrouding the Heavens 2024 S02 Complete 2160p WEB-DL HEVC DDP 2Audios-QHstudIo[遮天 第二季 / 遮天 第53-104集 / 遮天第二季：初芒 / 遮天 动画版第二季 / 遮天 年番2 全52集【杜比音效】【配音: 徐翔 | 李蝉妃 | 谢莹 | 阮从青 | 张沛】][66.01 GB]</title>
+<link>https://hdhome.org/details.php?id=238566</link>
+<guid isPermaLink="false">51cbf826c478d8753b7f5d17009ae47756df60fc</guid>
+<pubDate>Fri, 11 Apr 2025 18:38:55 +0800</pubDate>
 <source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282671</description>
-<enclosure url="https://hdhome.org/download.php?id=282671" type="application/x-bittorrent" />
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=238566</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Shrouding the Heavens Complete 2Audios<br/>年份: 2024<br/>季: S02<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: QHstudIo<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;HDDolby官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: black;"&gt;&lt;font size="5"&gt;高清杜比 &lt;b&gt;&lt;span style="color: darkorange;"&gt;QHstudIo小组&lt;b&gt;&lt;span style="color: black;"&gt;出品！&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;&lt;font size="4"&gt;禁止以非PT方式转载分享，非必要禁止删改本页信息，包括但不限于本说明、下示截图及mediainfo&lt;/font&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;img alt="image" src="https://img.ptdream.net/o/ptdream-img/2025/04/09/Co</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=238566">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=238566</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=238566">https://hdhome.org/details.php?id=238566</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=238566" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[Anime 2160p]Shrouding the Heavens 2023 S01 Complete 2160p WEB-DL HEVC DDP 3Audios-QHstudIo[遮天 第一季 / 遮天 第01-53集 / 遮天第一季：缘起 / 遮天 动画版 / 遮天 动画版第一季 / 遮天 年番1 全53集【杜比音效】【配音: 徐翔 | 赵乾景 | 吴磊 | 张若瑜 | 张欣】QHstudIo小组作品][54.33 GB]</title>
+<link>https://hdhome.org/details.php?id=241572</link>
+<guid isPermaLink="false">857de0eb32748019f8df9924bb80517aa0fd8e43</guid>
+<pubDate>Wed, 14 May 2025 15:26:00 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=241572</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Shrouding the Heavens Complete 3Audios<br/>年份: 2023<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>编码: hevc<br/>发布组: QHstudIo<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;HDDolby官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: black;"&gt;&lt;font size="5"&gt;高清杜比 &lt;b&gt;&lt;span style="color: darkorange;"&gt;QHstudIo小组&lt;b&gt;&lt;span style="color: black;"&gt;出品！&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;&lt;font size="4"&gt;禁止以非PT方式转载分享，非必要禁止删改本页信息，包括但不限于本说明、下示截图及mediainfo&lt;/font&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;img alt="image" src="https://img.ptdream.net/o/ptdream-img/2024/12/26/Co</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=241572">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=241572</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=241572">https://hdhome.org/details.php?id=241572</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=241572" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVSeries 1080p]My Love from the Stars 2013 Complete 1080p Blu-ray DTS-HD MA 2.0 x265-HDH[[来自星星的你 全21集][原生官方中字/导演剪辑加长版]  **HEVC 10bit版本**][109.97 GB]</title>
+<link>https://hdhome.org/details.php?id=140658</link>
+<guid isPermaLink="false">cc0c6b3cbcba14603f5de129795661476612fcbb</guid>
+<pubDate>Sun, 30 Oct 2022 20:18:59 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=140658</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: My Love from the Stars Complete Blu ray MA 2 0 HDH<br/>年份: 2013<br/>分辨率: 1080p<br/>编码: hevc<br/>发布组: HDH<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2172396383.jpg" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎译　　名　来自星星的你/从星星来的你/来自星星的男人/My Love From the Stars/You Who Came from the Stars&lt;br /&gt;
+◎片　　名　별에서 온 그대&lt;br /&gt;
+◎年　　代　2013&lt;br /&gt;
+◎产　　地　韩国&lt;br /&gt;
+◎类　　别　爱情&lt;br /&gt;
+◎语　　言　韩语&lt;br /&gt;
+◎上映日期　2013-12-18(韩国)&lt;br /&gt;
+◎IMDb评分 &amp;nbsp;8.2/10 from 13085 users&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt3469052/" target="_blank"&gt;https://www.imdb.com/title/tt3469052/&lt;/a&gt;&lt;b</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=140658">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=140658</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=140658">https://hdhome.org/details.php?id=140658</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=140658" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVShow 1080p]My Little Old Boy S01 2016 1080p Viu WEB-DL H.264 AAC-ADWeb[我家的熊孩子 미운 우리 새끼 Mom's Diary (2024年度打包) 全49集 | 类型: 真人秀 / 脱口秀 主演: 申东烨 / 徐章勋 / 韩惠轸 / 金建模 *总第375-423集* *内封简繁字幕*][113.14 GB]</title>
+<link>https://hdhome.org/details.php?id=282686</link>
+<guid isPermaLink="false">5b92ecba5e5da20e3da01092b7f363cf35961fc6</guid>
+<pubDate>Sun, 08 Mar 2026 17:20:39 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282686</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: My Little Old Boy Viu H 264<br/>年份: 2016<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: ADWeb<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;Audiences官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;S01E375-S01E423&lt;/fieldset&gt;&lt;br /&gt;
+&lt;img alt="image" src="https://cache.springsunday.net/img9.doubanio.com/view/photo/l_ratio_poster/public/p2378146788.jpg" /&gt;&lt;br /&gt;
+◎译　　名　我家的熊孩子&lt;br /&gt;
+◎片　　名　미운 우리 새끼&lt;br /&gt;
+◎年　　代　2016&lt;br /&gt;
+◎产　　地　韩国&lt;br /&gt;
+◎类　　型　电视剧&lt;br /&gt;
+◎类　　别　真人秀 / 脱口秀&lt;br /&gt;
+◎语　　言　&lt;br /&gt;
+◎上映日期　2016-08-26(韩国)&lt;br /&gt;
+◎豆瓣评分　8.8/10 from 2,037 </p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282686">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282686</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282686">https://hdhome.org/details.php?id=282686</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=282686" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVSeries 2160p]The Tale of Rose S01 2024 2160p WEB-DL H.265 10bit DV DDP2.0-OurTV[玫瑰的故事 / 玫瑰故事 / Full Bloom / The Rose‘s Tale 全38集+番外 | 类][100.67 GB]</title>
+<link>https://hdhome.org/details.php?id=282684</link>
+<guid isPermaLink="false">54c4a0ca4cc7948cc04f6bd8d4f8c9f0df2fea81</guid>
+<pubDate>Sun, 08 Mar 2026 17:00:33 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282684</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Tale of Rose H 265 10bit<br/>年份: 2024<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: dv<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://www.themoviedb.org/t/p/w1280/stxOoW8qTj3JdSX8ENlN6daaCSo.jpg" /&gt;&lt;br /&gt;
+◎译　　名　玫瑰故事/Full Bloom/The Rose‘s Tale/The Tale of Rose&lt;br /&gt;
+◎片　　名　玫瑰的故事&lt;br /&gt;
+◎年　　代　2024&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2024-06-08(中国大陆)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt29930328/"&gt;https://www.imdb.</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282684">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282684</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282684">https://hdhome.org/details.php?id=282684</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=282684" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVSeries 2160p]Minning Town S01 2021 2160p WEB-DL H.265 DDP2.0 2Audio-OurTV[山海情 / 闽宁镇 全23集 | 类型: 剧情 | 导演: 孔笙 / 孙墨龙 | 主演: 黄轩 / 张嘉益 / 闫妮 / 黄觉 / 姚晨 | [国语/内嵌简中/4KHQ高码/杜比音效/原声配音双语]][154.32 GB]</title>
+<link>https://hdhome.org/details.php?id=282679</link>
+<guid isPermaLink="false">b48c9c9c31fd23df7f75353979c098ad9e34625e</guid>
+<pubDate>Sun, 08 Mar 2026 16:36:42 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282679</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Minning Town H 265 2Audio OurTV<br/>年份: 2021<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hq<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2630904628.jpg" /&gt;&lt;br /&gt;
+◎译　　名　闽宁镇/Minning Town&lt;br /&gt;
+◎片　　名　山海情&lt;br /&gt;
+◎年　　代　2021&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情&lt;br /&gt;
+◎语　　言　汉语普通话/西北方言&lt;br /&gt;
+◎上映日期　2021-01-12(中国大陆)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt12788432/" target="_blank"&gt;https://www.imdb.com/tit</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282679">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282679</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282679">https://hdhome.org/details.php?id=282679</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=282679" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVSeries 1080p]Pyramid Game S01 1080p friDay WEB-DL AAC2.0 H.264-CHDWEB[韩剧：金字塔游戏 全10集 /  피라미드 게임 (2024) | 类型:剧情 / 悬疑 | 内封中字][29.67 GB]</title>
+<link>https://hdhome.org/details.php?id=282675</link>
+<guid isPermaLink="false">0dbf16459492fa2153f95d30e70071d20b8106b9</guid>
+<pubDate>Sun, 08 Mar 2026 15:09:51 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282675</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Pyramid Game friDay AAC2 0 H 264<br/>年份: 2024<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: CHDWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;CHDBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://pic.imgdb.cn/item/65fc42a19f345e8d03a79a7c.png" /&gt;&lt;br /&gt;
+◎译　　名　金字塔游戏/Pyramid Game/The Pyramid Game&lt;br /&gt;
+◎片　　名　피라미드 게임&lt;br /&gt;
+◎年　　代　2024&lt;br /&gt;
+◎产　　地　韩国&lt;br /&gt;
+◎类　　别　剧情/悬疑&lt;br /&gt;
+◎语　　言　韩语&lt;br /&gt;
+◎上映日期　2024-02-29(韩国)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt29311421/"&gt;https://www.imdb.com/title/tt29311421/&lt;/a&gt;&lt;br </p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282675">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282675</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282675">https://hdhome.org/details.php?id=282675</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=282675" type="application/x-bittorrent" />
+</item>
+<item>
+<title>[TVSeries 2160p]Three-Body 2023 S01 Complete 2160p WEB-DL H.265 AAC-UBWEB[三体/三体(剧版) | 全30集 | 导演: 杨磊 | 主演: 张鲁一 于和伟 陈瑾 王子文 [国语/中字] [4K版]][25.46 GB]</title>
+<link>https://hdhome.org/details.php?id=282673</link>
+<guid isPermaLink="false">d800350b1645e933e39d0a89e8d55195e9f072d6</guid>
+<pubDate>Sun, 08 Mar 2026 15:01:26 +0800</pubDate>
+<source>hdhome</source>
+<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282673</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Three Body Complete H 265 UBWEB<br/>年份: 2023<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://cache.ubits.club/doubanio/aa4NgLLTanFQh_YOKZzN3ZrCiHI/p2886492021.jpg" /&gt;&lt;br /&gt;
+◎译　　名　Three-Body/三体(剧版)&lt;br /&gt;
+◎片　　名　三体&lt;br /&gt;
+◎年　　代　2023&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情 / 科幻&lt;br /&gt;
+◎语　　言　汉语普通话,英语&lt;br /&gt;
+◎上映日期　2023-01-15(中国大陆)&lt;br /&gt;
+◎IMDb评分 &amp;nbsp;7.6/10 from 7891 users&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt202</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282673">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282673</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282673">https://hdhome.org/details.php?id=282673</a></p>]]></content:encoded>
+<enclosure url="https://hdhome.org/download.php?id=282673" type="application/x-bittorrent" />
 </item>
 <item>
 <title>[Anime 1080p]Bob the Builder S20 2016 1080p HMAX WEB-DL x264 DD 2.0-FULCRUM[巴布工程师 第二十季 全52集][34.66 GB]</title>
@@ -112,6 +734,19 @@
 <pubDate>Sun, 08 Mar 2026 14:21:30 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282669</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder HMAX 2 0<br/>年份: 2016<br/>季: S20<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: FULCRUM<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第二十季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 20&lt;br /&gt;
+◎年　　代　2016&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎IMDb评星  ★★★★★✦☆☆☆☆&lt;br /&gt;
+◎IMDb评分  5.6/10 from 6,567 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt0262151/"&gt;https://www.imdb.com/title/tt0262151/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣评星　★★★★☆&lt;br /&gt;
+◎豆瓣评分　8.3/10 from 1,627 users&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.co</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282669">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282669</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282669">https://hdhome.org/details.php?id=282669</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282669" type="application/x-bittorrent" />
 </item>
 <item>
@@ -121,6 +756,17 @@
 <pubDate>Sun, 08 Mar 2026 14:10:42 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282666</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2005<br/>季: S10<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: tokar86a<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第十季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 10&lt;br /&gt;
+◎年　　代　2005&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816187/"&gt;https://movie.douban.com/subject/26816187/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温蒂共同经营者建筑王国，他们有很多得力的助手：红色推土机马克、黄色推土/挖土机耍酷、吊车小芙、压路机罗利、搅拌机狄丝，这些小伙伴在巴布的带领下共同建设着这座美好的城市，并且在这</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282666">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282666</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282666">https://hdhome.org/details.php?id=282666</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282666" type="application/x-bittorrent" />
 </item>
 <item>
@@ -130,6 +776,17 @@
 <pubDate>Sun, 08 Mar 2026 14:09:10 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282665</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2003<br/>季: S09<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第九季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 9&lt;br /&gt;
+◎年　　代　2003&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816186/"&gt;https://movie.douban.com/subject/26816186/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温蒂共同经营者建筑王国，他们有很多得力的助手：红色推土机马克、黄色推土/挖土机耍酷、吊车小芙、压路机罗利、搅拌机狄丝，这些小伙伴在巴布的带领下共同建设着这座美好的城市，并且在这一</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282665">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282665</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282665">https://hdhome.org/details.php?id=282665</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282665" type="application/x-bittorrent" />
 </item>
 <item>
@@ -139,6 +796,17 @@
 <pubDate>Sun, 08 Mar 2026 14:07:24 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282664</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2002<br/>季: S08<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第八季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 8&lt;br /&gt;
+◎年　　代　2002&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816185/"&gt;https://movie.douban.com/subject/26816185/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温蒂共同经营者建筑王国，他们有很多得力的助手：红色推土机马克、黄色推土/挖土机耍酷、吊车小芙、压路机罗利、搅拌机狄丝，这些小伙伴在巴布的带领下共同建设着这座美好的城市，并且在这一</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282664">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282664</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282664">https://hdhome.org/details.php?id=282664</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282664" type="application/x-bittorrent" />
 </item>
 <item>
@@ -148,6 +816,17 @@
 <pubDate>Sun, 08 Mar 2026 14:02:06 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282663</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2003<br/>季: S07<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第七季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 7&lt;br /&gt;
+◎年　　代　2003&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816184/"&gt;https://movie.douban.com/subject/26816184/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温蒂共同经营者建筑王国，他们有很多得力的助手：红色推土机马克、黄色推土/挖土机耍酷、吊车小芙、压路机罗利、搅拌机狄丝，这些小伙伴在巴布的带领下共同建设着这座美好的城市，并且在这一</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282663">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282663</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282663">https://hdhome.org/details.php?id=282663</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282663" type="application/x-bittorrent" />
 </item>
 <item>
@@ -157,6 +836,13 @@
 <pubDate>Sun, 08 Mar 2026 13:55:46 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282662</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Kung Fu Panda 3 USA TrueHD7 1 DoVi HDR10 10bit<br/>年份: 2016<br/>分辨率: 2160p<br/>来源: bluray<br/>HDR: hdr<br/>编码: hevc<br/>发布组: CHD<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;CHDBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;font size="4"&gt;&lt;b&gt;&lt;span style="color: red;"&gt;本资源及相关素材未经CHD许可 严禁提取发布或二压使用，请注意礼节!&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/fieldset&gt;&lt;br /&gt;
+　&lt;br /&gt;
+&lt;img alt="image" src="https://image.tmdb.org/t/p/original/oajNi4Su39WAByHI6EONu8G8HYn.jpg" /&gt;&lt;br /&gt;
+ &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br /&gt;
+◎译　　名　功夫熊猫3/熊猫阿宝3/阿宝正传3&lt;br /&gt;
+◎片　　名　Kun</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282662">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282662</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282662">https://hdhome.org/details.php?id=282662</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282662" type="application/x-bittorrent" />
 </item>
 <item>
@@ -166,6 +852,17 @@
 <pubDate>Sun, 08 Mar 2026 13:09:44 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282660</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Sugar and Lies Complete 60Fps MAXPLUS H 265 10bit <br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr+<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;img alt="image" src="https://img.ubits.club/images/2026/03/08/41f7a33c509d50db802a2912e157cc7b.jpg" /&gt;&lt;br /&gt;
+❁ 片　　名:　不一样的她之糖衣&lt;br /&gt;
+❁ 译　　名:　不一样的她 第二部 / 不一样的她2&lt;br /&gt;
+❁ 年　　代:　2026&lt;br /&gt;
+❁ 产　　地:　中国大陆&lt;br /&gt;
+❁ 类　　别:　爱情&lt;br /&gt;
+❁ 语　　言:　汉语普通话&lt;br /&gt;
+❁ 上映日期:　2026(未定)&lt;br /&gt;
+❁ 豆瓣评分:　0 / 10 from 0 users&lt;br /&gt;
+❁ 豆瓣链接:　&lt;a class="faqlink" href="https://movie.douban.com/subject/37390158/"&gt;https:</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282660">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282660</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282660">https://hdhome.org/details.php?id=282660</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282660" type="application/x-bittorrent" />
 </item>
 <item>
@@ -175,6 +872,18 @@
 <pubDate>Sun, 08 Mar 2026 12:55:28 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282659</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Embers H 265 10bit<br/>年份: 2025<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://www.themoviedb.org/t/p/w1280/fSFLyecpvSxHfkUH7XOmvdgxuWW.jpg" /&gt;&lt;br /&gt;
+◎译　　名　追迹&lt;br /&gt;
+◎片　　名　余烬之上&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情/悬疑/犯罪&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2025-02-08(中国大陆)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt29901919/"&gt;https://www.imdb.com/title/tt29901919/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣评分　/1</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282659">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282659</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282659">https://hdhome.org/details.php?id=282659</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282659" type="application/x-bittorrent" />
 </item>
 <item>
@@ -184,6 +893,22 @@
 <pubDate>Sun, 08 Mar 2026 12:41:39 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282658</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: An Lian Shi Ke Xing Xing Tang H 264 2 0<br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: ZmWeb<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;ZMPT官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎译　　名　暗恋是颗星星糖&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情 / 爱情 / 短片&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2025-08-29(中国大陆)&lt;br /&gt;
+◎豆瓣链接 &amp;nbsp; &amp;nbsp;&lt;a class="faqlink" href="https://movie.douban.com/subject/37464335"&gt;https://movie.douban.com/subject/37464335&lt;/a&gt;&lt;br /&gt;
+◎集　　数　100&lt;br /&gt;
+◎导　　演　傅逸聪&lt;br /&gt;
+◎主　　演　张翅&lt;br /&gt;
+至春禾&lt;br /&gt;
+&lt;br /&gt;
+ &amp;nbsp;&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/leg</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282658">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282658</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282658">https://hdhome.org/details.php?id=282658</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282658" type="application/x-bittorrent" />
 </item>
 <item>
@@ -193,6 +918,12 @@
 <pubDate>Sun, 08 Mar 2026 12:23:59 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282656</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bunshin Amazon H 264<br/>年份: 2012<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: HDCTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;HDChina官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;font size="3"&gt;&lt;span style="color: blue;"&gt;HDChina&lt;/span&gt;&lt;span style="color: red;"&gt;原创作品，转载压制请注意礼节，谢谢合作！&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: blue;"&gt;HDChina&lt;/span&gt;&lt;span style="color: red;"&gt; original works, Please specify your rip source in your rip/NFO note. Thanks!&lt;/span&gt;&lt;/font&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img2.doubanio.com</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282656">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282656</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282656">https://hdhome.org/details.php?id=282656</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282656" type="application/x-bittorrent" />
 </item>
 <item>
@@ -202,6 +933,17 @@
 <pubDate>Sun, 08 Mar 2026 11:54:58 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282655</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: How Dare You H 265 10bit<br/>年份: 2026<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: dv<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://www.themoviedb.org/t/p/w1280/sgVBl9UD2s8GZDBia65WFkIViso.jpg" /&gt;&lt;br /&gt;
+◎译　　名　成何体统！/成何体统(真人版)/成何体统剧版&lt;br /&gt;
+◎片　　名　成何体统&lt;br /&gt;
+◎年　　代　2026&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　爱情/古装&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2026-02-06(中国大陆)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt35231547/"&gt;https://www.imdb.com/title/tt35231547/&lt;/a</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282655">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282655</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282655">https://hdhome.org/details.php?id=282655</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282655" type="application/x-bittorrent" />
 </item>
 <item>
@@ -211,6 +953,20 @@
 <pubDate>Sun, 08 Mar 2026 11:31:01 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282654</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Amadeus NOW H 264 5 1<br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: RAWR<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/f4jl0z.jpg" /&gt;&lt;br /&gt;
+◎译　　名　莫扎特 / 莫扎特传 / 上帝的宠儿 / 阿玛多伊斯&lt;br /&gt;
+◎片　　名　Amadeus&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 音乐 / 传记&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2025-12-21(英国)&lt;br /&gt;
+◎IMDb评星  ★★★★★☆☆☆☆☆&lt;br /&gt;
+◎IMDb评分  4.9/10 from 1,431 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt32061880/"&gt;https://www.imdb.com/title/tt32061880/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣评星　★★★✦☆&lt;br /&gt;
+◎豆瓣评分　6.5/10 from 228 users&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" hre</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282654">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282654</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282654">https://hdhome.org/details.php?id=282654</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282654" type="application/x-bittorrent" />
 </item>
 <item>
@@ -220,6 +976,17 @@
 <pubDate>Sun, 08 Mar 2026 11:24:44 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282651</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Goldie and Bear DSNP H 264 5 1<br/>年份: 2015<br/>季: S02<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: SOMERSAULT<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/15zg7w.jpg" /&gt;&lt;br /&gt;
+◎译　　名　蒂蒂与小熊 第二季&lt;br /&gt;
+◎片　　名　Goldie and Bear Season 2&lt;br /&gt;
+◎年　　代　2015&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎类　　别　动画 / 家庭 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎IMDb评星  ★★★★★★☆☆☆☆&lt;br /&gt;
+◎IMDb评分  6.2/10 from 477 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt4475060/"&gt;https://www.imdb.com/title/tt4475060/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/27064634/"&gt;https://movie.douban.com/subject/270646</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282651">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282651</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282651">https://hdhome.org/details.php?id=282651</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282651" type="application/x-bittorrent" />
 </item>
 <item>
@@ -229,6 +996,18 @@
 <pubDate>Sun, 08 Mar 2026 11:22:53 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282650</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Goldie and Bear DSNP H 264 5 1<br/>年份: 2015<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: SOMERSAULT<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/15zg7w.jpg" /&gt;&lt;br /&gt;
+◎译　　名　蒂蒂与小熊 第一季&lt;br /&gt;
+◎片　　名　Goldie and Bear Season 1&lt;br /&gt;
+◎年　　代　2015&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎类　　别　动画 / 家庭 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2015-11-13(美国)&lt;br /&gt;
+◎IMDb评星  ★★★★★★☆☆☆☆&lt;br /&gt;
+◎IMDb评分  6.2/10 from 477 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt4475060/"&gt;https://www.imdb.com/title/tt4475060/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/27064634/"&gt;https://mov</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282650">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282650</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282650">https://hdhome.org/details.php?id=282650</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282650" type="application/x-bittorrent" />
 </item>
 <item>
@@ -238,6 +1017,16 @@
 <pubDate>Sun, 08 Mar 2026 10:44:13 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282644</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Danny Thomas Show AMZN H 264 2 0<br/>年份: 1955<br/>季: S09<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: BTN<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/y7kknn.jpg" /&gt;&lt;br /&gt;
+◎译　　名　The Danny Thomas Show 第九季&lt;br /&gt;
+◎片　　名　Make Room for Daddy Season 9&lt;br /&gt;
+◎年　　代　1955&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎IMDb评星  ★★★★★★★☆☆☆&lt;br /&gt;
+◎IMDb评分  7.1/10 from 1,410 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt0045410/"&gt;https://www.imdb.com/title/tt0045410/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/5065061/"&gt;https://movie.douban.com/subject/5065061/&lt;/a</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282644">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282644</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282644">https://hdhome.org/details.php?id=282644</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282644" type="application/x-bittorrent" />
 </item>
 <item>
@@ -247,6 +1036,17 @@
 <pubDate>Sun, 08 Mar 2026 10:40:47 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282641</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: 用武之地 Escape from the Outland<br/>年份: 2025<br/>分辨率: 2160p<br/>来源: webdl<br/>HDR: hdr<br/>编码: hevc<br/>发布组: HHWEB<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://proxy-cover.hhanclub.net/douban/p2928312004.jpg" /&gt;&lt;br /&gt;
+◎译　　名　用武之地 / Escape From The Outland&lt;br /&gt;
+◎片　　名　用武之地&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情 / 动作 / 战争&lt;br /&gt;
+◎语　　言　汉语普通话 / 英语 / 法语 / 阿拉伯语&lt;br /&gt;
+◎上映日期　2025-12-31(中国大陆)&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt33078916/" target="_blank"&gt;https://www.imdb.com/title/tt33078916/&lt;/a&gt;&lt;br /&gt;
+◎IMDb评分 &amp;nbsp;6.7/10 from 103 users&lt;br /&gt;
+◎豆瓣评分　7.4/10 from 55314 users&lt;br </p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282641">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282641</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282641">https://hdhome.org/details.php?id=282641</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282641" type="application/x-bittorrent" />
 </item>
 <item>
@@ -256,6 +1056,16 @@
 <pubDate>Sun, 08 Mar 2026 10:39:33 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282640</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Danny Thomas Show AMZN H 264 2 0<br/>年份: 1955<br/>季: S05<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: QOQ<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/y7kknn.jpg" /&gt;&lt;br /&gt;
+◎译　　名　The Danny Thomas Show 第五季&lt;br /&gt;
+◎片　　名　Make Room for Daddy Season 5&lt;br /&gt;
+◎年　　代　1955&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎IMDb评星  ★★★★★★★☆☆☆&lt;br /&gt;
+◎IMDb评分  7.1/10 from 1,410 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt0045410/"&gt;https://www.imdb.com/title/tt0045410/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/5065061/"&gt;https://movie.douban.com/subject/5065061/&lt;/a</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282640">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282640</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282640">https://hdhome.org/details.php?id=282640</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282640" type="application/x-bittorrent" />
 </item>
 <item>
@@ -265,6 +1075,19 @@
 <pubDate>Sun, 08 Mar 2026 10:29:30 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282637</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Baked With Love Holiday AMZN H 264 2 0<br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: Kitsune<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/xyyc12.jpg" /&gt;&lt;br /&gt;
+◎译　　名　Baked with Love: Holiday&lt;br /&gt;
+◎片　　名　Baked with Love: Holiday&lt;br /&gt;
+◎类　　型　真人秀&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎年　　代　October 26, 2025 (United States)&lt;br /&gt;
+◎IMDb评分  7.0/10&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt38814531/"&gt;https://www.imdb.com/title/tt38814531/&lt;/a&gt;&lt;br /&gt;
+◎演　　员　Tamera Mowry-Housley, Anna Haugh, Vaughn Vreeland&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+ &amp;nbsp;Ten talented home baker pairs compet</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282637">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282637</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282637">https://hdhome.org/details.php?id=282637</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282637" type="application/x-bittorrent" />
 </item>
 <item>
@@ -274,6 +1097,20 @@
 <pubDate>Sun, 08 Mar 2026 10:14:34 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282634</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2001<br/>季: S06<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第六季 / 建筑工鲍勃和他的工程车伙伴们&lt;br /&gt;
+◎片　　名　Bob the Builder Season 6&lt;br /&gt;
+◎年　　代　2001&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童 / 奇幻&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2001(英国)&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816182/"&gt;https://movie.douban.com/subject/26816182/&lt;/a&gt;&lt;br /&gt;
+◎单集片长　10分钟&lt;br /&gt;
+◎集　　数　13&lt;br /&gt;
+◎演　　员　克里斯·埃文斯 / Chris Evans&lt;br /&gt;
+　　　　　　Rupert Degas Rupert Degas&lt;br /&gt;
+　　　　　　凯特·哈伯 / Kate H</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282634">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282634</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282634">https://hdhome.org/details.php?id=282634</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282634" type="application/x-bittorrent" />
 </item>
 <item>
@@ -283,6 +1120,21 @@
 <pubDate>Sun, 08 Mar 2026 10:12:52 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282633</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2001<br/>季: S05<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第五季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 5&lt;br /&gt;
+◎年　　代　2001&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2001-01-06(英国)&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816181/"&gt;https://movie.douban.com/subject/26816181/&lt;/a&gt;&lt;br /&gt;
+◎单集片长　10分钟&lt;br /&gt;
+◎集　　数　13&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282633">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282633</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282633">https://hdhome.org/details.php?id=282633</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282633" type="application/x-bittorrent" />
 </item>
 <item>
@@ -292,6 +1144,21 @@
 <pubDate>Sun, 08 Mar 2026 10:11:20 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282632</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2000<br/>季: S04<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第四季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 4&lt;br /&gt;
+◎年　　代　2000&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2000-09-12(英国)&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26816179/"&gt;https://movie.douban.com/subject/26816179/&lt;/a&gt;&lt;br /&gt;
+◎单集片长　10分钟&lt;br /&gt;
+◎集　　数　13&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282632">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282632</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282632">https://hdhome.org/details.php?id=282632</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282632" type="application/x-bittorrent" />
 </item>
 <item>
@@ -301,6 +1168,18 @@
 <pubDate>Sun, 08 Mar 2026 10:09:23 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282631</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 2000<br/>季: S03<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: AndreMor<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第三季 / Bob&amp;#039;s Boots&lt;br /&gt;
+◎片　　名　Bob the Builder Season 3&lt;br /&gt;
+◎年　　代　2000&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　动画 / 家庭&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2000-09-25&lt;br /&gt;
+◎IMDb评星  ★★★★★★★☆☆☆&lt;br /&gt;
+◎IMDb评分  6.8/10 from 27 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt1585676/"&gt;https://www.imdb.com/title/tt1585676/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26108556/"&gt;ht</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282631">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282631</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282631">https://hdhome.org/details.php?id=282631</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282631" type="application/x-bittorrent" />
 </item>
 <item>
@@ -310,6 +1189,21 @@
 <pubDate>Sun, 08 Mar 2026 10:07:58 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282630</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 1999<br/>季: S02<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: BurCyg<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第二季&lt;br /&gt;
+◎片　　名　Bob the Builder Season 2&lt;br /&gt;
+◎年　　代　1999&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　1999-10-11&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/26108558/"&gt;https://movie.douban.com/subject/26108558/&lt;/a&gt;&lt;br /&gt;
+◎单集片长　10分钟&lt;br /&gt;
+◎集　　数　13&lt;br /&gt;
+&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+　　在一座美丽的小镇上，生活着名叫巴布（Neil Morrissey 配音）的建筑工程师，他热情正直，善良可亲，其出色的建筑本领更是为镇上的人们所称道。巴布和温蒂共同经</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282630">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282630</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282630">https://hdhome.org/details.php?id=282630</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282630" type="application/x-bittorrent" />
 </item>
 <item>
@@ -319,6 +1213,20 @@
 <pubDate>Sun, 08 Mar 2026 10:05:40 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282629</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Bob the Builder PCOK 2 0<br/>年份: 1999<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: BurCyg<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/hd01b1.jpg" /&gt;&lt;br /&gt;
+◎译　　名　巴布工程师 第一季 / 建筑工鲍勃和他的工程车伙伴们&lt;br /&gt;
+◎片　　名　Bob the Builder Season 1&lt;br /&gt;
+◎年　　代　1999&lt;br /&gt;
+◎产　　地　英国&lt;br /&gt;
+◎类　　别　剧情 / 动画 / 儿童&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　1999-11-28(英国)&lt;br /&gt;
+◎IMDb评星  ★★★★★✦☆☆☆☆&lt;br /&gt;
+◎IMDb评分  5.6/10 from 6,567 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt0262151/"&gt;https://www.imdb.com/title/tt0262151/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣评星　★★★★☆&lt;br /&gt;
+◎豆瓣评分　8.3/10 from 1,627 users&lt;br /&gt;
+◎豆瓣链接　&lt;a cl</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282629">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282629</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282629">https://hdhome.org/details.php?id=282629</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282629" type="application/x-bittorrent" />
 </item>
 <item>
@@ -328,6 +1236,18 @@
 <pubDate>Sun, 08 Mar 2026 09:11:25 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282628</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Fumochitai NF H 264 2 0<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: CHDWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;CHDBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://cache.springsunday.net/img9.doubanio.com/view/photo/l_ratio_poster/public/p2526247804.jpg" /&gt;&lt;br /&gt;
+ &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br /&gt;
+◎译　　名　不毛地带/不毛之地/Fumô chitai/Wasted Land&lt;br /&gt;
+◎片　　名　不毛地帯&lt;br /&gt;
+◎年　　代　2009&lt;br /&gt;
+◎产　　地　日本&lt;br /&gt;
+◎类　　型　电视剧&lt;br /&gt;
+◎类　　别　剧情&lt;br /&gt;
+◎语　　言　日语&lt;br /&gt;
+◎上映日期　200</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282628">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282628</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282628">https://hdhome.org/details.php?id=282628</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282628" type="application/x-bittorrent" />
 </item>
 <item>
@@ -337,6 +1257,16 @@
 <pubDate>Sun, 08 Mar 2026 08:36:08 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282626</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Alcasser Murders NF 5 1<br/>年份: 2019<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: MZABI<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/3tui78.jpg" /&gt;&lt;br /&gt;
+◎译　　名　The Alcàsser Murders&lt;br /&gt;
+◎片　　名　El caso Alcàsser&lt;br /&gt;
+◎类　　型　纪录片, Crime&lt;br /&gt;
+◎产　　地　Spain&lt;br /&gt;
+◎年　　代　June 14, 2019 (Spain)&lt;br /&gt;
+◎IMDb评分  7.0/10&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt8033244/"&gt;https://www.imdb.com/title/tt8033244/&lt;/a&gt;&lt;br /&gt;
+◎演　　员　Fernando García, Elías León Siminiani, Ramón Campos, Teresa Domínguez, Yolanda Laguna, Juan Ignacio Blanco, Vicente Rivas, Jerónimo Boloix&lt;br /&gt;
+</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282626">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282626</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282626">https://hdhome.org/details.php?id=282626</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282626" type="application/x-bittorrent" />
 </item>
 <item>
@@ -346,6 +1276,18 @@
 <pubDate>Sun, 08 Mar 2026 08:34:45 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282624</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Kyojo Complete Netflix 2 0<br/>年份: 2026<br/>季: S03<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: DBTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;HDDolby官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://image.tmdb.org/t/p/w500/4DUVbjNgyW0elMZ8P9nuASJlyTx.jpg" /&gt;&lt;br /&gt;
+◎译　　名　教场 第 3 季 / 教場 / Kyojo&lt;br /&gt;
+◎首播日期　2026-01-01&lt;br /&gt;
+◎产　　地　未知&lt;br /&gt;
+◎类　　别　剧情&lt;br /&gt;
+◎语　　言　Japanese&lt;br /&gt;
+◎季　　数　3&lt;br /&gt;
+◎集　　数　5&lt;br /&gt;
+◎当季集数　1&lt;br /&gt;
+◎IMDb链接 &amp;nbsp;&lt;a class="faqlink" href="https://www.imdb.com/title/tt10432456/"&gt;https://www.imdb.com/title/tt10432456/&lt;/a&gt;&lt;br </p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282624">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282624</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282624">https://hdhome.org/details.php?id=282624</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282624" type="application/x-bittorrent" />
 </item>
 <item>
@@ -355,6 +1297,18 @@
 <pubDate>Sun, 08 Mar 2026 08:31:25 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282623</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: UFO Europe The Untold Stories DSNP H 264 5 1<br/>年份: 2012<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: FLUX<br/></p><p><b>简介:</b> &lt;img alt="image" src="https://ptpimg.me/7gmo6m.jpg" /&gt;&lt;br /&gt;
+◎译　　名　欧洲UFO秘闻 第一季 / UFO Europe: The Untold Stories&lt;br /&gt;
+◎片　　名　UFO Europe Season 1&lt;br /&gt;
+◎年　　代　2012&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎类　　别　纪录片&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+◎上映日期　2012-11-13(美国)&lt;br /&gt;
+◎IMDb评星  ★★★★★★✦☆☆☆&lt;br /&gt;
+◎IMDb评分  6.4/10 from 52 users&lt;br /&gt;
+◎IMDb链接  &lt;a class="faqlink" href="https://www.imdb.com/title/tt14271936/"&gt;https://www.imdb.com/title/tt14271936/&lt;/a&gt;&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282623">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282623</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282623">https://hdhome.org/details.php?id=282623</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282623" type="application/x-bittorrent" />
 </item>
 <item>
@@ -364,6 +1318,18 @@
 <pubDate>Sun, 08 Mar 2026 07:37:13 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282620</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Lady in Butcher s House Complete AMZN H 264 UB<br/>年份: 2022<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img.ubits.club/images/2026/03/07/def2d95cb7e7a1e4f5e5d76268c18b66.jpg" /&gt;&lt;br /&gt;
+◎译　　名　玉面桃花总相逢 / 屠户家的小娘子&lt;br /&gt;
+◎片　　名　玉面桃花总相逢&lt;br /&gt;
+◎年　　代　2022&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情 / 古装&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2022-04-01(中国大陆)&lt;br /&gt;
+◎豆瓣评分　6.2/10 from 6,465 users&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/35248735/"&gt;h</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282620">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282620</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282620">https://hdhome.org/details.php?id=282620</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282620" type="application/x-bittorrent" />
 </item>
 <item>
@@ -373,6 +1339,19 @@
 <pubDate>Sun, 08 Mar 2026 07:17:03 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282619</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Not Others Complete NowPlayer H 264 UBWEB<br/>年份: 2023<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+❁ 片　　名:　남남&lt;br /&gt;
+❁ 译　　名:　Not Others / Strangers&lt;br /&gt;
+❁ 年　　代:　2023&lt;br /&gt;
+❁ 产　　地:　韩国&lt;br /&gt;
+❁ 类　　别:　剧情&lt;br /&gt;
+❁ 语　　言:　韩语&lt;br /&gt;
+❁ 上映日期:　2023-07-17(韩国)&lt;br /&gt;
+❁ IMDb评分:　7.3 / 10 from 509 users&lt;br /&gt;
+❁ IMDb链接:　&lt;a class="faqlink" href="https://www.imdb.com/title/tt26472764/"&gt;https://www.imdb.com/title/tt26472764/&lt;/a&gt;&lt;br /&gt;
+❁ 豆瓣评分:　7.6 / 10 from 4732 users&lt;br /&gt;
+❁ 豆瓣链接:　&lt;a class</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282619">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282619</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282619">https://hdhome.org/details.php?id=282619</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282619" type="application/x-bittorrent" />
 </item>
 <item>
@@ -382,6 +1361,19 @@
 <pubDate>Sun, 08 Mar 2026 07:14:54 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282618</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Silent Tides Complete NowPlayer H 264 UBWEB<br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+❁ 片　　名:　风与潮&lt;br /&gt;
+❁ 译　　名:　丹心 / 澳门往事&lt;br /&gt;
+❁ 年　　代:　2025&lt;br /&gt;
+❁ 产　　地:　中国大陆&lt;br /&gt;
+❁ 类　　别:　剧情 / 历史&lt;br /&gt;
+❁ 语　　言:　汉语普通话&lt;br /&gt;
+❁ 上映日期:　2025-12-09(中国大陆)&lt;br /&gt;
+❁ IMDb评分:　7.6 / 10 from 76 users&lt;br /&gt;
+❁ IMDb链接:　&lt;a class="faqlink" href="https://www.imdb.com/title/tt36150761/"&gt;https://www.imdb.com/title/tt36150761/&lt;/a&gt;&lt;br /&gt;
+❁ 豆瓣评分:　6.9 / 10 from 78376 users&lt;br /&gt;
+❁ 豆瓣链接:　&lt;a class</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282618">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282618</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282618">https://hdhome.org/details.php?id=282618</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282618" type="application/x-bittorrent" />
 </item>
 <item>
@@ -391,6 +1383,18 @@
 <pubDate>Sun, 08 Mar 2026 07:12:55 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282617</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: The Librarians The Next Chapter Complete NowPlayer<br/>年份: 2025<br/>季: S01<br/>分辨率: 2160p<br/>来源: webdl<br/>发布组: UBWEB<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;UBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: red;"&gt;&lt;font size="6"&gt;禁转PTT&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://cache.ubits.club/doubanio/aay8AI_LekGGJI8zbIygQ9yt_H8/p2920302022.jpg" /&gt;&lt;br /&gt;
+◎译　　名　图书馆员：下一章 第一季&lt;br /&gt;
+◎片　　名　The Librarians: The Next Chapter Season 1&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　美国&lt;br /&gt;
+◎类　　别　奇幻&lt;br /&gt;
+◎语　　言　英语&lt;br /&gt;
+</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282617">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282617</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282617">https://hdhome.org/details.php?id=282617</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282617" type="application/x-bittorrent" />
 </item>
 <item>
@@ -400,6 +1404,18 @@
 <pubDate>Sun, 08 Mar 2026 03:47:00 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282613</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Cha s Family H 264<br/>年份: 2026<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: JKCT<br/></p><p><b>简介:</b> &lt;font size="5"&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;JKCT制作组的原创资源, 谢绝提取压制转载！&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2928999557.jpg" /&gt;&lt;br /&gt;
+◎译　　名　胜元家/Cha&amp;#039;s Family&lt;br /&gt;
+◎片　　名　차가네&lt;br /&gt;
+◎年　　代　2026&lt;br /&gt;
+◎产　　地　韩国&lt;br /&gt;
+◎类　　别　真人秀&lt;br /&gt;
+◎语　　言　韩语&lt;br /&gt;
+◎上映日期　2026-01-08(韩国)&lt;br /&gt;
+◎豆瓣评分　/10 from 0 users&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://douban.com/subject/38197401/"&gt;https://douban.com/subject/38197401/&lt;/a&gt;&lt;br /&gt;
+◎片　　</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282613">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282613</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282613">https://hdhome.org/details.php?id=282613</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282613" type="application/x-bittorrent" />
 </item>
 <item>
@@ -409,6 +1425,20 @@
 <pubDate>Sun, 08 Mar 2026 01:53:49 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282609</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Love Story in the 1970s TX AAC2 0 H 264<br/>年份: 2026<br/>季: S01<br/>集: E29<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: MWeb<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;转自&lt;b&gt;MTeam&lt;/b&gt;，感谢原发布者！&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2930085518.webp" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+◎译　　名　纯真年代的爱情&lt;br /&gt;
+◎年　　代　2026&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　剧情 / 爱情&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2026-02-21(中国大陆)&lt;br /&gt;
+◎片　　长　45分钟&lt;br /&gt;
+◎简　　介　&lt;br /&gt;
+&lt;br /&gt;
+二十世纪七十年代，积极上进的制帽厂女工费霓一心想上大学靠知识改变命运。费霓的初中同学方穆扬因救人受伤成为了见义勇为的英雄，费霓主动提出照顾他，想要做好事评先进而被推荐上大学，但希望却屡次落空。现实的压力接踵而至，几经波折二人终于有了自己的房子，成为了睡上下铺的小夫妻，他们</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282609">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282609</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282609">https://hdhome.org/details.php?id=282609</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282609" type="application/x-bittorrent" />
 </item>
 <item>
@@ -418,6 +1448,18 @@
 <pubDate>Sun, 08 Mar 2026 00:54:22 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282606</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Become a Farmer H 264<br/>年份: 2025<br/>季: S03<br/>分辨率: 1080p<br/>来源: webdl<br/>发布组: OurTV<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;OurBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2913436412.jpg" /&gt;&lt;br /&gt;
+◎译　　名 &amp;nbsp;种地吧 第三季&lt;br /&gt;
+◎片　　名　种地吧3&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎类　　别　真人秀&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2025-02-28(中国大陆)&lt;br /&gt;
+◎豆瓣评分　/10 from 0 users&lt;br /&gt;
+◎豆瓣链接　&lt;a class="faqlink" href="https://movie.douban.com/subject/37047873/"&gt;https://movie.douban</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282606">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282606</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282606">https://hdhome.org/details.php?id=282606</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282606" type="application/x-bittorrent" />
 </item>
 <item>
@@ -427,6 +1469,16 @@
 <pubDate>Sun, 08 Mar 2026 00:02:57 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282605</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Shadowlands USA MA 2 0<br/>年份: 1993<br/>分辨率: 1080p<br/>来源: bluray<br/>编码: avc<br/>发布组: CHD<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;CHDBits官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;font size="4"&gt;&lt;b&gt;&lt;span style="color: red;"&gt;本资源及相关素材未经CHD许可 严禁提取发布或二压使用，请注意礼节!&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://image.tmdb.org/t/p/original/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg" /&gt;&lt;br /&gt;
+◎译　　名：影子大地 / 曾经深爱过 / 幻境 / 荫蔽之地 / 幽谷之旅&lt;br /&gt;
+◎片　　名：Shadowlands&lt;br /&gt;
+◎年　　代：1993&lt;br /&gt;
+◎产　　地：英国&lt;br /&gt;
+◎类　　型：剧情 / 爱情 / 传记&lt;br</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282605">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282605</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282605">https://hdhome.org/details.php?id=282605</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282605" type="application/x-bittorrent" />
 </item>
 <item>
@@ -436,115 +1488,19 @@
 <pubDate>Sat, 07 Mar 2026 23:23:10 +0800</pubDate>
 <source>hdhome</source>
 <description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282600</description>
+<content:encoded><![CDATA[<p><b>来源:</b> hdhome</p><p><b>解析信息:</b><br/>名称: Xiao Ke Lian Chuai Zai Hou Bei Huo Ye Chong Shang <br/>年份: 2025<br/>季: S01<br/>分辨率: 1080p<br/>来源: webdl<br/>编码: avc<br/>发布组: ZmWeb<br/></p><p><b>简介:</b> &lt;fieldset&gt;&lt;legend&gt; 引用 &lt;/legend&gt;&lt;b&gt;&lt;span style="color: blue;"&gt;ZMPT官组作品，感谢原制作者发布。&lt;/span&gt;&lt;/b&gt;&lt;/fieldset&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt="image" src="https://img2.pixhost.to/images/6260/702345862_temp.jpg" /&gt;&lt;br /&gt;
+◎译　　名　小可怜揣崽后被霍爷宠上天&lt;br /&gt;
+◎年　　代　2025&lt;br /&gt;
+◎产　　地　中国大陆&lt;br /&gt;
+◎语　　言　汉语普通话&lt;br /&gt;
+◎上映日期　2025-05-28(中国大陆)&lt;br /&gt;
+◎豆瓣链接 &amp;nbsp; &amp;nbsp;&lt;a class="faqlink" href="https://movie.douban.com/subject/38222811"&gt;https://movie.douban.com/subject/38222811&lt;/a&gt;&lt;br /&gt;
+◎集　　数　83&lt;br /&gt;
+◎主　　演　星硕&lt;br /&gt;
+　　　　 &amp;nbsp;　</p><p><b>下载:</b> <a href="https://hdhome.org/download.php?id=282600">点击下载种子</a></p><p><b>种子链接:</b> https://hdhome.org/download.php?id=282600</p><p><b>详情页:</b> <a href="https://hdhome.org/details.php?id=282600">https://hdhome.org/details.php?id=282600</a></p>]]></content:encoded>
 <enclosure url="https://hdhome.org/download.php?id=282600" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]Nothing But You 2022 S01 Complete 1080p AMZN WEB-DL H.264 DDP2.0-UBWEB[眼里余光都是你 | 全24集 | 导演: 蓝志伟 | 主演: 王鹤润 罗正 丁嘉文 苏小玎 [国语/软日字]][51.53 GB]</title>
-<link>https://hdhome.org/details.php?id=282599</link>
-<guid isPermaLink="false">c2b6a9b4224f081554147eb173078fd2f366ba0f</guid>
-<pubDate>Sat, 07 Mar 2026 23:20:55 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282599</description>
-<enclosure url="https://hdhome.org/download.php?id=282599" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]Bloody Flower S01 1080p friDay WEB-DL AAC2.0 H.264-CHDWEB[韩剧：死亡之花 全8集 블러디 플라워/죽음의 꽃/Bloody Flower | 类型:剧情/惊悚/犯罪 | 内封官方中字][29.10 GB]</title>
-<link>https://hdhome.org/details.php?id=282598</link>
-<guid isPermaLink="false">60e9a0859a4f037bdff2819cdcbab449bfb4adf7</guid>
-<pubDate>Sat, 07 Mar 2026 23:18:18 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282598</description>
-<enclosure url="https://hdhome.org/download.php?id=282598" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 2160p]Unveil Jadewind S01 2026 2160p WEB-DL HEVC AAC 2.0-NHDWEB[唐宫奇案之青雾风鸣 | 全34集 | 类型：剧情 / 悬疑 | 演员：王星越 / 白鹿 / 姚安娜 / 赵晴 / 赵弈钦][240.29 GB]</title>
-<link>https://hdhome.org/details.php?id=282594</link>
-<guid isPermaLink="false">e091c0e66abfaf31b2f3e6b7942e673910c5cb64</guid>
-<pubDate>Sat, 07 Mar 2026 23:09:08 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282594</description>
-<enclosure url="https://hdhome.org/download.php?id=282594" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]Taxi Driver 2025 S03 Complete 1080p Viu WEB-DL H.264 AAC-UBWEB[模范出租车3/模范计程车3(台)/모범택시3/模範택시3 | 全16集 | 导演: 姜宝承 | 主演: 李帝勋 表艺珍 金义城 张赫镇 [韩语/多语字幕]][26.74 GB]</title>
-<link>https://hdhome.org/details.php?id=282593</link>
-<guid isPermaLink="false">19630312d4bf65a3df4d7c0cf2ead4ca214225d1</guid>
-<pubDate>Sat, 07 Mar 2026 23:00:14 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282593</description>
-<enclosure url="https://hdhome.org/download.php?id=282593" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]My Mister 2018 S01 Complete 1080p AMZN WEB-DL H.264 DDP2.0-UBWEB[我的大叔 | 全16集 | 导演: 金元锡 | 主演: 李知恩 李善均 高斗心 宋清晨 [韩语/多语字幕]][66.34 GB]</title>
-<link>https://hdhome.org/details.php?id=282590</link>
-<guid isPermaLink="false">9072c9a256111a85180fb13136014fc4cbbbf889</guid>
-<pubDate>Sat, 07 Mar 2026 21:54:21 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282590</description>
-<enclosure url="https://hdhome.org/download.php?id=282590" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[Movies 2160p]Under Siege 1992 2160p UHD BluRay DoVi HDR Atmos TrueHD 7.1 x265-PbK[潜龙轰天 [国英双语+简体简英特效字幕+章节]][25.68 GB]</title>
-<link>https://hdhome.org/details.php?id=282589</link>
-<guid isPermaLink="false">efeea46fe8c7a737540799a25a0180145c4e4f75</guid>
-<pubDate>Sat, 07 Mar 2026 21:25:01 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282589</description>
-<enclosure url="https://hdhome.org/download.php?id=282589" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 2160p]Heated Rivalry S01 2025 2160p HMAX WEB-DL H.265 DDP 5.1-RAWR[巅峰对决 第一季 / 烈爱对决(港/台) / 激烈竞争 全6集][15.04 GB]</title>
-<link>https://hdhome.org/details.php?id=282588</link>
-<guid isPermaLink="false">bf0475d7a368d3cc4cdbefaa4180783c5bf9cbb1</guid>
-<pubDate>Sat, 07 Mar 2026 21:17:06 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282588</description>
-<enclosure url="https://hdhome.org/download.php?id=282588" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]Heated Rivalry S01 2025 1080p CRAV WEB-DL H.264 DDP 5.1-RAWR[巅峰对决 第一季 / 烈爱对决(港/台) / 激烈竞争 全6集][11.37 GB]</title>
-<link>https://hdhome.org/details.php?id=282587</link>
-<guid isPermaLink="false">87087ede208e9ec955bb15ab04d8292906953628</guid>
-<pubDate>Sat, 07 Mar 2026 21:14:40 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282587</description>
-<enclosure url="https://hdhome.org/download.php?id=282587" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 1080p]Heated Rivalry S01 2025 1080p AMZN WEB-DL H.264 DDP 5.1-RAWR[巅峰对决 第一季 / 烈爱对决(港/台) / 激烈竞争 全6集][16.05 GB]</title>
-<link>https://hdhome.org/details.php?id=282586</link>
-<guid isPermaLink="false">ad9e0a2599f087545b039cfcd02093dfa1ebbb2e</guid>
-<pubDate>Sat, 07 Mar 2026 21:12:35 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282586</description>
-<enclosure url="https://hdhome.org/download.php?id=282586" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 2160p]Forever Young S01 2025 2160p WEB-DL H.265 60FPS 10bit HDR DDP2.0-OurTV[轻年 全32集 | 类型: 剧情 / 爱情 | 主演: 霍建华 / 田雨 / 张雪迎 / 乔振宇 / 刘端端][59.40 GB]</title>
-<link>https://hdhome.org/details.php?id=282585</link>
-<guid isPermaLink="false">c955f082079991df2ab7cde651452dfa020fce7d</guid>
-<pubDate>Sat, 07 Mar 2026 20:58:20 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282585</description>
-<enclosure url="https://hdhome.org/download.php?id=282585" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[TVSeries 2160p]Exchange Souls S01 2025 2160p WEB-DL H.264 AAC 2.0-PTerWEB[焕心 Exchange Souls 全24集][21.86 GB]</title>
-<link>https://hdhome.org/details.php?id=282584</link>
-<guid isPermaLink="false">34da5c28ab86a44fd4c5a176edac205835b87532</guid>
-<pubDate>Sat, 07 Mar 2026 20:58:08 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282584</description>
-<enclosure url="https://hdhome.org/download.php?id=282584" type="application/x-bittorrent" />
-</item>
-<item>
-<title>[Anime 1080p]May I Ask for One Final Thing S01 2025 1080p CR WEB-DL x264 AAC 2.0-SubsPlease[最后可以再拜托您一件事吗 / 最后再拜托您一件事可以吗 / Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka / May I Ask for One Final Thing? 全13集][17.51 GB]</title>
-<link>https://hdhome.org/details.php?id=282579</link>
-<guid isPermaLink="false">8d05034e2e46c9fa289d22d60157fa10cf593fad</guid>
-<pubDate>Sat, 07 Mar 2026 20:39:14 +0800</pubDate>
-<source>hdhome</source>
-<description>来源: hdhome | 种子: https://hdhome.org/download.php?id=282579</description>
-<enclosure url="https://hdhome.org/download.php?id=282579" type="application/x-bittorrent" />
 </item>
 </channel>
 </rss>
