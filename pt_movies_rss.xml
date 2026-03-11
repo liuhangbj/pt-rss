@@ -1,13 +1,745 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>PT电影RSS - 简化版</title>
+<title>PT电影RSS</title>
 <link>https://liuhangbj.github.io/pt-rss</link>
+<description>PT电影RSS - 生成时间: 2026-03-11 12:09:01</description>
+<lastBuildDate>Wed, 11 Mar 2026 12:09:01 +0800</lastBuildDate>
+<language>zh-CN</language>
 <item>
-<title>[已拥有] The Doors 1991 2160p</title>
-<link>https://hdhome.org/details.php?id=208243</link>
-<guid>test-item-001</guid>
-</description>测试</description>
+<title>[未监控] Pirates of the Caribbean: On Stranger Tides 2011 2160p DSNP WEB-DL HEVC 10bit HDR10 DDP 5.1 14Audio-LongWeb[17.59 GB]</title>
+<link>https://audiences.me/details.php?id=631823</link>
+<guid isPermaLink="false">0b0f131b0c4cba0dc513d4929eebbf7c4c8bd33e</guid>
+<pubDate>Wed, 11 Mar 2026 11:55:00 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631823" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📝 标题:</b> [未监控] Pirates of the Caribbean: On Stranger Tides 2011 2160p DSNP WEB-DL HEVC 10bit HDR10 DDP 5.1 14Audio-LongWeb[17.59 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 11:55:00 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631823">https://audiences.me/details.php?id=631823</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] We're Not Safe Here 2025 1080p AMZN WEB-DL DD+ 5.1 H.264-BobDobbs[6.25 GB]</title>
+<link>https://audiences.me/details.php?id=631802</link>
+<guid isPermaLink="false">8923558b75287000a917341c7725a76a9e27b0d5</guid>
+<pubDate>Wed, 11 Mar 2026 11:21:19 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631802" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📝 标题:</b> [未监控] We're Not Safe Here 2025 1080p AMZN WEB-DL DD+ 5.1 H.264-BobDobbs[6.25 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 11:21:19 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631802">https://audiences.me/details.php?id=631802</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Ghost 1990 2160p UHD Blu-ray TrueHD 5.1 x265-HDH[28.16 GB]</title>
+<link>https://hdhome.org/details.php?id=223284</link>
+<guid isPermaLink="false">f66327bdc7a4a50ff64d9ebe83a46257c29ab153</guid>
+<pubDate>Tue, 05 Nov 2024 09:31:37 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=223284" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [已拥有] Ghost 1990 2160p UHD Blu-ray TrueHD 5.1 x265-HDH[28.16 GB]</p>
+<p><b>📅 发布时间:</b> Tue, 05 Nov 2024 09:31:37 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=223284">https://hdhome.org/details.php?id=223284</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img.hdhome.org/images/2024/10/23/ed9f7cf8f4b34b5a39a9731580f6bc3e.jpg" /><br />
+<br />
+◎译　　名　人鬼情未了/第六感生死恋(台)/生死第六感/幽灵<br />
+◎片　　名　Ghost<br />
+◎年　　代　1990<br />
+◎产　　地　美国<br />
+◎类　　别　剧情/爱情/奇幻<br />
+◎语　　言　英语<br />
+◎上映日期　1990-07-13<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0099653/" target="_blank">https://www.imdb.com/title/tt0099653/</a><br />
+◎豆瓣评分　8.3/10 from 217172 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1293203/" target="_blank">https://douban.com/subject/1293203/</a><br />
+◎片　　长　127 分钟<br />
+◎导　　演　杰瑞·扎克 Jerry Zucker<br />
+◎编　　剧　布鲁斯·乔尔·鲁宾 Bruce Joel Rubin<br />
+◎主　　演　帕特里克·斯威兹 Patrick Swayze<br />
+　　　　 &nbsp;　黛米·摩尔 Demi Moore<br />
+　　　　 &nbsp;　托尼·戈德温 Tony Goldwyn<br />
+　　　　 &nbsp;　乌比·戈德堡 Whoopi Goldberg<br />
+　　　　 &nbsp;　斯蒂芬·鲁特 Stephen Root<br />
+　　　　 &nbsp;　文森特·斯卡维利 Vincent Schiavelli<br />
+　　　　 &nbsp;　菲尔·利兹 Phil Leeds<br />
+　　　　 &nbsp;　阿尔玛·贝特兰 Alma Beltran<br />
+　　　　 &nbsp;　Mike Jittlov Mike Jittlov<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　年轻的银行职员萨姆（帕特里克•斯威兹）与未婚妻美莉（黛咪•摩尔）相爱极深，在朋友卡尔（托尼•戈德温）的热情帮助下，他们搬进一幢漂亮的公寓，做着结婚前的准备。某晚看戏归来时，他们遭遇持枪歹徒，与歹徒搏斗时，萨姆不幸中枪身亡，美莉悲痛欲绝。<br />
+　　<br />
+　　萨姆变作幽灵，发现卡尔是导致他死亡的幕后策划，而为了窃取银行里的巨款，他又对美莉展开追求，以便获得萨姆所掌握的密码。为了保护美莉，萨姆常常游荡于她的周围，并渐渐地学会了如何使用力量，但他苦于无法同美莉交流。在能与幽灵沟通的灵媒奥塔的帮助下，他与美莉取得联系，但美莉起初并不相信，直到事实令她感受到萨姆的存在，可是，深深相爱的两人仍无法直接接触和交流。<br />
+　　<br />
+<br />
+◎获奖情况<br />
+<br />
+　　第63届奥斯卡金像奖 &nbsp;(1991)<br />
+　　最佳影片(提名) 丽萨·韦恩斯坦<br />
+　　最佳女配角 乌比·戈德堡<br />
+　　最佳原创剧本 布鲁斯·乔尔·鲁宾<br />
+　　最佳剪辑(提名) 沃尔特·默奇<br />
+　　最佳原创配乐(提名) 莫里斯·雅尔<br />
+　　<br />
+　　第14届日本电影学院奖 &nbsp;(1991)<br />
+　　最佳外语片(提名)<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Ghost.1990.2160p.UHD.Blu-ray.TrueHD.5.1.x265-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 1990<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt0099653" target="_blank">https://www.imdb.com/title/tt0099653</a><br />
+iMDB RATiNG.....: 7.1/10 &nbsp;241,485 votes<br />
+GENRE...........: Drama, Fantasy, Romance<br />
+<br />
+.Release.Info<br />
+SOURCE .........: 1990.2160p.UHD.Blu-ray.HEVC.TrueHD.5.1-DiY@HDHome<br />
+RELEASE DATE....: 11/05/2024<br />
+FilE SiZE.......: 28.16 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 02:06:37.432 (h:m:s)<br />
+RESOLUTiON......: 3840 x 2160<br />
+ViDEO BiTRATE...: x265 L5.1 Main 10 @ 26460 Kbps<br />
+ASPECT RATiO....: 16 : 9<br />
+FRAME RATE......: 23.976 fps<br />
+HDR Format 1....: Dolby Vision, Version 1.0, dvhe.08.06, BL+RPU, HDR10 compatible<br />
+HDR Format 2....: SMPTE ST 2086, HDR10 compatible<br />
+AUDiO 1.........: English Dolby TrueHD 5.1 @ 3094 Kbps &nbsp; <br />
+AUDiO 2.........: English DD 5.1 @ 640 Kbps &nbsp; <br />
+AUDiO 3.........: Chinese DD 2.0 @ 128 Kbps &nbsp; <br />
+AUDiO 4.........: Chinese DD 5.1 @ 448 Kbps &nbsp; <br />
+AUDiO 5.........: Chinese DD 5.1 @ 320 Kbps &nbsp; <br />
+AUDiO 6.........: Chinese DD 2.0 @ 192 Kbps &nbsp; <br />
+AUDiO 7.........: Chinese DD 2.0 @ 192 Kbps &nbsp; <br />
+AUDiO 8.........: Chinese DD 2.0 @ 192 Kbps &nbsp; <br />
+SUBTiTLE 1......: English/PGS &nbsp; <br />
+SUBTiTLE 2......: English/PGS &nbsp; <br />
+SUBTiTLE 3......: Spanish/PGS &nbsp; <br />
+SUBTiTLE 4......: French/PGS &nbsp; <br />
+SUBTiTLE 5......: Chinese/PGS &nbsp; <br />
+SUBTiTLE 6......: Chinese/PGS &nbsp; <br />
+SUBTiTLE 7......: Chinese/PGS &nbsp; <br />
+SUBTiTLE 8......: Chinese/PGS &nbsp; <br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="https://img.hdhome.org/images/2024/11/05/158187d1cda764fb4d693202285d1734.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] One Ranger 2023 1080p Blu-ray DTS-HD MA5.1 x264-HDH[11.18 GB]</title>
+<link>https://hdhome.org/details.php?id=190809</link>
+<guid isPermaLink="false">1fc44715954d2fb866470b5ae2e3ed91efe153bc</guid>
+<pubDate>Tue, 23 Jan 2024 15:21:03 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=190809" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [未监控] One Ranger 2023 1080p Blu-ray DTS-HD MA5.1 x264-HDH[11.18 GB]</p>
+<p><b>📅 发布时间:</b> Tue, 23 Jan 2024 15:21:03 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=190809">https://hdhome.org/details.php?id=190809</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2891668623.jpg" /><br />
+<br />
+◎译　　名　骑警<br />
+◎片　　名　One Ranger<br />
+◎年　　代　2023<br />
+◎产　　地　美国<br />
+◎类　　别　动作/惊悚<br />
+◎语　　言　英语<br />
+◎上映日期　2023-05-05(美国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt23037488/" target="_blank">https://www.imdb.com/title/tt23037488/</a><br />
+◎豆瓣评分　4.7/10 from 304 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/36158658/" target="_blank">https://douban.com/subject/36158658/</a><br />
+◎片　　长　95分钟<br />
+◎导　　演　杰西·约翰逊 Jesse V. Johnson<br />
+◎编　　剧　杰西·约翰逊 Jesse V. Johnson<br />
+◎主　　演　托马斯·简 Thomas Jane<br />
+　　　　 &nbsp;　迪恩·S·贾格尔 Dean S. Jagger<br />
+　　　　 &nbsp;　多米尼克·蒂珀 Dominique Tipper<br />
+　　　　 &nbsp;　耶斯·利奥丹 Jess Liaudin<br />
+　　　　 &nbsp;　尼克·莫兰 Nick Moran<br />
+　　　　 &nbsp;　帕特里克·博金 Patrick Bergin<br />
+　　　　 &nbsp;　约翰·马尔科维奇 John Malkovich<br />
+　　　　 &nbsp;　Alena Gerber Alena Gerber<br />
+　　　　 &nbsp;　大卫·樱井 David Sakurai<br />
+　　　　 &nbsp;　迈克尔·埃尔金 Michael Elkin<br />
+　　　　 &nbsp;　Mark Griffin Mark Griffin<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　It follows a Texas Ranger Jane as he is recruited by British Intelligence to track down a dangerous terrorist and stop him from attacking London.<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>One.Ranger.2023.1080p.Blu-ray.DTS-HD.MA5.1.x264-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 2023<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt23037488" target="_blank">https://www.imdb.com/title/tt23037488</a><br />
+iMDB RATiNG.....: 5.1/10 &nbsp;3,299 votes<br />
+GENRE...........: Action, Thriller<br />
+<br />
+.Release.Info<br />
+SOURCE .........: One.Ranger.2023.1080p.Blu-ray.AVC.DTS-HD.MA5.1-DiY@HDHome<br />
+RELEASE DATE....: 01/23/2024<br />
+FilE SiZE.......: 11.18 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:36:05.552 (h:m:s)<br />
+RESOLUTiON......: 1920 x 804<br />
+ViDEO BiTRATE...: x264 L4.1 High @ 12692 Kbps<br />
+ASPECT RATiO....: 2.39 : 1<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English DTS-HDMA 5.1 @ 3893 Kbps &nbsp; <br />
+SUBTiTLE 1......: English/PGS &nbsp; <br />
+SUBTiTLE 2......: Spanish/PGS &nbsp; <br />
+SUBTiTLE 3......: Chinese/PGS &nbsp; 简体中字<br />
+SUBTiTLE 4......: Chinese/PGS &nbsp; 繁体中字<br />
+SUBTiTLE 5......: Chinese/UTF-8 &nbsp; 简体中字<br />
+SUBTiTLE 6......: Chinese/UTF-8 &nbsp; 繁体中字<br />
+<br />
+.x264.Info<br />
+x264 [info]: frame I:932 &nbsp; Avg QP:16.97 &nbsp;size:176469<br />
+x264 [info]: frame P:28105 Avg QP:18.01 &nbsp;size:106093<br />
+x264 [info]: frame B:109198 Avg QP:20.03 &nbsp;size: 54953<br />
+x264 [info]: consecutive B-frames: &nbsp;1.7% &nbsp;2.8% &nbsp;6.7% &nbsp;9.2% 11.2% 60.5% &nbsp;4.1% &nbsp;1.1% &nbsp;2.7%<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="https://img.hdhome.org/images/2024/01/23/6b036750f688da28a8d6624bff513261.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] The Housemaid 2025 2160p UHD BluRay REMUX DV HDR HEVC TrueHD 7.1 Atmos-PiRAMiDHEAD[78.48 GB]</title>
+<link>https://audiences.me/details.php?id=631780</link>
+<guid isPermaLink="false">33739e123237a4445374c394d77a62af35ae3b1e</guid>
+<pubDate>Wed, 11 Mar 2026 10:19:16 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631780" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📝 标题:</b> [已拥有] The Housemaid 2025 2160p UHD BluRay REMUX DV HDR HEVC TrueHD 7.1 Atmos-PiRAMiDHEAD[78.48 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:19:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631780">https://audiences.me/details.php?id=631780</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] Sun Dogs 2017 1080p NF WEB-DL x264 DD5.1-NTG[3.14 GB]</title>
+<link>https://audiences.me/details.php?id=631779</link>
+<guid isPermaLink="false">3ba6144253f1c68a4d0e8860b83e074d03eeeacd</guid>
+<pubDate>Wed, 11 Mar 2026 10:14:20 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631779" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📝 标题:</b> [未监控] Sun Dogs 2017 1080p NF WEB-DL x264 DD5.1-NTG[3.14 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:14:20 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631779">https://audiences.me/details.php?id=631779</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Testament 1983 4K Remaster Criterion Collection BluRay 1080p DD1.0 x264-BMDru[14.84 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531252</link>
+<guid isPermaLink="false">d0b97ddff53376dee18ef07c757de68751cbf401</guid>
+<pubDate>Wed, 11 Mar 2026 10:33:58 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531252" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📝 标题:</b> [已拥有] Testament 1983 4K Remaster Criterion Collection BluRay 1080p DD1.0 x264-BMDru[14.84 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:33:58 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531252">https://ptchdbits.co/details.php?id=531252</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://s3.amazonaws.com/criterion-production/films/99a25f0feeec6404d57f3443614e6730/jxtrY0eek0ZxRNXnWh0g5s1K0w1l7s_large.jpg" /><br /><br />◎译　　名　遗嘱 / 遺囑 / 證言(台)<br />◎片　　名　Testament<br />◎年　　代　1983<br />◎产　　地　美国<br />◎类　　别　剧情 / 科幻<br />◎语　　言　英语<br />◎上映日期　1983-11-04<br />◎IMDb评分  6.9/10 from 7844 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt0086429/">https://www.imdb.com/title/tt0086429/</a><br />◎豆瓣评分　7.1/10 from 285 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/1293803/">https://movie.douban.com/subject/1293803/</a><br />◎片　　长　90 分钟<br />◎主　　演　凯文·科斯特纳 Kevin Costner<br />  瑞贝卡·德·莫妮 Rebecca De Mornay<br />  卢卡斯·哈斯 Lukas Haas<br /><br />◎简　　介<br /><br />  首度执导电影的电视女导演琳妮李特曼在此片表现出非同一般的才能，珍亚历山大和威廉狄凡在此片中也有精彩细致动人的表演。剧情虚构了一次核子战争后，美国加州一个侥幸逃过此劫的家庭在极端艰难的环境中生存下来的故事。该片采用半纪录性的手法，通过日复一日观察剧中人的生活转变，让观众从近乎切身经历的遭遇中反省人类面临核战这一大悲剧，并暗示性地鼓励人们采取措施制止这类事件的发生<br />  imdb:7.5/10 (891 votes)<br /><br />◎获奖情况<br /><br />  第56届奥斯卡金像奖  (1984)<br />最佳女主角(提名)  简·亚历山大<br /><br />特别收录：<br />• 全新 4K 数字修复版，由导演琳恩·利特曼和摄影指导史蒂文·波斯特亲自监督和批准，并配有无损单声道音轨<br />• 利特曼与作家萨姆·沃森的全新对话<br />• 利特曼与人类学家芭芭拉·迈尔霍夫合作拍摄的两部纪录片：《数算我们的日子》（1976）和《在她自己的时代》（1985）<br />• 《遗嘱》上映 20 周年纪念特辑和《核思考》专题节目，包含对演员、剧组人员和核科学专家的采访<br />• 演员简·亚历山大朗读短篇小说《最后的遗嘱》（本片即改编自该小说）的录音<br />• 预告片<br />• 为听障人士提供的英文字幕<br /><br /><fieldset><legend> 引用 </legend><br /><br />Title........: Testament (1983)                        <br />Release Group: BMDru                                   <br />Ripper ......: chinyan                                 <br />Release Date : 03/10/2026                              <br />HD Source....: Testament 1983 1080p Blu-ray AVC        <br />               LPCM 1.0-TMT (Thanks)                   <br />Video Format : x264                                    <br />Video Bitrate: 9101KBit/s                              <br />Aspect Ratio : 1.850:1                                 <br />Resolution ..: 1920 x 1038                             <br />Audio Bitrate: AC3 640 Kbps, 48 KHz, 16 bits , 1-ch    <br />BD Length ...: 1:29:51 (h:m:s)                         <br />Frame Rate ..: 23.976 fps                              <br />Language.....: English                                 <br />Subtitle(s) .: Chs(ass) / Cht(ass) / Eng(sup)          <br />Film Genre...: Drama / Sci-Fi                          <br />File Size ...: 6.11 GB                                 <br />IMDB Rating..: 6.9/10 from 7,943 users                 <br />                                                       <br /><a class="faqlink" href="http://www.imdb.com/title/tt0086429/">http://www.imdb.com/title/tt0086429/</a>                   <br />                                                       <br />Config : ref=16,subme=11,Bbframes=16,me=umh,me_range=64<br /></fieldset><br /><br /><br /><span style="color: blue;"><font size="4">正片截图!</font> </span><br /><br /><a class="faqlink" href="https://imgbox.com/UullsoVz"><img alt="image" src="https://thumbs2.imgbox.com/41/50/UullsoVz_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/pjFP1Otu"><img alt="image" src="https://thumbs2.imgbox.com/f4/ec/pjFP1Otu_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/dGFEkyLn"><img alt="image" src="https://thumbs2.imgbox.com/cb/10/dGFEkyLn_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/juQjlxwm"><img alt="image" src="https://thumbs2.imgbox.com/21/e7/juQjlxwm_t.png" /></a> <br /><br /><span style="color: blue;"><font size="4">花絮截图!</font> </span><br /><br /><a class="faqlink" href="https://imgbox.com/qINIssn9"><img alt="image" src="https://thumbs2.imgbox.com/e5/28/qINIssn9_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/YYotU6Ow"><img alt="image" src="https://thumbs2.imgbox.com/7d/f8/YYotU6Ow_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/gE7GWEY8"><img alt="image" src="https://thumbs2.imgbox.com/35/e4/gE7GWEY8_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/BB7GJrFW"><img alt="image" src="https://thumbs2.imgbox.com/47/3c/BB7GJrFW_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/q8lwPyA9"><img alt="image" src="https://thumbs2.imgbox.com/48/42/q8lwPyA9_t.png" /></a> <br /><a class="faqlink" href="https://imgbox.com/lOJn3vZ7"><img alt="image" src="https://thumbs2.imgbox.com/94/93/lOJn3vZ7_t.png" /></a></div>]]></description>
+</item>
+<item>
+<title>[已拥有] Ready or Not 2019 2160p DSNP WEB-DL H.265 HDR10 DDP5.1-AilMWeb[9.62 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531250</link>
+<guid isPermaLink="false">5b6197c52ae0a8c82db834686aec22859326efc1</guid>
+<pubDate>Wed, 11 Mar 2026 10:11:53 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531250" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📝 标题:</b> [已拥有] Ready or Not 2019 2160p DSNP WEB-DL H.265 HDR10 DDP5.1-AilMWeb[9.62 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:11:53 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531250">https://ptchdbits.co/details.php?id=531250</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">Panda官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/original/oJD9KQFoObZmxAS1je56SIFVNJt.jpg" /><br />◎译　　名　准备好了没 / Ready or Not / Wedding Nightmare / Noche de bodas / Boda Sangrienta / Nevesta na zabitie / Zabawa w pochowanego / Casamento Sangrento / 弒婚遊戲 / 爆血新婚夜 / Ready or Not - O Ritual / Dobro se skrij / Spremni ili ne<br />◎片　　名　Ready or Not<br />◎年　　代　2019<br />◎产　　地　美国<br />◎类　　别　恐怖, 喜剧<br />◎语　　言　英语<br />◎上映日期　2019-08-21<br />◎TMDB评分 &nbsp;7.042/10 from 5127 users<br />◎TMDB链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/movie/567609">https://www.themoviedb.org/movie/567609</a><br />◎imdb评分 &nbsp;0/10 from 0 users<br />◎imdb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt7798634/">https://www.imdb.com/title/tt7798634/</a><br />◎片　　长 &nbsp;95分钟<br />◎导　　演　Gino Sandoval / Zoë Bigio / 泰勒·吉勒特 Tyler Gillett / 马特·贝蒂内利-奥尔平 Matt Bettinelli-Olpin / Elliott Whittaker / Rory James / Joanna Moore<br />◎编　　剧　盖伊·布西克 Guy Busick / 詹姆斯·范德比尔特 James Vanderbilt / R.克里斯托弗·墨菲 R. Christopher Murphy<br />◎主　　演　萨玛拉·维文 Samara Weaving<br />　　　　 &nbsp;　马克·奥布莱恩 Mark O'Brien<br />　　　　 &nbsp;　亚当·布罗迪 Adam Brody<br />　　　　 &nbsp;　亨利·车尔尼 Henry Czerny<br />　　　　 &nbsp;　安迪·麦克道尔 Andie MacDowell<br />　　　　 &nbsp;　梅兰妮·斯科法诺 Melanie Scrofano<br />　　　　 &nbsp;　克里斯蒂安·布鲁恩 Kristian Bruun<br />　　　　 &nbsp;　伊丽丝·莱维斯克 Elyse Levesque<br />　　　　 &nbsp;　尼基·瓜达尼 Nicky Guadagni<br />　　　　 &nbsp;　约翰·拉尔斯顿 John Ralston<br />　　　　 &nbsp;　Liam MacDonald<br />　　　　 &nbsp;　Ethan Tavares<br />　　　　 &nbsp;　Hanneke Talbot<br />　　　　 &nbsp;　Celine Tsai<br />　　　　 &nbsp;　Daniela Barbosa<br />　　　　 &nbsp;　Chase Churchill<br />　　　　 &nbsp;　Etienne Kellici<br />　　　　 &nbsp;　Andrew Anthony<br />　　　　 &nbsp;　Elana Dunkelman<br />　　　　 &nbsp;　Kate Ziegler<br />　　　　 &nbsp;　James Eddy<br />　　　　 &nbsp;　Adam Winlove-Smith<br />　　　　 &nbsp;　Alicia Richardson<br />　　　　 &nbsp;　奈特·法松 Nat Faxon<br />　　　　 &nbsp;　盖伊·布西克 Guy Busick<br />　　　　 &nbsp;　R.克里斯托弗·墨菲 R. Christopher Murphy<br />　　　　 &nbsp;　詹姆斯·范德比尔特 James Vanderbilt<br /><br />◎简　　介<br /><br />剧情讲述一位新娘即将嫁入豪门，婚礼当天晚上，姻亲们强迫她参与一项离奇恐怖的捉迷藏游戏，引发致命灾难。<br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 77939076738472564766072648439957231839 (0x3AA2852A0C4B2A9D09C18B9B06DB18DF)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 准备好了没.Ready.or.Not.2019.2160p.DSNP.WEB-DL.H.265.HDR10.DDP5.1-AilMWeb.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 9.62 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 36 min<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.2 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2026-03-10 10:13:33 UTC<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v96.0 ('It's My Life') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@High<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : SMPTE ST 2086, HDR10 compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 36 min<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Nobody's Fool 1994 2160p UHD Blu-ray DV REMUX HEVC DTS-HD MA 5.1-HDH[56.75 GB]</title>
+<link>https://hdhome.org/details.php?id=148180</link>
+<guid isPermaLink="false">499afab1539ac7e1c1dddd27808f63a19164c805</guid>
+<pubDate>Wed, 28 Dec 2022 08:49:08 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=148180" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [已拥有] Nobody's Fool 1994 2160p UHD Blu-ray DV REMUX HEVC DTS-HD MA 5.1-HDH[56.75 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 28 Dec 2022 08:49:08 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=148180">https://hdhome.org/details.php?id=148180</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img.hdhome.org/images/2022/12/26/e5048a5911885f9fdd072037719bcc7d.png" /><br />
+<br />
+◎译　　名　大智若愚<br />
+◎片　　名　Nobody&#039;s Fool<br />
+◎年　　代　1994<br />
+◎产　　地　美国<br />
+◎类　　别　剧情<br />
+◎语　　言　英语<br />
+◎上映日期　1994-12-23(美国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0110684/" target="_blank">https://www.imdb.com/title/tt0110684/</a><br />
+◎豆瓣评分　8.0/10 from 1363 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1297601/" target="_blank">https://douban.com/subject/1297601/</a><br />
+◎片　　长　110 分钟<br />
+◎导　　演　罗伯特·本顿 Robert Benton<br />
+◎编　　剧　理查德·拉索 Richard Russo / 罗伯特·本顿 Robert Benton<br />
+◎主　　演　保罗·纽曼 Paul Newman<br />
+　　　　 &nbsp;　杰西卡·坦迪 Jessica Tandy<br />
+　　　　 &nbsp;　布鲁斯·威利斯 Bruce Willis<br />
+　　　　 &nbsp;　梅兰尼·格里菲斯 Melanie Griffith<br />
+　　　　 &nbsp;　迪伦·沃尔什 Dylan Walsh<br />
+　　　　 &nbsp;　普路特·泰勒·文斯 Pruitt Taylor Vince<br />
+　　　　 &nbsp;　吉恩·萨克斯 Gene Saks<br />
+　　　　 &nbsp;　约瑟夫·索默 Josef Sommer<br />
+　　　　 &nbsp;　菲利普·塞默·霍夫曼 Philip Seymour Hoffman<br />
+　　　　 &nbsp;　菲利普·博斯科 Philip Bosco<br />
+　　　　 &nbsp;　凯瑟琳·丹特 Catherine Dent<br />
+　　　　 &nbsp;　Alexander Goodwin Alexander Goodwin<br />
+　　　　 &nbsp;　卡尔·马图斯维奇 Carl J. Matusovich<br />
+　　　　 &nbsp;　杰·帕特森 Jay Patterson<br />
+　　　　 &nbsp;　杰瑞·梅尔 Jerry Mayer<br />
+　　　　 &nbsp;　爱丽丝·德拉蒙德 Alice Drummond<br />
+　　　　 &nbsp;　玛格·马丁戴尔 Margo Martindale<br />
+　　　　 &nbsp;　安吉丽卡·托恩 Angelica Torn<br />
+　　　　 &nbsp;　Shannah Laumeister Shannah Laumeister<br />
+　　　　 &nbsp;　Page Johnson Page Johnson<br />
+　　　　 &nbsp;　Anibal O. Lleras Anibal O. Lleras<br />
+　　　　 &nbsp;　伊莉莎白·威尔森 Elizabeth Wilson<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　演员阵容鼎盛的文艺小品，包括：保罗．纽曼、布鲁斯．威利斯、梅拉尼．格里菲思、洁西卡．坦迪等。导演是导过《克拉玛对克拉玛》的罗伯特．本顿。剧情以一名个性倔强的老建筑工为中心，描写他与周遭的镇民在纽约北部的朴素小镇中过着虽不富足却悠然自得的生活。全片没有太大的戏剧高潮，但对小镇风情的经营相当成功，保罗．纽曼演出跟他实际年龄相称的老角仍具神出鬼没风彩，获柏林电影节最佳男主角奖。<br />
+　　<br />
+<br />
+◎获奖情况<br />
+<br />
+　　第67届奥斯卡金像奖 &nbsp;(1995)<br />
+　　最佳男主角(提名) 保罗·纽曼<br />
+　　最佳改编剧本(提名) 罗伯特·本顿<br />
+　　<br />
+　　第45届柏林国际电影节 &nbsp;(1995)<br />
+　　金熊奖最佳影片(提名) 罗伯特·本顿<br />
+　　银熊奖最佳男演员 保罗·纽曼<br />
+　　<br />
+　　第52届金球奖 &nbsp;(1995)<br />
+　　电影类剧情片最佳男主角(提名) 保罗·纽曼<br />
+<br />
+<br />
+<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="faqlink" href="https://img.hdhome.org/image/Bs6rL"><img alt="image" src="https://img.hdhome.org/images/2021/02/01/6625a368a2e98cadf63276e1e166b201.png" /></a><br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Nobody&#039;s.Fool.1994.2160p.UHD.Blu-ray.DV.REMUX.HEVC.DTS-HD.MA.5.1-HDH<br />
+<br />
+.Release.Info<br />
+SOURCE .........: Nobody&#039;s.Fool.1994.2160p.UHD.Blu-ray.HEVC.DTS-HD.MA.5.1-DiY@HDHome<br />
+RELEASE DATE....: 12/28/2022<br />
+FilE SiZE.......: 56.74 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:50:12.022 (h:m:s)<br />
+RESOLUTiON......: 3840 x 2160<br />
+ViDEO BiTRATE...: HEVC L5.1 Main 10 @ 69770 Kbps<br />
+HDR 1...........: Dolby Vision, dvhe 07.06, BL+EL+RPU, Blu-ray compatible<br />
+HDR 2...........: SMPTE ST 2086, HDR10 compatible<br />
+ASPECT RATiO....: 16 : 9<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English DTS-HDMA 5.1 @ 3832 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: Chinese/PGS<br />
+SUBTiTLE 3......: Chinese/PGS<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<a class="faqlink" href="https://img.hdhome.org/image/Fq3UL"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/a0509b7dbe1c0f901e0ddc6fae2ffe06.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/FqtEF"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/f92d2e1265ef3b0c0666927cf8231e4c.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/Fq1iN"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/53fb73a46827668193bda77a5659c5a2.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/FqCND"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/d0e115b658dd352b25d68458d3cf4f8c.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/FqP0e"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/4bd4bb2a2993902a54a9d039601f7e17.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/FqLP3"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/157e9f416d49f525065a23eadb6da57d.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/FqUvi"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/fdf912242495c17f623e90b45c1a2f89.jpg" /></a><br />
+<a class="faqlink" href="https://img.hdhome.org/image/Fqac8"><img alt="image" src="https://img.hdhome.org/images/2022/12/26/8b87837f8ca3c435dd6d5ce698c129ca.jpg" /></a><br />
+<a class="faqlink" href="...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Breakdown 1997 2160p UHD Blu-ray TrueHD5.1 x265-HDH[23.43 GB]</title>
+<link>https://hdhome.org/details.php?id=223393</link>
+<guid isPermaLink="false">d9415711b2c96cc54cd1c8bbd3c7c6acd39c7ec4</guid>
+<pubDate>Wed, 06 Nov 2024 07:40:12 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=223393" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [已拥有] Breakdown 1997 2160p UHD Blu-ray TrueHD5.1 x265-HDH[23.43 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 06 Nov 2024 07:40:12 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=223393">https://hdhome.org/details.php?id=223393</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img.hdhome.org/images/2024/10/16/09062f45dc4c1d6209739513118ba4f3.jpg" /><br />
+<br />
+◎译　　名　悍将奇兵/绝地危机<br />
+◎片　　名　Breakdown<br />
+◎年　　代　1997<br />
+◎产　　地　美国<br />
+◎类　　别　悬疑/惊悚/犯罪<br />
+◎语　　言　英语<br />
+◎上映日期　1997-08-28<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0118771/" target="_blank">https://www.imdb.com/title/tt0118771/</a><br />
+◎豆瓣评分　7.5/10 from 4051 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1304828/" target="_blank">https://douban.com/subject/1304828/</a><br />
+◎片　　长　93 分钟<br />
+◎导　　演　乔纳森·莫斯托 Jonathan Mostow<br />
+◎编　　剧　乔纳森·莫斯托 Jonathan Mostow<br />
+◎主　　演　库尔特·拉塞尔 Kurt Russell<br />
+　　　　 &nbsp;　凯瑟琳·奎南 Kathleen Quinlan<br />
+　　　　 &nbsp;　J·T·沃尔什 J.T. Walsh<br />
+　　　　 &nbsp;　迈克·康纳·盖尼 M.C. Gainey<br />
+　　　　 &nbsp;　杰克·诺斯沃迪 Jack Noseworthy<br />
+　　　　 &nbsp;　瑞克斯·林恩 Rex Linn<br />
+　　　　 &nbsp;　里奇·布林克利 Ritch Brinkley<br />
+　　　　 &nbsp;　Gene Hartline Gene Hartline<br />
+　　　　 &nbsp;　Vincent Berry Vincent Berry<br />
+　　　　 &nbsp;　Alitzah Alitzah<br />
+　　　　 &nbsp;　托马斯·科帕切 Thomas Kopache<br />
+　　　　 &nbsp;　安塞尔·库克 Ancel Cook<br />
+　　　　 &nbsp;　茉拉哈瑞斯 Moira Harris<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　杰夫（库尔特·拉塞尔 Kurt Russell 饰）和艾米（凯瑟琳·奎南 Kathleen Quinlan 饰）是一对夫妻，在一次长途旅行之中，两人驾驶的车辆在荒郊野岭里抛锚了。正当两人急得焦头烂额之际，一个名叫瑞德（J·T·沃尔什 J.T. Walsh 饰）的陌生男人出现在了他们面前。瑞德好心的告诉杰夫和艾米，在不远处有地方能够叫到拖车，杰夫边让艾米跟随瑞德前往，很快，这个错误的决定就让杰夫付出了代价。<br />
+　　<br />
+　　在等待拖车的过程中，杰夫自己修好了车，于是，他决定驱车前往瑞德所说的那个地方寻找瑞德和艾米。没想到，当杰夫到达后，当地没有一个人声称见过艾米。杰夫找到瑞德向其质问，瑞德竟然说自己不认识杰夫，更别提什么艾米了。敏感的杰夫察觉事情有诈，他想向警方求助可手上没有任何证据，一时间，杰夫陷入了绝望的境地。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Breakdown.1997.2160p.UHD.Blu-ray.TrueHD5.1.x265-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 1997<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt0118771" target="_blank">https://www.imdb.com/title/tt0118771</a><br />
+iMDB RATiNG.....: 7.0/10 &nbsp;63,518 votes<br />
+GENRE...........: Crime, Drama, Mystery<br />
+<br />
+.Release.Info<br />
+SOURCE .........: 1997.2160p.UHD.Blu-ray.HEVC.TrueHD5.1-DiY@HDHome<br />
+RELEASE DATE....: 11/06/2024<br />
+FilE SiZE.......: 23.43 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:33:07.734 (h:m:s)<br />
+RESOLUTiON......: 3840 x 1636<br />
+ViDEO BiTRATE...: x265 L5.1 Main 10 @ 27774 Kbps<br />
+ASPECT RATiO....: 2.35 : 1<br />
+FRAME RATE......: 23.976 fps<br />
+HDR Format 1....: Dolby Vision, Version 1.0, dvhe.08.06, BL+RPU, HDR10 compatible<br />
+HDR Format 2....: SMPTE ST 2086, HDR10 compatible<br />
+AUDiO 1.........: English Dolby TrueHD 5.1 @ 3482 Kbps &nbsp; <br />
+AUDiO 2.........: English DD 5.1 @ 640 Kbps &nbsp; <br />
+AUDiO 3.........: Chinese DTS-HDMA 5.1 @ 3966 Kbps &nbsp; 国语配音<br />
+SUBTiTLE 1......: English/PGS &nbsp; <br />
+SUBTiTLE 2......: English/PGS &nbsp; <br />
+SUBTiTLE 3......: French/PGS &nbsp; <br />
+SUBTiTLE 4......: Chinese/PGS &nbsp; 简体中字<br />
+SUBTiTLE 5......: Chinese/PGS &nbsp; 繁体中字<br />
+SUBTiTLE 6......: Chinese/PGS &nbsp; 简英双语<br />
+SUBTiTLE 7......: Chinese/PGS &nbsp; 繁英双语<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="https://img.hdhome.org/images/2024/11/06/5f58dac240708b4a9e2dbf17482fc1dd.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] Megamind 2010 Blu-ray 1080p REMUX AVC TrueHD 7.1-HDH[20.87 GB]</title>
+<link>https://hdhome.org/details.php?id=84170</link>
+<guid isPermaLink="false">a2b948b38104c856b9d8f9ede689f10364a519ac</guid>
+<pubDate>Wed, 14 Apr 2021 08:23:16 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=84170" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [已拥有] Megamind 2010 Blu-ray 1080p REMUX AVC TrueHD 7.1-HDH[20.87 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 14 Apr 2021 08:23:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=84170">https://hdhome.org/details.php?id=84170</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p639914227.jpg" /><br />
+<br />
+◎译　　名　超级大坏蛋/超级反派/麦克迈：超能坏蛋(台)/毛百万(港)/思维大师/智力怪师/智者<br />
+◎片　　名　Megamind<br />
+◎年　　代　2010<br />
+◎产　　地　美国<br />
+◎类　　别　喜剧/动作/动画<br />
+◎语　　言　英语<br />
+◎上映日期　2010-11-05(美国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt1001526/" target="_blank">https://www.imdb.com/title/tt1001526/</a><br />
+◎豆瓣评分　7.8/10 from 115214 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/2303163/" target="_blank">https://douban.com/subject/2303163/</a><br />
+◎片　　长　95分钟<br />
+◎导　　演　汤姆·麦格拉思 Tom McGrath<br />
+◎编　　剧　艾伦·J·斯库尔克拉夫特 Alan J. Schoolcraft / 布伦特·西蒙斯 Brent Simons<br />
+◎主　　演　威尔·法瑞尔 Will Ferrell<br />
+　　　　 &nbsp;　乔纳·希尔 Jonah Hill<br />
+　　　　 &nbsp;　布拉德·皮特 Brad Pitt<br />
+　　　　 &nbsp;　蒂娜·菲 Tina Fey<br />
+　　　　 &nbsp;　大卫·克罗斯 David Cross<br />
+　　　　 &nbsp;　贾斯汀·塞洛克斯 Justin Theroux<br />
+　　　　 &nbsp;　本·斯蒂勒 Ben Stiller<br />
+　　　　 &nbsp;　杰西卡·舒尔特 Jessica Schulte<br />
+　　　　 &nbsp;　汤姆·麦格拉思 Tom McGrath<br />
+　　　　 &nbsp;　艾米莉·诺德万 Emily Nordwind<br />
+　　　　 &nbsp;　J·K·西蒙斯 J.K. Simmons<br />
+<br />
+◎标　　签　动画 | 梦工厂 | 美国 | 喜剧 | 2010 | 动画片 | 美国动画 | 美国电影<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　很多年前，银河系另一端的两颗行星被黑洞所吞噬，两个尚在襁褓中的外星孩子乘坐飞行器来到地球。拥有超能力的他们在截然不同的环境中长大，也造就了各自不同的性格和人生走向。长大后，仪表堂堂、正气凌然的成为了保卫城市和平的城市超人（布莱德·彼特 Brad Pitt 配音），而相貌猥琐、蓝皮大头的则化身破坏人民安康的大坏蛋麦克迈（威尔·法瑞尔 Will Ferrell 配音）。他们终日争斗，战争不断。城市超人博物馆开幕当天，麦克迈成功越狱，并劫持了美丽的女主播罗珊（蒂娜·费 Tina Fey 配音）。在天文台的终极决战中，麦克迈成功击败多年的老对手，完全统治了这座城市。<br />
+　　<br />
+　　好景不长，失去对手的麦克迈很快便觉得寡然无味。偶然间受到罗珊的启发，他决心创造出一个新的正义英雄，恢复当初此消彼长的快乐日子。只是，一切开始朝着不可预测的方向发展……<br />
+　　<br />
+<br />
+◎获奖情况<br />
+<br />
+　　第38届动画安妮奖 &nbsp;(2011)<br />
+　　最佳编剧(提名) 艾伦·J·斯库尔克拉夫特 / 布伦特·西蒙斯<br />
+　　最佳分镜(提名) 凯瑟琳·雅<br />
+　　最佳动画角色(提名) 安东尼·霍奇森<br />
+　　最佳角色设计(提名)<br />
+　　最佳动画效果(提名) 克日什托夫·罗斯泰克<br />
+　　<br />
+　　第9届华盛顿影评人协会奖 &nbsp;(2010)<br />
+　　最佳动画片(提名)<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Megamind.2010.Blu-ray.1080p.REMUX.AVC.TrueHD.7.1-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 2010<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt1001526" target="_blank">https://www.imdb.com/title/tt1001526</a><br />
+iMDB RATiNG.....: 7.2/10 &nbsp;230,517 votes<br />
+GENRE...........: Animation, Action, Comedy, Family, Sci-Fi<br />
+<br />
+.Release.Info<br />
+SOURCE .........: Megamind.2010.Blu-ray.1080p.AVC.TrueHD7.1-DiY@HDHome<br />
+RELEASE DATE....: 04/14/2021<br />
+FilE SiZE.......: 20.87 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:35:34.688 (h:m:s)<br />
+RESOLUTiON......: 1920 x 1080<br />
+ViDEO BiTRATE...: AVC L4.1 High @ 26930 Kbps<br />
+ASPECT RATiO....: 16 : 9<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English Dolby TrueHD 7.1 @ 2876 Kbps<br />
+AUDiO 2.........: English DD 5.1 @ 640 Kbps<br />
+AUDiO 3.........: English DD 5.1 @ 640 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: English/PGS<br />
+SUBTiTLE 3......: French/PGS<br />
+SUBTiTLE 4......: Spanish/PGS<br />
+SUBTiTLE 5......: Chinese/PGS<br />
+SUBTiTLE 6......: Chinese/PGS<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vcDk"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/53aaf8f2082e5a8ba0fa1d96c3444c99.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vsAF"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/d1dee9829339a87c9b72307867912e55.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vjng"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/d26f3829981135ea0887cfc65854b1b2.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vpd5"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/b732abbd08045e45582716749b961a06.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vQLe"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/de2233d35686257d43ac549697f12ba7.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0v4oD"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/52fe617a90a1af5a26609f5aa9fa4d2b.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0vrGN"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/29f4015ec59c9ab9d4306a5a4d849781.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0yifL"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/fc64994ea4b55038b51e03bf1cfcad0b.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0ympi"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/63ac003a0f47ab3a53361a5f86a23582.md.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/0yBx8"><img alt="image" src="http://img.hdhome.org/images/2021/04/14/4df07a5f...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Testament 1983 4K Remaster Criterion Collection BluRay 1080p DD1.0 x264-BMDru[14.84 GB]</title>
+<link>https://hdhome.org/details.php?id=282977</link>
+<guid isPermaLink="false">12dbe4ecb1e0a4e3b16db5d4b1d0bfb25c6e4401</guid>
+<pubDate>Wed, 11 Mar 2026 10:37:32 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=282977" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [已拥有] Testament 1983 4K Remaster Criterion Collection BluRay 1080p DD1.0 x264-BMDru[14.84 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:37:32 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=282977">https://hdhome.org/details.php?id=282977</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://s3.amazonaws.com/criterion-production/films/99a25f0feeec6404d57f3443614e6730/jxtrY0eek0ZxRNXnWh0g5s1K0w1l7s_large.jpg" /><br />
+<br />
+◎译　　名　遗嘱 / 遺囑 / 證言(台)<br />
+◎片　　名　Testament<br />
+◎年　　代　1983<br />
+◎产　　地　美国<br />
+◎类　　别　剧情 / 科幻<br />
+◎语　　言　英语<br />
+◎上映日期　1983-11-04<br />
+◎IMDb评分  6.9/10 from 7844 users<br />
+◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt0086429/">https://www.imdb.com/title/tt0086429/</a><br />
+◎豆瓣评分　7.1/10 from 285 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/1293803/">https://movie.douban.com/subject/1293803/</a><br />
+◎片　　长　90 分钟<br />
+◎主　　演　凯文·科斯特纳 Kevin Costner<br />
+  瑞贝卡·德·莫妮 Rebecca De Mornay<br />
+  卢卡斯·哈斯 Lukas Haas<br />
+<br />
+◎简　　介<br />
+<br />
+  首度执导电影的电视女导演琳妮李特曼在此片表现出非同一般的才能，珍亚历山大和威廉狄凡在此片中也有精彩细致动人的表演。剧情虚构了一次核子战争后，美国加州一个侥幸逃过此劫的家庭在极端艰难的环境中生存下来的故事。该片采用半纪录性的手法，通过日复一日观察剧中人的生活转变，让观众从近乎切身经历的遭遇中反省人类面临核战这一大悲剧，并暗示性地鼓励人们采取措施制止这类事件的发生<br />
+  imdb:7.5/10 (891 votes)<br />
+<br />
+◎获奖情况<br />
+<br />
+  第56届奥斯卡金像奖  (1984)<br />
+最佳女主角(提名)  简·亚历山大<br />
+<br />
+特别收录：<br />
+• 全新 4K 数字修复版，由导演琳恩·利特曼和摄影指导史蒂文·波斯特亲自监督和批准，并配有无损单声道音轨<br />
+• 利特曼与作家萨姆·沃森的全新对话<br />
+• 利特曼与人类学家芭芭拉·迈尔霍夫合作拍摄的两部纪录片：《数算我们的日子》（1976）和《在她自己的时代》（1985）<br />
+• 《遗嘱》上映 20 周年纪念特辑和《核思考》专题节目，包含对演员、剧组人员和核科学专家的采访<br />
+• 演员简·亚历山大朗读短篇小说《最后的遗嘱》（本片即改编自该小说）的录音<br />
+• 预告片<br />
+• 为听障人士提供的英文字幕<br />
+<br />
+<fieldset><legend> 引用 </legend><br />
+Title........: Testament (1983)                        <br />
+Release Group: BMDru                                   <br />
+Ripper ......: chinyan                                 <br />
+Release Date : 03/10/2026                              <br />
+HD Source....: Testament 1983 1080p Blu-ray AVC        <br />
+               LPCM 1.0-TMT (Thanks)                   <br />
+Video Format : x264                                    <br />
+Video Bitrate: 9101KBit/s                              <br />
+Aspect Ratio : 1.850:1                                 <br />
+Resolution ..: 1920 x 1038                             <br />
+Audio Bitrate: AC3 640 Kbps, 48 KHz, 16 bits , 1-ch    <br />
+BD Length ...: 1:29:51 (h:m:s)                         <br />
+Frame Rate ..: 23.976 fps                              <br />
+Language.....: English                                 <br />
+Subtitle(s) .: Chs(ass) / Cht(ass) / Eng(sup)          <br />
+Film Genre...: Drama / Sci-Fi                          <br />
+File Size ...: 6.11 GB                                 <br />
+IMDB Rating..: 6.9/10 from 7,943 users                 <br />
+                                                       <br />
+<a class="faqlink" href="http://www.imdb.com/title/tt0086429/">http://www.imdb.com/title/tt0086429/</a>                   <br />
+                                                       <br />
+Config : ref=16,subme=11,Bbframes=16,me=umh,me_range=64<br />
+</fieldset><br />
+<br />
+<span style="color: blue;"><font size="4">正片截图!</font> </span><br />
+<br />
+<a class="faqlink" href="https://imgbox.com/UullsoVz"><img alt="image" src="https://thumbs2.imgbox.com/41/50/UullsoVz_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/pjFP1Otu"><img alt="image" src="https://thumbs2.imgbox.com/f4/ec/pjFP1Otu_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/dGFEkyLn"><img alt="image" src="https://thumbs2.imgbox.com/cb/10/dGFEkyLn_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/juQjlxwm"><img alt="image" src="https://thumbs2.imgbox.com/21/e7/juQjlxwm_t.png" /></a> <br />
+<br />
+<span style="color: blue;"><font size="4">花絮截图!</font> </span><br />
+<br />
+<a class="faqlink" href="https://imgbox.com/qINIssn9"><img alt="image" src="https://thumbs2.imgbox.com/e5/28/qINIssn9_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/YYotU6Ow"><img alt="image" src="https://thumbs2.imgbox.com/7d/f8/YYotU6Ow_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/gE7GWEY8"><img alt="image" src="https://thumbs2.imgbox.com/35/e4/gE7GWEY8_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/BB7GJrFW"><img alt="image" src="https://thumbs2.imgbox.com/47/3c/BB7GJrFW_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/q8lwPyA9"><img alt="image" src="https://thumbs2.imgbox.com/48/42/q8lwPyA9_t.png" /></a> <br />
+<a class="faqlink" href="https://imgbox.com/lOJn3vZ7"><img alt="image" src="https://thumbs2.imgbox.com/94/93/lOJn3vZ7_t.png" /></a></div>]]></description>
+</item>
+<item>
+<title>[未监控] Sun Dogs 2017 1080p NF WEB-DL x264 DD5.1-NTG[3.14 GB]</title>
+<link>https://hdhome.org/details.php?id=282975</link>
+<guid isPermaLink="false">27749e6c3f6c39653bd2c96f4c227a3f3a60465b</guid>
+<pubDate>Wed, 11 Mar 2026 10:13:43 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=282975" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📝 标题:</b> [未监控] Sun Dogs 2017 1080p NF WEB-DL x264 DD5.1-NTG[3.14 GB]</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 10:13:43 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=282975">https://hdhome.org/details.php?id=282975</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://image.tmdb.org/t/p/original/hiEHsguMwMyZMRXgjgQaB2Vpbzj.jpg" /><br />
+<br />
+◎译　　名　幻日奇遇<br />
+◎片　　名　Sun Dogs<br />
+◎年　　代　2017<br />
+◎产　　地　美国 / 墨西哥<br />
+◎类　　别　喜剧<br />
+◎语　　言　英语<br />
+◎上映日期　2017-06-18(洛杉矶电影节) / 2018-04-06(美国)<br />
+◎IMDb评分 &nbsp;6.3 (2648人评价)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt5665452/">https://www.imdb.com/title/tt5665452/</a><br />
+◎豆瓣评分　6.4 (387人评价)<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/26808814/">https://movie.douban.com/subject/26808814/</a><br />
+◎片　　长　94分钟<br />
+◎导　　演　詹妮弗·莫里森 Jennifer Morrison<br />
+◎编　　剧　Raoul McFarland Raoul McFarland <br />
+　　　　　　 安东尼·塔姆巴基斯 Anthony Tambakis<br />
+◎主　　演　迈克尔·安格拉诺 Michael Angarano<br />
+　　　　　　梅莉莎·班诺伊 Melissa Benoist<br />
+　　　　　　J·R·拉米雷斯 J.R. Ramirez<br />
+　　　　　　詹妮弗·莫里森 Jennifer Morrison<br />
+　　　　　　艾莉森·詹尼 Allison Janney<br />
+　　　　　　艾瑞克·克里斯蒂安·奥森 Eric Christian Olsen<br />
+　　　　　　艾德·奥尼尔 Ed O&#039;Neill<br />
+　　　　　　尼科·尼科特拉 Niko Nicotera<br />
+　　　　　　艾勒比 Xzibit<br />
+　　　　　　钱佛南 Fernando Chien<br />
+◎简　　介<br />
+<br />
+　　　　　　讲述男主角Ned Chipley出生因发生意外而时智力受限，在第四次尝试加入海军失败后，他和离家出走的少女Tally Petersen组队，监视一群年轻人，他俩错认为他们是恐怖分子，不幸与国土安全局扯上关系。<br />
+<br />
+<img alt="image" src="https://pterclub.net/pic/CS.png" /><br />
+<br />
+<fieldset><legend> 引用 </legend><br />
+General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 245882300843485572325625717870671340660 (0xB8FB3566BD4E3AA37A896F507F6EA474)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Sun.Dogs.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3.14 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 33 min<br />
+Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 792 kb/s<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />
+Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2018-04-06 07:01:38 UTC<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v21.0.0 (&#039;Tardigrades Will Inherit The Earth&#039;) 64-bit<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.3.5 + libmatroska v1.4.8<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main@L4<br />
+Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 3 Ref Frames<br />
+Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
+Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 3 frames<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 33 min<br />
+Bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 420 kb/s<br />
+Maximum bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 6 630 kb/s<br />
+Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />
+Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 080 pixels<br />
+Dis...</div>]]></description>
 </item>
 </channel>
 </rss>
