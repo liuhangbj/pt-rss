@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
 <channel>
-<title>PT电影RSS</title>
+<title>PT电影RSS - 简化版</title>
 <link>https://liuhangbj.github.io/pt-rss</link>
-<description>PT电影RSS - 生成时间: 2026-03-10 18:22:54</description>
-<lastBuildDate>Tue, 10 Mar 2026 18:22:54 +0800</lastBuildDate>
-<language>zh-CN</language>
 <item>
-<title>[未监控] Banduan 2025 1080p NF WEB-DL DD+ 5.1 H.264-playWEB[4.98 GB]</title>
-<link>https://audiences.me/details.php?id=631427</link>
-<guid isPermaLink="false">f6b429ed1bac8e69e3e050b86e45b056820be91e</guid>
-<pubDate>Tue, 10 Mar 2026 18:07:39 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=631427" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📝 标题:</b> [未监控] Banduan 2025 1080p NF WEB-DL DD+ 5.1 H.264-playWEB[4.98 GB]</p>
-<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 18:07:39 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631427">https://audiences.me/details.php?id=631427</a></p>]]></description>
-</item>
-<item>
-<title>[已拥有] Rental Family 2025 1080p BluRay x264 DTS 5.1-WiKi[9.75 GB]</title>
-<link>https://audiences.me/details.php?id=631408</link>
-<guid isPermaLink="false">29667ff10b4d96962040f6c6f1be2b2c06e33366</guid>
-<pubDate>Tue, 10 Mar 2026 17:50:58 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=631408" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📝 标题:</b> [已拥有] Rental Family 2025 1080p BluRay x264 DTS 5.1-WiKi[9.75 GB]</p>
-<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 17:50:58 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631408">https://audiences.me/details.php?id=631408</a></p>]]></description>
+<title>[已拥有] The Doors 1991 2160p</title>
+<link>https://hdhome.org/details.php?id=208243</link>
+<guid>test-item-001</guid>
+</description>测试</description>
 </item>
 </channel>
 </rss>
