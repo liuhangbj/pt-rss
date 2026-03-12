@@ -3,76 +3,1332 @@
 <channel>
 <title>PT电影RSS</title>
 <link>https://liuhangbj.github.io/pt-rss</link>
-<description>PT电影RSS - 生成时间: 2026-03-12 09:28:24</description>
-<lastBuildDate>Thu, 12 Mar 2026 09:28:24 +0800</lastBuildDate>
+<description>PT电影RSS - 生成时间: 2026-03-12 09:44:00</description>
+<lastBuildDate>Thu, 12 Mar 2026 09:44:00 +0800</lastBuildDate>
 <language>zh-CN</language>
 <item>
-<title>[未监控] A Samurai in Time 2023 1080p BluRay x264 DTS-WiKi[9.76 GB]</title>
-<link>https://audiences.me/details.php?id=632181</link>
-<guid isPermaLink="false">01a1f710bd3888e7cf79bdb96a4c08d37504a00e</guid>
-<pubDate>Thu, 12 Mar 2026 08:23:17 +0800</pubDate>
+<title>[缺少] [电影]Amsterdamned II 2025 2160p AMZN WEB-DL DD+ 5.1 H.265-playWEB[阿姆斯特丹的水鬼2 | 类型：动作 惊悚 恐怖][12.01 GB]</title>
+<link>https://audiences.me/details.php?id=630965</link>
+<guid isPermaLink="false">d8d4b509078b7194527c2501c974c3f070c9ed18</guid>
+<pubDate>Mon, 09 Mar 2026 16:43:55 +0800</pubDate>
 <source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=632181" type="application/x-bittorrent" />
+<enclosure url="https://audiences.me/download.php?id=630965" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:23:17 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632181">https://audiences.me/details.php?id=632181</a></p>]]></description>
+<p><b>📅 发布时间:</b> Mon, 09 Mar 2026 16:43:55 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=630965">https://audiences.me/details.php?id=630965</a></p>]]></description>
 </item>
 <item>
-<title>[已拥有] Relationship Goals 2026 2160p AMZN WEB-DL HDR H.265 DDP5.1 Atmos-ADWeb[9.98 GB]</title>
-<link>https://audiences.me/details.php?id=632231</link>
-<guid isPermaLink="false">a7e106fe72772f56818af82e2a8c490456932d4a</guid>
-<pubDate>Thu, 12 Mar 2026 08:13:44 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=632231" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:13:44 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632231">https://audiences.me/details.php?id=632231</a></p>]]></description>
-</item>
-<item>
-<title>[未监控] Tell Me Softly 2025 2160p AMZN WEB-DL HDR H.265 DDP5.1 Atmos-ADWeb[12.81 GB]</title>
-<link>https://audiences.me/details.php?id=632227</link>
-<guid isPermaLink="false">ccb24c0018b32f56ae892c34d4dbc4f1acdad798</guid>
-<pubDate>Thu, 12 Mar 2026 08:11:52 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=632227" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:11:52 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632227">https://audiences.me/details.php?id=632227</a></p>]]></description>
-</item>
-<item>
-<title>[已拥有] Love Me Love Me 2026 2160p AMZN WEB-DL H.265 DDP5.1 Atmos-ADWeb[10.54 GB]</title>
-<link>https://audiences.me/details.php?id=632222</link>
-<guid isPermaLink="false">6d90ceba2b0779648c64ebb74d6e819783ba801f</guid>
-<pubDate>Thu, 12 Mar 2026 08:10:03 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=632222" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:10:03 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632222">https://audiences.me/details.php?id=632222</a></p>]]></description>
-</item>
-<item>
-<title>[未监控] So Long Stooge 1983 1080p BluRay x264 FLAC 2.0-ADE[10.37 GB]</title>
-<link>https://ptchdbits.co/details.php?id=531473</link>
-<guid isPermaLink="false">8c242ef7ce0f0a44bae18f11c420943082208d9b</guid>
-<pubDate>Thu, 12 Mar 2026 08:37:28 +0800</pubDate>
+<title>[未监控] [Movies]Avengement 2019 2160p BluRay x265 10bit DTS-WiKi[复仇者/糙汉复仇爽片*杰西·约翰逊导演作品/ 向经典黑帮片致敬 *官译简繁英字幕][19.34 GB]</title>
+<link>https://ptchdbits.co/details.php?id=530983</link>
+<guid isPermaLink="false">e7084a0a023695aa9474f94e2e0f9c982b2fb704</guid>
+<pubDate>Mon, 09 Mar 2026 22:11:48 +0800</pubDate>
 <source>ptchdbits</source>
-<enclosure url="https://ptchdbits.co/download.php?id=531473" type="application/x-bittorrent" />
+<enclosure url="https://ptchdbits.co/download.php?id=530983" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:37:28 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531473">https://ptchdbits.co/details.php?id=531473</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">Audiences官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br /><font size="5"><span style="color: royalblue;">原盘来自DIY@Audies，字幕素材来自@宏毛水怪，英语字幕来自OS。<br />由Audiences字幕组完成双语合并、校对、调整。<br />字幕转载务必注意礼节，请保留原作者信息，谢绝二次提取修改！<br />在此感谢各位原作者及分享者！如有侵权请联系删除！</span></font></fieldset><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/original/1D9o6nZDPhB0utyahu5WiSlKMLl.jpg" /><br />◎译　　名 &nbsp;告别往昔<br />◎片　　名　Tchao pantin<br />◎年　　代　1983<br />◎产　　地　法国<br />◎类　　别　剧情<br />◎语　　言　法语<br />◎上映日期　1983-12-21<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0086420/">https://www.imdb.com/title/tt0086420/</a><br />◎豆瓣评分　/10 from 0 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/1302763/">https://movie.douban.com/subject/1302763/</a><br />◎导　　演 &nbsp;克劳德·贝里 Claude Berri<br />◎编　　剧 &nbsp;克劳德·贝里 Claude Berri<br />◎主　　演 &nbsp;科鲁彻 Coluche<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 里夏尔·安科尼纳 Richard Anconina<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 阿涅丝·绍拉尔 Agnès Soral<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 菲利普·莱奥塔尔 Philippe Léotard<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 穆罕默德·赞莫利 Mahmoud Zemmouri<br /><br />◎简　　介 &nbsp;<br /><br />　一个由于遭受毒品侵害而丧失妻儿的警察局侦探，以自己的方式单枪匹马地破获了一起贩毒案，并杀死了三名毒贩。影片以侦探故事为背景，展现了现实生活中迷惘的人群和厌世心理。<br /><br /><fieldset><legend> 引用 </legend><br /><font face="Lucida Console"><br />.Release.Info<br />ENCODER...................: ADE<br />RELEASE NAME..............: So.Long.Stooge.1983.1080p.BluRay.x264.FLAC.2.0-ADE<br />RELEASE DATE..............: 2025-04-12<br />RELEASE SiZE..............: 10.37 GiB<br />SOURCE....................: So Long Stooge 1983 1080p GBR BluRay AVC LPCM 2.0-DIY@Audies (Thanks)<br /><br />.Media.Info<br />RUNTiME...................: 1 h 34 min 16 s<br />ViDEO CODEC...............: x264 High-L4.1 &nbsp;@ 15.3Mb/s<br />RESOLUTiON................: 1792 x 1080<br />DiSPLAY ASPECT RATiO......: 5:3<br />FRAME RATE................: 23.976 FPS<br />BIT DEPTH.................: 8 bits<br />AUDiO CODEC...............: French FLAC 2.0 @ 386Kbps<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (chs&amp;eng)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht&amp;eng)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (chs)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht)<br />SUBTiTLES.................: S_HDMV/PGS : English (eng)<br /><br />.x264.Info<br />x264 [info]: profile High, level 4.1, 4:2:0, 8-bit<br />x264 [info]: frame I:613 &nbsp; Avg QP:20.99 &nbsp;size:204750<br />x264 [info]: frame P:23515 Avg QP:22.63 &nbsp;size:141555<br />x264 [info]: frame B:111487 Avg QP:25.05 &nbsp;size: 66151<br />x264 [info]: consecutive B-frames: &nbsp;0.7% &nbsp;0.5% &nbsp;2.1% &nbsp;8.4% 12.4% 48.6% 10.4% 11.3% &nbsp;2.4% &nbsp;1.6% &nbsp;1.2% &nbsp;0.4%<br /><br /></font></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br /><font face="Lucida Console">General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 84777150343845626231964020607199399963 (0x3FC77C38FF32588B6477D56BABC2D01B)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: So.Long.Stooge.1983.1080p.BluRay.x264.FLAC.2.0-ADE.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 10.4 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 34 min<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 15.7 Mb/s<br />Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : UTC 2025-04-11 16:58:17<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v83.0 ('Circle Of Friends') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n...</div>]]></description>
+<p><b>📅 发布时间:</b> Mon, 09 Mar 2026 22:11:48 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=530983">https://ptchdbits.co/details.php?id=530983</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><span style="color: blue;"><font size="3">简繁中字@精研，Netflix官译字幕，调轴内封。</font></span></fieldset><br /><br /><br /><img alt="image" src="https://tu.totheglory.im/files/159/297282_front.jpg" /><br />◎译　　名　复仇者<br />◎片　　名　Avengement<br />◎年　　代　2019<br />◎产　　地　英国<br />◎类　　别　动作/犯罪<br />◎语　　言　英语<br />◎上映日期　2019-05-24(美国)<br />◎IMDb评分 &nbsp;6.6/10 (24K votes)<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt8836988/">https://www.imdb.com/title/tt8836988/</a><br />◎豆瓣评分　6.8/10 from 6231 users<br />◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/30299234/">https://douban.com/subject/30299234/</a><br />◎片　　长　90分钟<br />◎导　　演　杰西·约翰逊 Jesse V. Johnson<br />◎主　　演　斯科特·阿金斯 Scott Adkins<br />　　　　 &nbsp;　克雷格·法布拉斯 Craig Fairbrass<br />　　　　 &nbsp;　托马斯·图尔格斯 Thomas Turgoose<br />　　　　 &nbsp;　尼克·莫兰 Nick Moran<br />　　　　 &nbsp;　凯利斯顿·韦勒英 Kierston Wareing<br />　　　　 &nbsp;　里奥·格雷高里 Leo Gregory<br />　　　　 &nbsp;　博·福勒 Beau Fowler<br />　　　　 &nbsp;　路易·曼迪勒 Louis Mandylor<br />　　　　 &nbsp;　特伦斯·梅纳德 Terence Maynard<br />　　　　 &nbsp;　罗斯·奥亨尼西 Ross O‘Hennesse<br /><br />◎简　　介<br />　<br />　　斯科特·阿金斯饰演的囚犯得到了监狱暂许出行的机会。他找准时机甩掉了监视警察，继续他的复仇之路，让仇人血债血偿。他也借此机会寻找多年前早已迷失的自我，实现自我救赎。　<br />　　斯科特·阿金斯继《意外杀手》《讨债人》等再度和导演杰西·约翰逊合作，向经典黑帮片致敬。<br /><br /><font size="3"><span style="color: red;">Avengement</span>.2019.2160p.<span style="color: #054ed3;">BluRay</span>.x265.10bit.DTS-WiKi</font><br /><fieldset><legend> 引用 </legend><br /><u>.4k.UHD.info</u> &nbsp; &nbsp; <br /><br /><img alt="image" src="https://tu.totheglory.im/files/159/Avengement.2019.2160p-4K.jpg" /><br /><u>.Release.Info</u><br /><font face="courier new">ENCODER...................:</font> dong1010<br /><font face="courier new">RELEASE DATE..............:</font> 2026-03-07<br /><font face="courier new">RELEASE SIZE..............:</font> 19.3 GiB<br /><font face="courier new">SOURCE....................:</font> 2160p.UHD.Blu-ray.HEVC.DTS-HD.MA.5.1-UNTOUCHED<br /><br /><u>.Media.Info</u><br /><font face="courier new">RUNTIME...................:</font> 1h:27m:43s<br /><font face="courier new">VIDEO CODEC...............:</font> x265_Main 10@L5@High @ 30.0 Mbps &nbsp; &nbsp; &nbsp;<br /><span style="color: blue;"><font face="courier new">HDR FORMAT</font><font face="courier new">................:</font> SMPTE ST 2086, HDR10 compatible</span><br /><span style="color: blue;"><font face="courier new">RESOLUTION</font><font face="courier new">................:</font> Native 4K 3840x1632 (2.35:1)</span> &nbsp;<br /><font face="courier new">FRAME RATE................:</font> 23.976 fps<br /><font face="courier new">AUDiO CODEC...............:</font> English DTS @ 1509 Kbps &nbsp;<br /><font face="courier new">SUBTiTLES.................:</font> S_TEXT/sup(chs)/(cht)/(eng)<br /><br /><u>.x265.Info</u><br />x265 [info]: Main 10 profile, Level-5.1 (High tier)<br />x265 [info]: frame I: &nbsp; 3238, Avg QP:11.59 &nbsp;kb/s: 102716.97<br />x265 [info]: frame P: &nbsp;23507, Avg QP:14.05 &nbsp;kb/s: 52089.63<br />x265 [info]: frame B: &nbsp;99455, Avg QP:17.75 &nbsp;kb/s: 22392.84<br />x265 [info]: Weighted P-Frames: Y:3.8% UV:3.0%<br />x265 [info]: consecutive B-frames: 15.4% 14.2% 8.6% 16.2% 7.6% 12.9% 5.9% 4.7% 5.8% 4.4% 4.2%</fieldset><br /><br /><br /><b><font size="2"><span style="color: red;"><u>.More.Screens(Tone-Mapped)</u></span></font></b><br /><a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng01.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng01_thumb.png" /></a> <a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng02.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng02_thumb.png" /></a><br /><a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng03.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng03_thumb.png" /></a> <a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng04.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng04_thumb.png" /></a><br /><a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng05.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng05_thumb.png" /></a> <a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng06.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng06_thumb.png" /></a><br /><a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng07.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng07_thumb.png" /></a> <a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng08.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng08_thumb.png" /></a><br /><a class="faqlink" href="https://tu.totheglory.im/files/159/20251101/Aveng09.png"><img alt="image" src="https://tu.totheglory.im/files/159/20251101/Aveng09_thumb.png" /></a> <a class="faqlink" href="https://tu.totheglory.im/f...</div>]]></description>
+</item>
+<item>
+<title>[未监控] My Blue Summer 2022 2160p WEB-DL 60Fps HQ H.265 10bit AAC-UBWEB[17.52 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531362</link>
+<guid isPermaLink="false">c23759db4b209abcd2863943f3cb8c738e594d35</guid>
+<pubDate>Wed, 11 Mar 2026 19:34:26 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531362" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:34:26 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531362">https://ptchdbits.co/details.php?id=531362</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">UBits官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br />❁ 片　　名:　暗恋·橘生淮南<br />❁ 译　　名:　My Blue Summer / 暗恋<br />❁ 年　　代:　2022<br />❁ 产　　地:　中国大陆<br />❁ 类　　别:　爱情<br />❁ 语　　言:　汉语普通话<br />❁ 上映日期:　2022-06-02(中国大陆)<br />❁ IMDb评分:　5.8 / 10 from 127 users<br />❁ IMDb链接:　<a class="faqlink" href="https://www.imdb.com/title/tt18291400/">https://www.imdb.com/title/tt18291400/</a><br />❁ 豆瓣评分:　4.2 / 10 from 35033 users<br />❁ 豆瓣链接:　<a class="faqlink" href="https://movie.douban.com/subject/30449624/">https://movie.douban.com/subject/30449624/</a><br />❁ 片　　长:　102分钟<br /><br />❁ 简　　介<br /><br />　暗恋，是一个人的兵荒马乱，也是一辈子的刻骨铭心。成绩优秀、生性骄傲的洛枳（张雪迎 饰），暗恋着幼时有过一面之缘的同学盛淮南（辛云来 饰），而盛淮南对此全然不知。高中毕业后，洛枳发现自己和盛淮南竟在同一所大学。两人意外相识并越走越近，但洛枳依然不敢表白心迹。当成长和现实的压力接踵而来，这场漫长的暗恋，究竟该如何安放？<br />　　影片改编自八月长安振华系列，为电影《最好的我们》续篇。<br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: [暗恋·橘生淮南].My.Blue.Summer.2022.2160p.WEB-DL.60Fps.HQ.H265.10bit.AAC-UBWEB.mp4<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : MPEG-4<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Base Media<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : isom (isom/iso2/mp41)<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 17.5 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 42 min<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.5 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 60.000 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Lavf59.27.100<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5.1@Main<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : hev1<br />Codec ID/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 42 min<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.3 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 608 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.39:1<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 60.000 FPS<br />Minimum frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 59.960 FPS<br />Maximum frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 60.040 FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 10 bits<br />Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.065<br />Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 17.3 GiB (99%)<br />Color range &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Limited<br />Color primaries &nbsp; &nbsp; &nbsp; &nbsp; &nb...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [Movies 1080p]Be Cool 2005 Blu-ray 1080p DTS-HD MA 5.1 x264-HDH[[一酷到底][内封官译简繁字幕]][16.87 GB]</title>
+<link>https://hdhome.org/details.php?id=107360</link>
+<guid isPermaLink="false">06fcd6e70a7574b1b132f47f2eebcfc0e4fec71b</guid>
+<pubDate>Thu, 20 Jan 2022 07:23:42 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=107360" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Thu, 20 Jan 2022 07:23:42 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=107360">https://hdhome.org/details.php?id=107360</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p1419739183.jpg" /><br />
+<br />
+◎译　　名　一酷到底/矮子当道2/毙酷/黑道比酷/黑道当家2/音乐型人<br />
+◎片　　名　Be Cool<br />
+◎年　　代　2005<br />
+◎产　　地　美国<br />
+◎类　　别　喜剧/犯罪<br />
+◎语　　言　英语/俄语<br />
+◎上映日期　2005-03-04<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0377471/" target="_blank">https://www.imdb.com/title/tt0377471/</a><br />
+◎豆瓣评分　7.0/10 from 5475 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1308989/" target="_blank">https://douban.com/subject/1308989/</a><br />
+◎片　　长　118 分钟<br />
+◎导　　演　F·加里·格雷 F. Gary Gray<br />
+◎编　　剧　埃尔莫·伦纳德 Elmore Leonard / 彼得·斯坦菲尔德 Peter Steinfeld<br />
+◎主　　演　约翰·特拉沃尔塔 John Travolta<br />
+　　　　 &nbsp;　乌玛·瑟曼 Uma Thurman<br />
+　　　　 &nbsp;　文斯·沃恩 Vince Vaughn<br />
+　　　　 &nbsp;　塞德里克·凯尔斯 Cedric the Entertainer<br />
+　　　　 &nbsp;　安德雷·本杰明 André Benjamin<br />
+　　　　 &nbsp;　史蒂芬·泰勒 Steven Tyler<br />
+　　　　 &nbsp;　罗伯特·帕斯托莱利 Robert Pastorelli<br />
+　　　　 &nbsp;　克里斯蒂娜·米利安 Christina Milian<br />
+　　　　 &nbsp;　保罗·安德斯坦 Paul Adelstein<br />
+　　　　 &nbsp;　黛比·玛扎 Debi Mazar<br />
+　　　　 &nbsp;　格雷戈里·艾伦·威廉斯 Gregory Alan Williams<br />
+　　　　 &nbsp;　哈威·凯特尔 Harvey Keitel<br />
+　　　　 &nbsp;　道恩·强森 Dwayne Johnson<br />
+　　　　 &nbsp;　丹尼·德维托 Danny DeVito<br />
+　　　　 &nbsp;　詹姆斯·伍兹 James Woods<br />
+　　　　 &nbsp;　韦克莱夫·让 Wyclef Jean<br />
+　　　　 &nbsp;　弗里德·德斯特 Fred Durst<br />
+　　　　 &nbsp;　塞尔吉奥·门德斯 Sergio Mendes<br />
+　　　　 &nbsp;　吉恩·西蒙斯 Gene Simmons<br />
+　　　　 &nbsp;　罗伯特·菲茨杰拉德·迪格斯 RZA<br />
+　　　　 &nbsp;　乔·佩里 Joe Perry<br />
+　　　　 &nbsp;　安娜·妮可·史密斯 Anna Nicole Smith<br />
+　　　　 &nbsp;　Alex Kubik Alex Kubik<br />
+　　　　 &nbsp;　Carol Duboc Carol Duboc<br />
+　　　　 &nbsp;　野路美苗 Minae Noji<br />
+　　　　 &nbsp;　阿莉尔·凯贝尔 Arielle Kebbel<br />
+　　　　 &nbsp;　金伯利·简·布朗 Kimberly J. Brown<br />
+　　　　 &nbsp;　斯科特·安第斯 Scott Adsit<br />
+　　　　 &nbsp;　Brian Christensen Brian Christensen<br />
+　　　　 &nbsp;　尼克·罗兰 Nick Loren<br />
+　　　　 &nbsp;　乔治·费舍尔 George Fisher<br />
+　　　　 &nbsp;　Frank Lloyd Frank Lloyd<br />
+　　　　 &nbsp;　Tom Hamilton Tom Hamilton<br />
+　　　　 &nbsp;　Brad Whitford Brad Whitford<br />
+　　　　 &nbsp;　乔伊·克雷默 Joey Kramer<br />
+　　　　 &nbsp;　威廉姆·亚当斯 Will i Am<br />
+　　　　 &nbsp;　斯泰西·弗格森 Stacy Ferguson<br />
+　　　　 &nbsp;　阿帕·德·阿帕 Apl.de.Ap<br />
+　　　　 &nbsp;　Taboo Taboo<br />
+　　　　 &nbsp;　Quincy Taylor Quincy Taylor<br />
+　　　　 &nbsp;　威尔·哈里斯 Will Harris<br />
+　　　　 &nbsp;　金伯莉·怀亚特 Kimberly Wyatt<br />
+　　　　 &nbsp;　阿什丽·罗伯茨 Ashley Roberts<br />
+　　　　 &nbsp;　尼可·斯彻金格 Nicole Scherzinger<br />
+　　　　 &nbsp;　Donyelle Denise Jones Donyelle Denise Jones<br />
+　　　　 &nbsp;　奥斯卡·欧罗斯科 Oscar Orosco<br />
+　　　　 &nbsp;　克里斯托弗·托勒 Christopher Toler<br />
+　　　　 &nbsp;　伊娃·拉·戴尔 Eva La Dare<br />
+　　　　 &nbsp;　Gustavo Vargas Gustavo Vargas<br />
+　　　　 &nbsp;　艾里克·巴弗尔 Eric Balfour<br />
+　　　　 &nbsp;　菲尔·杰克逊 Phil Jackson<br />
+　　　　 &nbsp;　帕蒂·拉贝尔 Patti LaBelle<br />
+　　　　 &nbsp;　丹·布朗 Dan Brown<br />
+　　　　 &nbsp;　 Stephen Castello<br />
+　　　　 &nbsp;　奥萨·达纳姆 Osa Danam<br />
+　　　　 &nbsp;　Tabbert Fiiller Tabbert Fiiller<br />
+　　　　 &nbsp;　赛斯·格林 Seth Green<br />
+　　　　 &nbsp;　科比·布莱恩特 Kobe Bryant<br />
+　　　　 &nbsp;　Cassie Townsend Cassie Townsend<br />
+　　　　 &nbsp;　美乐蒂·芳顿 Melody Thornton<br />
+　　　　 &nbsp;　 Sean LoGrasso<br />
+　　　　 &nbsp;　汉斯·雷斯 Hans Raith<br />
+　　　　 &nbsp;　丹妮尔·麦基 Danielle McKee<br />
+　　　　 &nbsp;　Tarita Virtue Tarita Virtue<br />
+<br />
+◎标　　签　喜剧 | 美国 | 黑色幽默 | JohnTravolta | 黑帮 | 约翰·特拉沃尔塔 | 美国电影 | UmaThurman<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　奇利·帕尔默（约翰·特拉沃尔塔 John Travolta 饰）曾经是混迹黑道的嚣张人物，不过黑道混久了，或许是因为厌倦，很多人开始洗白自己，找份体面的工作，得到社会的认可。奇利也不例外，从黑道退役后，他摇身变作好莱坞电影制片人，纯熟的社交手段使他的事业蒸蒸日上，名气大增，尝到甜头的奇利开始进军乐坛。他找来一位开唱片公司的朋友，不料朋友却意外死亡，奇利只好寄望于这位朋友的妻子艾迪（乌玛·瑟曼 Uma Thurman 饰），艾迪也是个狠角色，两人磨合良久才达成共识，决意捧红一名有着优异音乐天赋的黑人女孩琳达，然而事情却并非想象中顺利，琳达的经纪人为了留住琳达，使尽刁钻权术，而更令人意想不到的是，琳达竟然同时在被俄罗斯的黑手党秘密追杀。面对混乱的局面，已金盆洗手的奇利是否要重操旧业，摆平一切呢？<br />
+　　<br />
+　　本片为1995年经典喜剧片《黑道之家》续集，改编自畅销作家艾尔蒙·里欧纳德（Elmore Leonard）的同名小说。<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Be.Cool.2005.Blu-ray.1080p.DTS-HD.MA.5.1.x264-HDH<br />
+<br />
+.Release.Info<br />
+SOURCE .........: Be.Cool.2005.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DiY@HDHome<br />
+RELEASE DATE....: 01/20/2022<br />
+FilE SiZE.......: 16.87 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:59:36.670 (h:m:s)<br />
+RESOLUTiON......: 1920 x 800<br />
+ViDEO BiTRATE...: x264 L4.1 High @ 15851 Kbps<br />
+ASPECT RATiO....: 2.40 : 1<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English DTS-HDMA 5.1 @ 4215 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: Spanish/PGS<br />
+SUBTiTLE 3......: French/PGS<br />
+SUBTiTLE 4......: Chinese/PGS<br />
+SUBTiTLE 5......: Chinese/PGS<br />
+SUBTiTLE 6......: Chinese/PGS<br />
+SUBTiTLE 7......: Chinese/UTF-8<br />
+SUBTiTLE 8......: Chinese/UTF-8<br />
+<br />
+.x264.Info<br />
+x264 [info]: frame I:1251 &nbsp;Avg QP:17.77 &nbsp;size:248942<br />
+x264 [info]: frame P:35733 Avg QP:18....</div>]]></description>
+</item>
+<item>
+<title>[未监控] Pirates of the Caribbean: Dead Man's Chest 2006 2160p DSNP WEB-DL HEVC 10bit HDR10 DDP 5.1 13Audio-LongWeb[20.25 GB]</title>
+<link>https://audiences.me/details.php?id=631463</link>
+<guid isPermaLink="false">ca270635714fbbcb0d2fe7dd18ab4d599b106c4e</guid>
+<pubDate>Tue, 10 Mar 2026 19:15:03 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631463" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 19:15:03 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631463">https://audiences.me/details.php?id=631463</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] The Late Show with Stephen Colbert 2026-03-10 Michelle Pfeiffer 1080p WEB-DL DDP 2.0 H.264-JOAN[2.77 GB]</title>
+<link>https://audiences.me/details.php?id=632060</link>
+<guid isPermaLink="false">b83c0989812ff64b94b31bc6f37a6dc2cd7c3106</guid>
+<pubDate>Wed, 11 Mar 2026 19:06:03 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632060" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:06:03 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632060">https://audiences.me/details.php?id=632060</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Rental Family 2025 1080p BluRay x265 10bit DTS 5.1-WiKi[5.46 GB]</title>
+<link>https://audiences.me/details.php?id=631424</link>
+<guid isPermaLink="false">e926f7a55fa0ae24e68774134fae7a04d21487ce</guid>
+<pubDate>Tue, 10 Mar 2026 18:36:04 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=631424" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 18:36:04 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=631424">https://audiences.me/details.php?id=631424</a></p>]]></description>
+</item>
+<item>
+<title>[缺少] The Testament of Ann Lee 2025 2160p MA WEB-DL DDP 5.1 DV HDR H.265-BYNDR[24.48 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531118</link>
+<guid isPermaLink="false">a31fa5ce25be61dc7071fcb58f15eae13129de5e</guid>
+<pubDate>Tue, 10 Mar 2026 19:15:01 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531118" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 19:15:01 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531118">https://ptchdbits.co/details.php?id=531118</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.pixhost.to/images/6322/703202316_p2927265031.jpg" /><br /><br />◎译　　名　安·李的遗嘱 / 安李与她的乌托邦(台) / The Woman Clothed By The Sun / Ann Lee<br />◎片　　名　The Testament of Ann Lee<br />◎年　　代　2025<br />◎产　　地　英国<br />◎类　　别　剧情 / 歌舞 / 历史<br />◎语　　言　英语<br />◎上映日期　2025-08-31(威尼斯电影节) / 2025-12-25(美国)<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt34819091/">https://www.imdb.com/title/tt34819091/</a><br />◎IMDb评分 &nbsp;7.1/10 from 2528 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/37155367/">https://movie.douban.com/subject/37155367/</a><br />◎豆瓣评分　6.2/10 from 371 users<br />◎TMDB链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/movie/1401281">https://www.themoviedb.org/movie/1401281</a><br />◎TMDB评分 &nbsp;7.0/10 from 21 users<br />◎片　　长　130分钟<br /><br />◎简　　介　<br /><br />　　这部电影设定在18世纪的英格兰，并“灵感来源”于真实事件，是一部关于宗教领袖安·李（Ann Lee）的“史诗寓言”，安·李是谢克教运动的创始人，且被她的追随者宣称为“女性基督”。<br /><br /><fieldset><legend> 引用 </legend><br /><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 154406307699262560938283835652099884120 (0x742992BA9D974747B6CB3506E2694458)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: The.Testament.of.Ann.Lee.2025.2160p.MA.WEB-DL.DDP5.1.DV.HDR.H.265-BYNDR.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 24.5 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 h 16 min<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.6 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.000 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v97.0 ('You Don't Have A Clue') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@High<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Dolby Vision, Version 1.0, Profile 8.1, dvhe.08.06, BL+RPU, no metadata compression, HDR10 compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 h 16 min<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.0 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 160 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.000 FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0 (Type 2)<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 10 bits<br />Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.126<br />Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &...</div>]]></description>
+</item>
+<item>
+<title>[未监控] Derrick Stroup Nostalgic 2026 1080p NF WEB-DL DDP.5.1 H.264-CHDWEB[2.36 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531110</link>
+<guid isPermaLink="false">b4ed41d5bad8a08cf5b50a92711381118be4a735</guid>
+<pubDate>Tue, 10 Mar 2026 18:25:30 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531110" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 18:25:30 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531110">https://ptchdbits.co/details.php?id=531110</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div>{{douban_info}}<br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Derrick.Stroup.Nostalgic.2026.1080p.NF.WEB-DL.DDP.5.1.H.264-CHDWEB<br />File Size............: 2.40 GiB<br />Duration.............: 00:57:53.262 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 5,188 kbps<br />Video Codec..........: AVC,High@L4 <br />Frame Rate...........: 23.976 fps<br />Resolution...........: 1920 x 1080<br />Audio#01.............: English &nbsp;640 kbps CBR 6channels E-AC-3<br />Subtitle#01..........: English SDH<br />Subtitle#02..........: English <br />Uploader.............: &nbsp;CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://shewang.net/images/2026/03/10/Derrick.Stroup.Nostalgic.2026.1080p.NF.WEB-DL.DDP.5.1.H.264-CHDWEB.screenshots.png" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] Time After Time 1979 BluRay 1080p DTS-HD MA 2.0 x264-CHD[10.13 GB]</title>
+<link>https://hdhome.org/details.php?id=282921</link>
+<guid isPermaLink="false">f142e13f4dd17bbc265cfaccafbf84eb63dba87b</guid>
+<pubDate>Tue, 10 Mar 2026 19:06:16 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=282921" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 19:06:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=282921">https://hdhome.org/details.php?id=282921</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">CHDBits官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend><span style="color: red;"><b>资源及相关素材未经CHD许可，严禁提取发布或二压使用，请注意礼节!</b></span></fieldset><br />
+<img alt="image" src="https://image.tmdb.org/t/p/original/A4SXZxQempzTUReRlQiFaYc6KaC.jpg" /><br />
+◎译　　名　追踪100年<br />
+◎片　　名　两世奇人<br />
+◎年　　代　1979<br />
+◎产　　地　美国<br />
+◎类　　别　剧情/喜剧/爱情/科幻/惊悚/冒险<br />
+◎语　　言　英语<br />
+◎上映日期　1979-08-31<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0080025/">https://www.imdb.com/title/tt0080025/</a><br />
+◎豆瓣评分　6.9/10 from 621 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1305113/">https://douban.com/subject/1305113/</a><br />
+◎片　　长　112 分钟<br />
+◎导　　演　尼古拉斯·迈耶 Nicholas Meyer<br />
+◎编　　剧　史蒂夫·海耶斯 Steve Hayes / 尼古拉斯·迈耶 Nicholas Meyer<br />
+◎主　　演　马尔科姆·麦克道威尔 Malcolm McDowell<br />
+　　　　 &nbsp;　大卫·沃纳 David Warner<br />
+　　　　 &nbsp;　玛丽·斯汀伯根 Mary Steenburgen<br />
+　　　　 &nbsp;　查尔斯·乔菲 Charles Cioffi<br />
+　　　　 &nbsp;　帕蒂·达班维尔 Patti D&#039;Arbanville<br />
+　　　　 &nbsp;　利奥·刘易斯 Leo Lewis<br />
+　　　　 &nbsp;　Rita Conde Rita Conde<br />
+　　　　 &nbsp;　克莱门特·冯·弗兰肯斯坦 Clement von Franckenstein<br />
+　　　　 &nbsp;　Gene Hartline Gene Hartline<br />
+　　　　 &nbsp;　Dan Leegant Dan Leegant<br />
+　　　　 &nbsp;　莎莉·哈克 Shelley Hack<br />
+　　　　 &nbsp;　科里·费尔德曼 Corey Feldman<br />
+　　　　 &nbsp;　Byron Webster Byron Webster<br />
+　　　　 &nbsp;　肯特·威廉斯 Kent Williams<br />
+　　　　 &nbsp;　卢·费尔德 Lou Felder<br />
+　　　　 &nbsp;　Michael Evans Michael Evans<br />
+　　　　 &nbsp;　希尔达海恩丝 Hilda Haynes<br />
+　　　　 &nbsp;　吉姆·海尼 Jim Haynie<br />
+　　　　 &nbsp;　Robert Shaw Robert Shaw<br />
+　　　　 &nbsp;　拉里·J·布莱克 Larry J. Blake<br />
+　　　　 &nbsp;　罗利·梅恩 Laurie Main<br />
+　　　　 &nbsp;　基思·麦康奈尔 Keith McConnell<br />
+　　　　 &nbsp;　约瑟夫·梅赫尔 Joseph Maher<br />
+　　　　 &nbsp;　Read Morgan Read Morgan<br />
+　　　　 &nbsp;　Clete Roberts Clete Roberts<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　十九世纪英国科幻小说家H.G.威尔斯乘坐他发明的时光机器追踪当代的采花大盗“摧花手杰克”来到二十世纪的美国，结果爱上了一名银行女职员，为此而跟摧花手杰克展开惊心动魄的生死斗。<br />
+<fieldset><legend> 引用 </legend><font face="Lucida Console">Time.After.Time.1979.BluRay.1080p.DTS-HD.MA.2.0.x264-CHD<br />
+RELEASE DATE....: 03/03/2026<br />
+THEATRE DATE....: 1979<br />
+iMDB URL........: <a class="faqlink" href="http://www.imdb.com/title/tt0080025/" target="_blank">http://www.imdb.com/title/tt0080025/</a><br />
+iMDB RATiNG.....: 7.0/10 &nbsp; 21,624 votes<br />
+GENRE...........: Adventure, Drama, Sci-Fi<br />
+SOURCE .........: Time.After.Time.1979.1080p.ESP.BluRay.AVC.DTS-HD.MA.2.0-DiY@HDHome<br />
+ViDEO BiTRATE...: x264 L4.1 High @ 11.3 Mbps<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO...........: English DTS-HD MA 2.0 @ 1678 Kbps / 1509 Kbps<br />
+RUNTiME.........: 01:51:48.535 (h:m:s)<br />
+ASPECT RATiO....: 2.40 : 1<br />
+RESOLUTiON......: 1920 x 800<br />
+SUBTiTLES.......: English | Chinese(CHS) | Chinese(CHT)<br />
+FilE SiZE.......: 10.13 G<br />
+ENCODER.........: Anonymous @ CHD<br />
+<br />
+<br />
+x264 [info]: frame I:1039 &nbsp;Avg QP:15.87 &nbsp;size:214435<br />
+x264 [info]: frame P:31758 Avg QP:17.87 &nbsp;size: 85141<br />
+x264 [info]: frame B:128047 Avg QP:19.48 &nbsp;size: 50812</font></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 298026591717112923689454604106643744886 (0xE035D56EC0148D5A354CCFEFE8F32876)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Time.After.Time.1979.BluRay.1080p.DTS-HD.MA.2.0.x264-CHD.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 10.1 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 51 min<br />
+Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 13.0 Mb/s<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />
+Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Encoded By Anonymous @ Only For CHD<br />
+Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2026-03-03 06:26:50 UTC<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v97.0 (&#039;You Don&#039;t Have A Clue&#039;) 64-bit<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &...</div>]]></description>
+</item>
+<item>
+<title>[未监控] A Step Into The Past 2001 EP14-EP19 1080p MyTVSuper WEB-DL H265 AAC-HDHWEB[7.40 GB]</title>
+<link>https://hdhome.org/details.php?id=282911</link>
+<guid isPermaLink="false">85a43dd753499fdc95caa21224ff44f4bd85c57d</guid>
+<pubDate>Tue, 10 Mar 2026 17:24:52 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=282911" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Tue, 10 Mar 2026 17:24:52 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=282911">https://hdhome.org/details.php?id=282911</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://i.mji.rip/2026/02/28/36298aa464f111bda2871a6a0fb5d961.webp" /><br />
+<br />
+<br />
+<br />
+<br />
+导演: 庄伟建 / 石铭泉 / 刘顺安 / 林子欣 / 吴锦源 / 文伟鸿<br />
+编剧: 黄国辉 / 汤建平 / 刘彩云 / 张小方 / 何群娥 / 黄易<br />
+主演: 古天乐 / 江华 / 宣萱 / 郭羡妮 / 林峯 / 滕丽名 / 郑雪儿 / 雪梨 / 郭锋<br />
+类型: 剧情 / 喜剧 / 历史<br />
+制片国家/地区: 中国香港<br />
+语言: 粤语<br />
+首播: 2001-10-15(中国香港)<br />
+集数: 40<br />
+单集片长: 45分钟<br />
+又名: A Step Into The Past<br />
+IMDb: tt0855326<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+寻秦记的剧情简介 · · · · · ·<br />
+<br />
+<br />
+<br />
+　　21世纪特种部队人员项少龙（古天乐 饰）决意要参加穿梭时空的研究，是为了要挽回自己的爱情。但由于时光机的数据出错，把少龙带到了战国时期。<br />
+　　当时的嬴政（林峰 饰）还没有登上帝位，更被囚禁于赵国。少龙为了能返回未来，便不惜一切帮助嬴政顺利登上帝位。由于少龙的机智过人与特殊身份，他的能力得到了众人的赏识，因此他也遭到了多方奸狡之人的暗算。<br />
+　　在腹背受敌的情况下，生性风流的少龙也纠缠上一段复杂的四角恋爱关系。到底少龙能否协助嬴政赢得天下呢？他会如何处理自己与隔世恋人的情缘呢？<br />
+<br />
+<br />
+General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 167282201540119166088642942181556283967 (0x7DD9614EF2E6CD23850348E153E6EA3F)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: G:\A.Step.Into.The.Past.2001.Ep14-Ep19.1080p.MyTVSuper.WEB-DL.H265.AAC-HDHWEB\A.Step.Into.The.Past.2001.Ep19.1080p.MyTVSuper.WEB-DL.H265.AAC-HDHWEB.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.24 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 4 s<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 3 942 kb/s<br />
+Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : UTC 2026-03-10 04:07:59<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v69.0.0 (&#039;Day And Age&#039;) 64-bit<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.2 + libmatroska v1.6.4<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main@L4@Main<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 4 s<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 3 811 kb/s<br />
+Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />
+Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 080 pixels<br />
+Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />
+Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
+Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />
+Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />
+Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 8 bits<br />
+Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.074<br />
+Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.20 GiB (97%)<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: VOLOHEVC<br />
+Default &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br />
+Forced &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : No<br />
+<br />
+Audio<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AAC LC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Audio Codec Low Complexity<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : A_AAC-2<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 4 s<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 128 kb/s<br />
+Channel(s) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 channels<br />
+Channel layout &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : L R<br />
+Sampling rate &nbsp; &nbsp...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Old Dads 2023 1080p Netflix WEB-DL AVC DDP 5.1-DBTV[4.02 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531348</link>
+<guid isPermaLink="false">64c9fedf51522c3b4e5fcdf9b0f3800e6ac497bc</guid>
+<pubDate>Wed, 11 Mar 2026 18:28:37 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531348" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 18:28:37 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531348">https://ptchdbits.co/details.php?id=531348</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">HDDolby官组作品，源站种子ID：230673，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/w500/ypUEpgxAbKwMtbOThaZYBCzAMBy.jpg" /><br /><br />◎译　　名　老爹们 / Old Dads<br />◎上映日期　2023-10-20<br />◎产　　地　United States of America<br />◎类　　别　喜剧<br />◎语　　言　en<br />◎时　　长　104分钟<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt18394190/">https://www.imdb.com/title/tt18394190/</a><br />◎豆瓣链接 &nbsp;<a class="faqlink" href="https://movie.douban.com/subject/35948902/">https://movie.douban.com/subject/35948902/</a><br />◎TMDb链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/movie/987917">https://www.themoviedb.org/movie/987917</a><br />◎TMDb评分 &nbsp;6.199/10 from 437 users<br />◎导　　演　比尔·伯尔<br />◎主　　演　比尔·伯尔<br />　　　　 &nbsp;　鲍比·坎纳瓦尔<br />　　　　 &nbsp;　博基姆·伍德拜恩<br />　　　　 &nbsp;　Katie Aselton<br />　　　　 &nbsp;　Reign Edwards<br />　　　　 &nbsp;　杰基·托恩<br />　　　　 &nbsp;　迈尔斯·罗宾斯<br />　　　　 &nbsp;　瑞秋·哈里斯<br />　　　　 &nbsp;　达什·麦克劳德<br />　　　　 &nbsp;　Justin Miles<br /><br />◎简　　介<br /><br />　　当三个最好的朋友把他们的公司卖给千禧一代时，他们发现自己与时代脱节，在不断变化的文化世界中艰难前行……<br /><br /><br /><fieldset><legend> 引用 </legend><br />General<br /> Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 263972297014351188229979743574767459630<br /> Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Old.Dads.2023.1080p.Netflix.WEB-DL.AVC.DDP.5.1-DBTV.mkv<br /> Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br /> Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br /> File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 4.02 GiB<br /> Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 44 min<br /> Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 521 kb/s<br /> Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br /> Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 老派老豆<br /> Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2026-03-11 00:26:00 UTC<br /> Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v94.0 ('Initiate') 64-bit<br /> Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1 / Lavf62.3.100<br /> Cover &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br /> Attachments &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: cover.png<br /><br />Video<br /> Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br /> Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br /> Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main@L4<br /> Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 3 Ref Frames<br /> Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br /> Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 3 frames<br /> Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br /> Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 44 min<br /> Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 000 kb/s<br /> Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1920 pixels<br /> Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1080 pixels<br /> Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1.778<br /> Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CFR<br /> Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Life 2017 1080p Blu-ray REMUX AVC DTS-HD MA 7.1-HDH[20.95 GB]</title>
+<link>https://hdhome.org/details.php?id=22482</link>
+<guid isPermaLink="false">3c25a58b0fd4810caeb95129f8988f778dc5c1e2</guid>
+<pubDate>Sat, 10 Jun 2017 14:47:12 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=22482" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Sat, 10 Jun 2017 14:47:12 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=22482">https://hdhome.org/details.php?id=22482</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="http://i1.buimg.com/508806/031e604405c52573.jpg" /><br />
+◎译　　名　异星觉醒/外星生命(港)/异星智慧(台)/生命<br />
+◎片　　名　Life<br />
+◎年　　代　2017<br />
+◎产　　地　美国<br />
+◎类　　别　科幻/惊悚/恐怖<br />
+◎语　　言　英语/日语<br />
+◎上映日期　2017-03-18(西南偏南电影节)/2017-03-24(美国)/2017-05-19(中国大陆)<br />
+◎IMDb评分 &nbsp;6.8/10 from 57,607 users<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="http://www.imdb.com/title/tt5442430/" target="_blank">http://www.imdb.com/title/tt5442430/</a><br />
+◎豆瓣评分　6.6/10 from 54,434 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/26718838/" target="_blank">https://movie.douban.com/subject/26718838/</a><br />
+◎片　　长　104分钟<br />
+◎导　　演　丹尼尔·伊斯皮诺萨 Daniel Espinosa<br />
+◎主　　演　杰克·吉伦哈尔 Jake Gyllenhaal<br />
+　　　　　　丽贝卡·弗格森 Rebecca Ferguson<br />
+　　　　　　瑞恩·雷诺兹 Ryan Reynolds<br />
+　　　　　　真田广之 Hiroyuki Sanada<br />
+　　　　　　阿利安·巴克瑞 Ariyon Bakare<br />
+　　　　　　奥尔加·戴维克娜雅 Olga Dihovichnaya<br />
+　　　　　　大卫·梅尔 David Muir<br />
+　　　　　　伊莉莎白·巴尔加斯 Elizabeth Vargas<br />
+　　　　　　卡米尔·沃伦-泰勒 Camiel Warren-Taylor<br />
+　　　　　　森尚子 Naoko Mori<br />
+　　　　　　亚历山大·阮 Alexandre Nguyen<br />
+　　　　　　希·伍辛 Hiu Woong-Sin<br />
+<br />
+◎简　　介<br />
+<br />
+　　几位漂浮在空间站的宇航员们发现了一个来自火星的“神秘样本”，这个样本其实就是他们一直在找寻的高智能“智慧生命体”。它不仅集肌细胞、神经细胞于一体，更拥有超强大脑，能够进行超能进化。但却不知其体内竟然暗藏巨大的杀机，导致整个空间站都弥漫着死亡的气息，人类的命运也危在旦夕。<br />
+<br />
+<br />
+<br />
+<br /><div class="codetop">代码</div><div class="codemain"><br />
+Source: Life 2017 1080p Blu-ray AVC DTS-HD MA 7.1-CBGB<br />
+Length: 1:43:58.232 (h:m:s.ms)<br />
+Video: MPEG-4 AVC Video / 24935 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1<br />
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz / 2687 kbps / 16-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 16-bit)<br />
+Subtitle: English / 42.335 kbps<br />
+Subtitle: English / 31.822 kbps<br />
+Subtitle: Chinese / 23.180 kbps<br />
+Subtitle: Chinese / 21.763 kbps<br />
+Subtitle: Chinese / 21.975 kbps<br />
+Subtitle: Korean / 17.971 kbps<br />
+Subtitle: Portuguese / 30.733 kbps<br />
+Subtitle: Spanish / 29.460 kbps<br />
+</div><br /><br />
+<br />
+<br />
+<br />
+<img alt="image" src="http://i.imgur.com/cI1djVB.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] Kes 1969 Masters of Cinema Blu-ray 1080p REMUX AVC FLAC 1.0 -HDH[27.92 GB]</title>
+<link>https://hdhome.org/details.php?id=76119</link>
+<guid isPermaLink="false">bf8418d4d29e2e89c5920884d8d74153374f4b74</guid>
+<pubDate>Mon, 02 Nov 2020 08:32:07 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=76119" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Mon, 02 Nov 2020 08:32:07 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=76119">https://hdhome.org/details.php?id=76119</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><a class="faqlink" href="https://img.hdhome.org/image/mbMOs"><img alt="image" src="https://img.hdhome.org/images/2020/10/24/938a538bbfe2d13d4f16d9f8d4a8d120.jpg" /></a><br />
+<br />
+<br />
+<br />
+◎译　　名　小孩与鹰/凯斯/小孩与隼/鹰与男孩(台)<br />
+◎片　　名　Kes<br />
+◎年　　代　1969<br />
+◎产　　地　英国<br />
+◎类　　别　剧情/儿童<br />
+◎语　　言　英语<br />
+◎上映日期　1969-11-19(伦敦电影节)/1970-04-03(英国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0064541/" target="_blank">https://www.imdb.com/title/tt0064541/</a><br />
+◎豆瓣评分　8.6/10 from 6388 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/1297920/" target="_blank">https://douban.com/subject/1297920/</a><br />
+◎片　　长　111分钟<br />
+◎导　　演　肯·洛奇 Ken Loach<br />
+◎编　　剧　肯·洛奇 Ken Loach / 托尼·加尼特 Tony Garnett / 巴里·海因斯 Barry Hines<br />
+◎主　　演　大卫·布拉德利 David Bradley<br />
+　　　　 &nbsp;　琳内·佩里 Lynne Perrie<br />
+　　　　 &nbsp;　科林·韦兰 Colin Welland<br />
+　　　　 &nbsp;　布莱恩·格洛弗 Brian Glover<br />
+　　　　 &nbsp;　杜吉·布朗 Duggie Brown<br />
+　　　　 &nbsp;　比尔迪安 Bill Dean<br />
+<br />
+◎标　　签　英国 | 成长 | 儿童 | 英国电影 | 剧情 | 1969 | 肯·罗奇 | KenLoach<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　英国男孩比利•卡士柏（David Bradley 饰）生活在一个破碎的工人阶级家庭里，父亲离家出走，除母亲和哥哥外，比利也要打工贴补家用。在学校里比利捣蛋或者逃课看漫画书，从中找寻这个年龄应有的快乐。<br />
+　　<br />
+　　某天他在农场高墙上发现一个鹰巢，于是从书店偷回训练猎鹰的教材，按照书本所写养了一只名为凯斯的小鹰……<br />
+　　<br />
+　　本片荣获1971年BAFTA电影奖最佳导演、最佳电影提名、最佳男配角、最佳新人、最佳编剧以及1970年卡洛维法利国际电影节水晶球奖。<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Kes.1969.Masters.of.Cinema.Blu-ray.1080p.REMUX.AVC.FLAC.1.0.-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 1969<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt0064541" target="_blank">https://www.imdb.com/title/tt0064541</a><br />
+iMDB RATiNG.....: 7.9/10 &nbsp;18,349 votes<br />
+GENRE...........: Drama, Family<br />
+<br />
+.Release.Info<br />
+SOURCE .........: Kes.1969.Masters.of.Cinema.GBR.Blu-ray.1080p.AVC.LPCM.1.0-DiY@HDHome<br />
+RELEASE DATE....: 11/02/2020<br />
+FilE SiZE.......: 27.92 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:50:54.176 (h:m:s)<br />
+RESOLUTiON......: 1920 x 1080<br />
+ViDEO BiTRATE...: AVC L4.1 High @ 35000 Kbps<br />
+ASPECT RATiO....: 16 : 9<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English FLAC 1.0 @ 529 Kbps<br />
+AUDiO 2.........: English DD 1.0 @ 448 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: Chinese/PGS<br />
+SUBTiTLE 3......: Chinese/PGS<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<a class="faqlink" href="http://img.hdhome.org/image/mavG8"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/d7b5f137b18abc8408cfa78d1e7e1089.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/mahoi"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/3766769c69b4162067da4ac20608b474.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/ma8js"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/ed2645f6a5eaab0b2e16a7cf66391b29.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/maJD9"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/43a6e75f69daa425968b28338d7e4bfc.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/mayf3"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/e9b78c1cc5ed20b7891e2210437bc96b.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/maKxh"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/6504ebed77402bdbba69927cf14b8ee8.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/maNdp"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/c055f726e5088e1deb0e9626d7141625.jpg" /></a><br />
+<a class="faqlink" href="http://img.hdhome.org/image/maMzt"><img alt="image" src="http://img.hdhome.org/images/2020/11/02/617137c2cc7b5731455a6afebba0d650.jpg" /></a></div>]]></description>
+</item>
+<item>
+<title>[未监控] Riceboy Sleeps 2023 1080p BluRay DDP 5.1 x264-ZoroSenpai[16.94 GB]</title>
+<link>https://hdhome.org/details.php?id=283008</link>
+<guid isPermaLink="false">d6aa72e5f26be8a3258f380521741a2a1483d2d1</guid>
+<pubDate>Wed, 11 Mar 2026 18:27:48 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=283008" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 18:27:48 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=283008">https://hdhome.org/details.php?id=283008</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://cache.springsunday.net/img9.doubanio.com/view/photo/l_ratio_poster/public/p2877226635.jpg" /><br />
+<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+◎译　　名　米仔睡着了/饭气男孩(港)/饭卷男孩乖乖睡(台)/라이스보이 슬립스<br />
+◎片　　名　Riceboy Sleeps<br />
+◎年　　代　2022<br />
+◎产　　地　加拿大<br />
+◎类　　型　电影<br />
+◎类　　别　剧情 / 家庭<br />
+◎语　　言　英语 / 韩语<br />
+◎上映日期　2022-09-12(多伦多电影节)<br />
+◎IMDb评分　7.6/10 from 2,373 users<br />
+◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt13456340/">https://www.imdb.com/title/tt13456340/</a><br />
+◎豆瓣评分　6.9/10 from 419 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36040197/">https://movie.douban.com/subject/36040197/</a><br />
+◎片　　长　117分钟<br />
+◎简　　介<br />
+　　90年代初期，素英离开韩国，独自带着儿子东贤生活在加拿大郊区。素英决心为儿子提供更好的生活，于是她努力克服种族问题和文化差异。随着年龄的增长，东贤对母亲在韩国的过往越来越好奇，尤其自己的父亲——母亲不愿意提起的那个男人。与之相反，素英则全心建设她的新生活：她开始与一位韩裔意大利人发展关系，这位善良的先生也希望成为东贤的继父。但这一行为却让她和东贤之间的关系更加紧张。一天，突如其来的噩耗让母子俩重回韩国。这次旅程使他们重新感受到了与故土的联系。<br />
+<fieldset><legend> 引用 </legend><span style="color: #7ea2b1;">Riceboy Sleeps 2022 1080p BluRay DD+5.1 x264-ZoroSenpai</span><br />
+<br />
+File Name.......: Riceboy.Sleeps.2022.1080p.BluRay.DDP5.1.x264-ZoroSenpai.mkv<br />
+Chapters........: Yes (Numbered)<br />
+Source(1).......: <span style="color: #c3c13e;">KOR Nova Media 1080p Blu-ray AVC DTS-HD MA 5.1-VaLTiEL (Thanks @Wardaddy!) </span> (Video, Audio, Subtitles, Chapters)<br />
+Source(2).......: <span style="color: #c3c13e;">ESP Resen 1080p Blu-ray AVC DTS-HD MA 5.1(Thanks!) </span> (Comparison)<br />
+Source(3).......: <span style="color: #c3c13e;">1080p AMZN WEB-DL DD+ 5.1 H.264-PandaMoon (Thanks @PandaMoon!) </span> (Subtitle)<br />
+Source(4).......: <span style="color: #c3c13e;">720p AMZN WEB-DL DDP5.1 H.264-PSTX (Thanks!) </span> (Subtitle)<br />
+Source(5).......: <span style="color: #c3c13e;">iTunes WEB (Thanks @squash!) </span> (Subtitles)<br />
+Encoder.........: <span style="color: #7ea2b1;">Roronoa_Zoro</span>@HDB, TBD, BLU<br />
+<br />
+<span style="color: #7ea2b1;">Notes...........:</span><br />
+▣ <a class="faqlink" href="https://slow.pics/c/CFXRDOmx">Source Comparison</a> || <a class="faqlink" href="https://slow.pics/c/wBIV5lka">Screenshot Comparison</a><br />
+<br />
+▣ The KOR BD is overall better PQ than the web release, the ESP BD is a bootleg resen release and worse quality than the web too! The KOR BD doesn‘t have a gamma bug issue; you can see <a class="faqlink" href="https://slow.pics/c/A7TF0YZZ">here</a>, so kept it untouched. The dirt lines were fixed. The source has flat areas &amp; banding issues all over most of the movie scenes, so a light de-banding filter was applied. <br />
+<br />
+▣ The main audio track was from the KOR BD; the ESP BD only had Spanish dub audio. The main track is a mixture of Korean &amp; English languages; unfortunately, the KOR BD doesn‘t come with an English forced sub track, but it does come with an English SDH track, so I OCR‘ed &amp; checked that, and created a non-sdh version. The AMZN WEB release has English hardcoded subtitles for Korean spoken parts, so I took that as a reference and created the Forced English subtitle for this movie manually, about 672 lines there. The chapters were synced to the closest I-frames &amp; used the QP file to ensure chapters on IDR frames.<br />
+<br />
+▣ Thanks to the uploaders for the source. Greetings to everyone! Enjoy! <img alt="image" src="https://ptpimg.me/80q67p.gif" /><br />
+<br />
+<span style="color: #7ea2b1;">x264 Logs:</span><br />
+x264 [INFO]: frame I:734 &nbsp; Avg QP:15.70 &nbsp;size:220086<br />
+x264 [INFO]: frame P:27453 Avg QP:17.07 &nbsp;size:146474<br />
+x264 [INFO]: frame B:140683 Avg QP:19.15 &nbsp;size: 93027<br />
+x264 [INFO]: consecutive B-frames: &nbsp;0.6% &nbsp;0.4% &nbsp;1.3% &nbsp;4.5% &nbsp;6.3% 60.0% &nbsp;4.4% &nbsp;1.3% 19.7% &nbsp;1.7%<br />
+<br />
+encoded 168870 frames, 17.73 fps, 19635.44 kb/s, duration 2:38:42.60<br />
+</fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 135505224828140128670052350880662253848 (0x65F15B651F24AF957BC3860D11457118)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Riceboy.Sleeps.2022.1080p.BluRay.DDP5.1.x264-ZoroSenpai.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 16.9 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 57 min<br />
+...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] Louis Theroux Inside the Manosphere 2026 1080p NF WEB-DL DDP.5.1 Atmos H.264-CHDWEB[3.58 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531357</link>
+<guid isPermaLink="false">5ff04321ad75d3099ae185792d2ab815cb0f08fe</guid>
+<pubDate>Wed, 11 Mar 2026 19:26:58 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531357" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:26:58 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531357">https://ptchdbits.co/details.php?id=531357</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/03/11/1773228520.328692.jpg" /><br /><br />◎译　　名　路易斯·泰鲁：解构男性圈 Louis Theroux: Inside the Manosphere / ·<br />◎年　　代　2026<br />◎产　　地　英国<br />◎类　　别　纪录片<br />◎语　　言　英语<br />◎上映日期　2026-03-11(英国网络)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt39792948/">https://www.imdb.com/title/tt39792948/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/38360450/">https://movie.douban.com/subject/38360450/</a><br /><br />◎简　　介<br />　　日益壮大的极端男性化网络社区、备受争议的网红—获奖纪录片制作人以独家视角毫无保留地展开探索。<br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Louis.Theroux.Inside.the.Manosphere.2026.1080p.NF.WEB-DL.DDP.5.1.Atmos.H.264-CHDWEB<br />File Size............: 3.60 GiB<br />Duration.............: 01:31:20.434 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 5,000 kbps<br />Video Codec..........: AVC,Main@L4 <br />Frame Rate...........: 23.976 fps<br />Resolution...........: 1920 x 1080<br />Audio#01.............: English &nbsp;768 kbps CBR 6channels E-AC-3 (ATMOS)<br />Subtitle#01..........: English Forced<br />Subtitle#02..........: English SDH<br />Subtitle#03..........: English <br />Subtitle#04..........: Chinese (Simplified) Simplified<br />Subtitle#05..........: Chinese (Traditional) Traditional<br />Subtitle#06..........: Arabic <br />Subtitle#07..........: Catalan <br />Subtitle#08..........: Czech <br />Subtitle#09..........: Danish <br />Subtitle#10..........: German <br />Subtitle#11..........: Greek <br />Subtitle#12..........: Spanish (Latin America) Latin America<br />Subtitle#13..........: Spanish (ES) <br />Subtitle#14..........: Basque <br />Subtitle#15..........: Finnish <br />Subtitle#16..........: Filipino <br />Subtitle#17..........: French <br />Subtitle#18..........: Galician <br />Subtitle#19..........: Hebrew <br />Subtitle#20..........: Croatian <br />Subtitle#21..........: Hungarian <br />Subtitle#22..........: Indonesian <br />Subtitle#23..........: Italian <br />Subtitle#24..........: Japanese <br />Subtitle#25..........: Korean <br />Subtitle#26..........: Malay <br />Subtitle#27..........: Norwegian Bokmal <br />Subtitle#28..........: Dutch <br />Subtitle#29..........: Polish <br />Subtitle#30..........: Portuguese (BR) Brazil<br />Subtitle#31..........: Portuguese (PT) <br />Subtitle#32..........: Romanian <br />Subtitle#33..........: Russian <br />Subtitle#34..........: Swedish <br />Subtitle#35..........: Thai <br />Subtitle#36..........: Turkish <br />Subtitle#37..........: Ukrainian <br />Subtitle#38..........: Vietnamese <br />Uploader.............: &nbsp;CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="{{thumbnail}}" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] Fukushima A Nuclear Nightmare 2026 1080p AMZN WEB-DL DDP 5.1 H.264-RAWR[5.01 GB]</title>
+<link>https://audiences.me/details.php?id=632080</link>
+<guid isPermaLink="false">0826e9641bf1f139ec6b6944eb024efb17330344</guid>
+<pubDate>Wed, 11 Mar 2026 19:40:50 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632080" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:40:50 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632080">https://audiences.me/details.php?id=632080</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Vertigo 1958 EUR UHD BluRay 2160p 10bit HDR DTS-X MA 7.1 x265-beAst[17.88 GB]</title>
+<link>https://audiences.me/details.php?id=201460</link>
+<guid isPermaLink="false">441eb8e037d87fa614b1b1fb01ff89500cc11cfb</guid>
+<pubDate>Thu, 21 Sep 2023 01:57:32 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=201460" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 Sep 2023 01:57:32 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=201460">https://audiences.me/details.php?id=201460</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] The Tonight Show Starring Jimmy Fallon 2026-03-10 Viola Davis 1080p WEB-DL DDP 5.1 H.264-JOAN[1.94 GB]</title>
+<link>https://audiences.me/details.php?id=632077</link>
+<guid isPermaLink="false">a1d80c07240195a4eaec08f4e087a144b45d824a</guid>
+<pubDate>Wed, 11 Mar 2026 19:31:51 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632077" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:31:51 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632077">https://audiences.me/details.php?id=632077</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Deep Impact 1998 2160p UHD BluRay REMUX DV HEVC TrueHD 5.1-PTer[52.64 GB]</title>
+<link>https://audiences.me/details.php?id=189287</link>
+<guid isPermaLink="false">dfdacb5ae148472d69fdc1a4a5e0e55547fb5bfe</guid>
+<pubDate>Tue, 22 Aug 2023 16:07:45 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=189287" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Tue, 22 Aug 2023 16:07:45 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=189287">https://audiences.me/details.php?id=189287</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Scent Of A Woman 2012 V2 WEB-DL 4k H.265 AAC-HDSWEB[160.31 GB]</title>
+<link>https://audiences.me/details.php?id=191811</link>
+<guid isPermaLink="false">987536f9c6f196dfaf7c700602517371f65d77ce</guid>
+<pubDate>Tue, 29 Aug 2023 04:57:35 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=191811" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Tue, 29 Aug 2023 04:57:35 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=191811">https://audiences.me/details.php?id=191811</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] Exit 8 2025 JPN BluRay 1080p REMUX AVC DTS-HD MA 7.1-mrchildren@UBits[26.27 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531358</link>
+<guid isPermaLink="false">bbea89e987dab07f2ac01ff66783fef3400383a1</guid>
+<pubDate>Wed, 11 Mar 2026 19:27:16 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531358" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 19:27:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531358">https://ptchdbits.co/details.php?id=531358</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">UBits官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://img.ubits.club/images/2026/03/07/aa9463138ffb32f562e6f28015ba3eb0.jpg" /><br /><font size="5"><span style="color: blue;"><b><fieldset><legend> 引用 </legend><br /><br /><br />HAMI OCR官方繁體字幕 需花費5-10小時心力製作 禁止轉載 加工內封 內嵌 壓制 字幕<br />1.日版 Exit.8.2025.Bluray.JPN.AVC.DTS-HD.MA.7.1-ppkhoa，感谢分享<br />2.對話分行，標點符號全形，添加大量斜體字代碼<br />3.第一次OCR後逐字校對，檢查錯字，校對重複句子，並加以合併時間軸<br />4.第二次視頻字幕逐句校對，檢查漏句<br />5.使用繁化姬转简体字幕<br /></fieldset><br /></b></span></font><br /><br />◎译　　名　8号出口 / 八号出口 / Exit 8 / The Exit 8<br />◎片　　名　8番出口<br />◎年　　代　2025<br />◎产　　地　日本<br />◎类　　别　恐怖 / 冒险<br />◎语　　言　日语<br />◎上映日期　2025-05-18(戛纳国际电影节) / 2025-08-29(日本)<br />◎IMDb评分  6.4/10 from 9,452 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt35222590/">https://www.imdb.com/title/tt35222590/</a><br />◎豆瓣评分　6.3/10 from 21,911 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/37178027/">https://movie.douban.com/subject/37178027/</a><br />◎片　　长　95分钟<br />◎导　　演　川村元气 / Genki Kawamura<br />◎演　　员　二宫和也 / Kazunari Ninomiya (饰 迷路的男人 Lost Man)<br />　　　　　　河内大和 / Yamato Kôchi (饰 行走的男人 Walking Man)<br />　　　　　　小松菜奈 / Nana Komatsu (饰 那个女人)<br />　　　　　　浅沼成 / Naru Asanuma (饰 小男孩)<br />　　　　　　花濑琴音 / &nbsp;Kotone Hanase (饰 女高中生)<br />　　　　　　大塚弘太 / Hirota Otsuka<br />◎编　　剧　平濑谦太朗 / Kentaro Hirase<br />　　　　　　川村元气 / Genki Kawamura<br />　　　　　　二宫和也 / Kazunari Ninomiya<br />◎音　　乐　中田康贵 / Yasutaka Nakata<br />　　　　　　网守将平 / Shouhei Amimori<br />◎摄　　影　今村圭佑 / Keisuke Imamura<br />◎副  导  演　平濑谦太朗 / Kentaro Hirase<br />◎其　　它　李相日 / Sang-il Lee<br />　　　　　　是枝裕和 / Hirokazu Kore-eda <br />　　　　　　山田洋次 / Yôji Yamada<br /><br />◎简　　介　<br /><br />　　在地铁通道里，男主与西装大叔的反复擦肩令他感到异样，此时墙上张贴的规则，让他意识到需要仔细观察每个重复的场景，找出其中细微的“异变”。在循环中，他遇到了同样陷入循环的小男孩，最终，他发现这段经历与他不愿面对的现实密切相关，获得了成长。唯有觉察并正视这些内心的“异变”，才能找到通往真实世界的出口。<br />　　本片改编自2023年发行的寻找“异常”的同名游戏。<br /><br />◎获奖情况　<br /><br />　　第49届日本电影学院奖 (2026)<br />　　最佳剪辑(提名) <br />　　最佳新人(提名) 河内大和<br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 163632408889376942079035959505910843962 (0x7B1A74A333124F53989A1640E0B94A3A)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 8号出口.Exit.8.2025.JPN.BluRay.1080p.REMUX.AVC.DTS-HD.MA.7.1-mrchildren@UBits.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 26.3 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 34 min<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 39.7 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2026-03-07 00:46:33 UTC<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge 91.0 ('Signs') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4.1<br />Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br />Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 4 frames<br />Format settings, Slice count &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 slices per frame<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &...</div>]]></description>
+</item>
+<item>
+<title>[未监控] Left-Handed Girl 2025 Bluray 1080p DTS-HDMA5.1 x265.10bit-CHD[8.24 GB]</title>
+<link>https://ptchdbits.co/details.php?id=531384</link>
+<guid isPermaLink="false">cce7b7cbf18b6a682912275b75e029f0bb64ff7a</guid>
+<pubDate>Wed, 11 Mar 2026 20:51:53 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=531384" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 11 Mar 2026 20:51:53 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531384">https://ptchdbits.co/details.php?id=531384</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2023/12/28/top5.png" /><br /><br /><br /><span style="color: Red;"><font size="4"><b>资源及相关素材未经CHD许可 严禁提取发布或二压使用，请注意礼节!</b></font></span><br /><br /><br /><img alt="image" src="https://shewang.net/images/2023/10/21/introduction.png" /><br /><br /><img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2926789789.jpg" /><br /><br />◎译　　名　Left-Handed Girl<br />◎片　　名　左撇子女孩<br />◎年　　代　2025<br />◎产　　地　中国台湾/美国/英国/法国<br />◎类　　别　剧情<br />◎语　　言　汉语普通话<br />◎上映日期　2025-05-15(戛纳电影节)/2025-10-31(中国台湾)/2025-11-14(美国)/2025-11-28(美国网络)<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt27722618/">https://www.imdb.com/title/tt27722618/</a><br />◎豆瓣评分　7.1/10 from 13618 users<br />◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/36107332/">https://douban.com/subject/36107332/</a><br />◎片　　长　109分钟<br />◎导　　演　邹时擎 Shih-Ching Tsou<br />◎编　　剧　邹时擎 Shih-Ching Tsou / 肖恩·贝克 Sean Baker<br />◎主　　演　马士媛 Megan Ma<br />　　　　 &nbsp;　蔡淑臻 Janel Tsai<br />　　　　 &nbsp;　叶子绮 Nina Ye<br />　　　　 &nbsp;　黄镫辉 Huang Teng-Hui<br />　　　　 &nbsp;　陈慕义 Akio Chen<br />　　　　 &nbsp;　赵心妍 Xin-Yan Chao<br />　　　　 &nbsp;　夏腾宏 Teng-Hung Hsia<br />　　　　 &nbsp;　张允曦 Stephanie Chang<br />　　　　 &nbsp;　江国宾 Franco Chiang<br />　　　　 &nbsp;　陈妤蓁 Yu-Zhen Chen<br />　　　　 &nbsp;　林宴慈 Tiffany Anais Lin<br />　　　　 &nbsp;　韩亚熙 Crystal Han<br />　　　　 &nbsp;　谢涵羽 Audrey Xie<br />　　　　 &nbsp;　郑永岳 Austin Zheng<br /><br />◎简　　介<br /><br />　　<br />　　一位单亲母亲带着两个女儿在乡下生活数年后重返台北，在热闹的夜市摆起小吃摊。面对新环境，三人以各自的方式努力适应，既要维持生计又要守护家庭完整。当传统观念根深蒂固的外祖父禁止左撇子小孙女使用&quot;恶魔之手&quot;后，这个三代同堂家庭深埋的秘密开始逐渐浮出水面。<br /><br /><br /><img alt="image" src="https://shewang.net/images/2023/10/21/information2.png" /><br /><br /><font face="Lucida Console"><br /><br /><br />Left-Handed.Girl.2025.Bluray.1080p.DTS-HDMA5.1.x265.10bit-CHD<br /><br />RELEASE DATE....: 2026-03-11 12:43:09 UTC<br />THEATRE DATE....: 28 Nov 2025<br />iMDB URL........: <a class="faqlink" href="http://www.imdb.com/title/tt27722618/">http://www.imdb.com/title/tt27722618/</a><br />iMDB RATiNG.....: 7.4 from 7,029 Votes<br />GENRE...........: Drama<br />SOURCE .........: Left-Handed Girl 2025.1080p FRA Blu-ray AVC DTS-MA 5.1-Parker@CHDBits (Thanks!)<br />ViDEO BiTRATE...: x265 L5.1 Main 10 @ 7620 Kb/s<br />FRAME RATE......: 24.000 fps @ ( 24 / 1 )<br />AUDiO...........: Chinese DTS-HD Master Audio 5.1 XLL @ 3220 Kb/s VBR Lossless<br />RUNTiME.........: 01:48:25.003 ( hh:mm:ss )<br />ASPECT RATiO....: 2.388 : 1 @ 1080p<br />RESOLUTiON......: 1920 x 804<br />SUBTiTLES.......: Chinese (CHS) | Chinese (CHT)<br />CHAPTERS........: 12<br />FilE SiZE.......: 8.237 GiB<br />ENCODER.........: Anonymous @ CHD<br /><br />x265 [info]: frame I: &nbsp; 1105, Avg QP:14.81 &nbsp;kb/s: 30700.65<br />x265 [info]: frame P: &nbsp;31368, Avg QP:15.89 &nbsp;kb/s: 17029.75<br />x265 [info]: frame B: 123647, Avg QP:20.26 &nbsp;kb/s: 5025.64 <br />x265 [info]: Weighted P-Frames: Y:5.5% UV:3.1%<br />x265 [info]: Weighted B-Frames: Y:3.0% UV:1.8%<br />x265 [info]: consecutive B-frames: 6.1% 1.2% 1.8% 42.8% 14.0% 24.9% 4.3% 3.0% 0.6% 0.4% 0.2% 0.2% 0.1% 0.1% 0.3% <br /><br /><br /><br /><br /></font><br /><br /><img alt="image" src="https://shewang.net/images/2023/10/21/screenshots2.png" /> <br /><br /><a class="faqlink" href="https://shewang.net/image/AElho"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.02.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AEfsk"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.05.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AEX1u"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.07.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AEvIY"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.09.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AELtU"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.10.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AEzU8"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.11.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AERCd"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.12.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AEnM7"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.15.md.jpg" /></a><br /><a class="faqlink" href="https://shewang.net/image/AESvt"><img alt="image" src="https://shewang.net/images/2026/03/11/screenshot.lhg.17.md.jpg" /></a><br /><br /><br /><img alt="image" src="https://shewang.net/images/2023/12/28/bottom5.png" /><br /><br /><br /></div>]]></description>
+</item>
+<item>
+<title>[未监控] Oh Mercy! 2019 BluRay 1080p REMUX AVC DTS-HD MA 5.1-HDH[29.84 GB]</title>
+<link>https://hdhome.org/details.php?id=66641</link>
+<guid isPermaLink="false">49c86904a4d506ae872b829c033c24b7675a0e83</guid>
+<pubDate>Fri, 29 May 2020 06:37:14 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=66641" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Fri, 29 May 2020 06:37:14 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=66641">https://hdhome.org/details.php?id=66641</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2579623678.jpg" /><br />
+<br />
+<br />
+◎译　　名　鲁贝之灯/今夜，我们无罪(台)/鲁贝的光/仁慈/Oh Mercy!/Roubaix, a Light<br />
+◎片　　名　Roubaix, une lumière<br />
+◎年　　代　2019<br />
+◎产　　地　法国<br />
+◎类　　别　剧情/犯罪<br />
+◎语　　言　法语<br />
+◎上映日期　2019-05-22(戛纳电影节)/2019-08-21(法国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt8359840/" target="_blank">https://www.imdb.com/title/tt8359840/</a><br />
+◎豆瓣评分　6.4/10 from 1834 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/30209086/" target="_blank">https://douban.com/subject/30209086/</a><br />
+◎片　　长　119分钟<br />
+◎导　　演　阿诺·戴普勒尚 Arnaud Desplechin<br />
+◎编　　剧　阿诺·戴普勒尚 Arnaud Desplechin / 蕾雅·梅西斯 Léa Mysius<br />
+◎主　　演　罗什迪·泽姆 Roschdy Zem<br />
+　　　　 &nbsp;　蕾雅·赛杜 Léa Seydoux<br />
+　　　　 &nbsp;　莎拉·弗里斯蒂 Sara Forestier<br />
+　　　　 &nbsp;　安托万·赖纳茨 Antoine Reinartz<br />
+　　　　 &nbsp;　贝蒂·卡图 Betty Catroux<br />
+　　　　 &nbsp;　菲利普·杜克斯纳 Philippe Duquesne<br />
+<br />
+◎标　　签　法国 | 2019 | 犯罪 | 法国电影 | 剧情 | 戛纳电影节 | LéaSeydoux | ArnaudDesplechin<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　故事讲述在法国北部的鲁贝，一位经验丰富的警长试图调查清楚一桩命案——一名老妇人被她的两个酗酒女邻居及她们的情人残忍杀害。<br />
+　　<br />
+<br />
+◎获奖情况<br />
+<br />
+　　第72届戛纳电影节 &nbsp;(2019)<br />
+　　主竞赛单元金棕榈奖(提名) 阿诺·戴普勒尚<br />
+　　同志金棕榈奖(提名) 阿诺·戴普勒尚<br />
+　　<br />
+　　第45届法国凯撒电影奖 &nbsp;(2020)<br />
+　　最佳影片(提名)<br />
+　　最佳导演(提名) 阿诺·戴普勒尚<br />
+　　最佳男主角 罗什迪·泽姆<br />
+　　最佳女配角(提名) 莎拉·弗里斯蒂<br />
+　　最佳改编剧本(提名) 阿诺·戴普勒尚 / 蕾雅·梅西斯<br />
+　　最佳摄影(提名)<br />
+　　最佳原创音乐(提名)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>Oh.Mercy!.2019.BluRay.1080p.REMUX.AVC.DTS-HD.MA.5.1-HDH<br />
+RELEASE DATE....: 05/29/2020<br />
+THEATRE DATE....: 2019<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt8359840/" target="_blank">https://www.imdb.com/title/tt8359840/</a><br />
+iMDB RATiNG.....: 6.2/10 &nbsp; 1,086 votes<br />
+GENRE...........: Crime, Drama <br />
+SOURCE .........: 2019.1080p.BluRay.FRA.AVC.DTS-HD.MA.5.1-DiY@HDHome<br />
+ViDEO BiTRATE...: AVC L4.1 High @ 33.0 Mbps<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO...........: French DTS-HDMA5.1 @ 2905 Kbps<br />
+RUNTiME.........: 01:59:06.358 (h:m:s)<br />
+ASPECT RATiO....: 16 : 9<br />
+RESOLUTiON......: 1920 x 1080 <br />
+SUBTiTLES.......: CHS/CHT<br />
+FilE SiZE.......: 29.84 G<br />
+ENCODER.........: HDH</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="http://i2.tiimg.com/705911/2b7aea1d1a812d04.jpg" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<fieldset><legend> 引用 </legend><span style="color: red;"><b>郑重声明：<br />
+本站提供的所有影视作品均是在网上搜集任何涉及商业盈利目的均不得使用，<br />
+否则产生的一切后果将由您自己承担！本站将不对本站的任何内容负任何法律责任！该下载内容仅做宽带测试使用，请在下载后24小时内删除。请购买正版！</b></span></fieldset></div>]]></description>
+</item>
+<item>
+<title>[缺少] The Trip 2021 Blu-ray 1080p DTS-HD MA 5.1 x264-HDH[11.54 GB]</title>
+<link>https://hdhome.org/details.php?id=100279</link>
+<guid isPermaLink="false">18fce8ccf27ae9f6a08e622ab9a019c19bb3136f</guid>
+<pubDate>Wed, 24 Nov 2021 17:03:57 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=100279" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 24 Nov 2021 17:03:57 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=100279">https://hdhome.org/details.php?id=100279</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2690943591.jpg" /><br />
+<br />
+◎译　　名　在糟糕的日子里/致命之旅/The Trip<br />
+◎片　　名　I onde dager<br />
+◎年　　代　2021<br />
+◎产　　地　挪威<br />
+◎类　　别　喜剧/惊悚<br />
+◎语　　言　挪威语<br />
+◎上映日期　2021-07-30(挪威)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt13109952/" target="_blank">https://www.imdb.com/title/tt13109952/</a><br />
+◎豆瓣评分　7.5/10 from 4681 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/35293160/" target="_blank">https://douban.com/subject/35293160/</a><br />
+◎片　　长　117分钟<br />
+◎导　　演　托米·维尔科拉 Tommy Wirkola<br />
+◎编　　剧　尼克·鲍尔 Nick Ball / 约翰·尼文 John Niven<br />
+◎主　　演　劳米·拉佩斯 Noomi Rapace<br />
+　　　　 &nbsp;　阿卡塞尔·亨涅 Aksel Hennie<br />
+　　　　 &nbsp;　Atle Antonsen Atle Antonsen<br />
+　　　　 &nbsp;　克里斯蒂安·鲁贝克 Christian Rubeck<br />
+　　　　 &nbsp;　安德烈·埃里克森 André Eriksen<br />
+　　　　 &nbsp;　Nils Ole Oftebro Nils Ole Oftebro<br />
+　　　　 &nbsp;　斯蒂格·弗洛德·亨里克森 Stig Frode Henriksen<br />
+　　　　 &nbsp;　伊芙·卡塞思·罗斯腾 Evy Kasseth Røsten<br />
+<br />
+◎标　　签　喜剧 | 挪威 | 血腥 | 惊悚 | Netflix | 2021 | 恐怖惊悚悬疑重口血腥 | 血溅暴力公路B级电影<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　《在糟糕的日子里》一对出现婚姻问题的夫妇前往一个遥远的小屋重新修好，但他们都有杀害对方的企图。就在他们执行计划前，意外的访客来了，他们面临着更大的危险。<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>The.Trip.2021.Blu-ray.1080p.DTS-HD.MA.5.1.x264-HDH<br />
+<br />
+.Basic.Info<br />
+THEATRE DATE....: 2021<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt13109952" target="_blank">https://www.imdb.com/title/tt13109952</a><br />
+iMDB RATiNG.....: 6.9/10 &nbsp;11,402 votes<br />
+GENRE...........: Action, Comedy, Horror<br />
+<br />
+.Release.Info<br />
+SOURCE .........: The.Trip.2021.1080p.GER.Blu-ray.AVC.DTS-HD.MA.5.1-DiY@HDHome<br />
+RELEASE DATE....: 11/24/2021<br />
+FilE SiZE.......: 11.54 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:53:43.670 (h:m:s)<br />
+RESOLUTiON......: 1920 x 960<br />
+ViDEO BiTRATE...: x264 L4.1 High @ 12579 Kbps<br />
+ASPECT RATiO....: 2.00 : 1<br />
+FRAME RATE......: 24 fps<br />
+AUDiO 1.........: Norwegian DTS-HDMA 5.1 @ 1903 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: Chinese/PGS<br />
+SUBTiTLE 3......: Chinese/PGS<br />
+SUBTiTLE 4......: English/UTF-8<br />
+SUBTiTLE 5......: Chinese/UTF-8<br />
+SUBTiTLE 6......: Chinese/UTF-8<br />
+<br />
+.x264.Info<br />
+x264 [info]: frame I:1401 &nbsp;Avg QP:14.85 &nbsp;size:249754<br />
+x264 [info]: frame P:35110 Avg QP:15.52 &nbsp;size:122895<br />
+x264 [info]: frame B:127257 Avg QP:17.33 &nbsp;size: 47654<br />
+x264 [info]: consecutive B-frames: &nbsp;2.1% &nbsp;3.1% &nbsp;6.7% 18.2% 18.4% 38.3% &nbsp;8.6% &nbsp;3.3% &nbsp;1.3%<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="https://img.hdhome.org/images/2021/11/24/253e1b47bf069ef3c53501db1be05c0d.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] Feng Qi Luo Yang 2021 2160P WEB-DL H265 AAC-HDHWEB[38.91 GB]</title>
+<link>https://hdhome.org/details.php?id=104818</link>
+<guid isPermaLink="false">1f4c58a5218174ae4b8b91892777b628a6859c1b</guid>
+<pubDate>Wed, 29 Dec 2021 20:52:48 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=104818" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 29 Dec 2021 20:52:48 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=104818">https://hdhome.org/details.php?id=104818</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><span style="color: Red;"><font size="4">资源上传下载过程中难免会出现丢帧花屏的情况，如发现，请及时反馈问题位置，我们会尽量进行修复。</font></span></fieldset><br />
+<br />
+<img alt="image" src="https://img4.doubanio.com/view/photo/l_ratio_poster/public/p2741802500.jpg" /><br />
+<br />
+◎译　　名　洛阳<br />
+◎片　　名　风起洛阳<br />
+◎年　　代　2021<br />
+◎产　　地　中国大陆<br />
+◎类　　别　剧情/悬疑/古装<br />
+◎语　　言　汉语普通话<br />
+◎上映日期　2021-12-01(中国大陆)<br />
+◎豆瓣评分　/10 from 0 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/33442334/" target="_blank">https://douban.com/subject/33442334/</a><br />
+◎集　　数　39<br />
+◎片　　长　45分钟<br />
+◎导　　演　谢泽 Ze Xie<br />
+◎编　　剧　青枚 Mei Qing / 马伯庸 Marberionius<br />
+◎主　　演　黄轩 Xuan Huang<br />
+　　　　 &nbsp;　王一博 Yibo Wang<br />
+　　　　 &nbsp;　宋茜 Victoria Song<br />
+　　　　 &nbsp;　宋轶 Yi Song<br />
+　　　　 &nbsp;　咏梅 Mei Yong<br />
+　　　　 &nbsp;　刘端端 Duanduan Liu<br />
+　　　　 &nbsp;　张铎 Duo Zhang<br />
+　　　　 &nbsp;　张俪 Li Zhang<br />
+　　　　 &nbsp;　张晞临 Xilin Zhang<br />
+　　　　 &nbsp;　高曙光 Shuguang Gao<br />
+　　　　 &nbsp;　施羽 Yu Shi<br />
+　　　　 &nbsp;　宁文彤 Wentong Ning<br />
+　　　　 &nbsp;　冯晖 Hui Feng<br />
+　　　　 &nbsp;　郑家彬 Jiabin Zheng<br />
+　　　　 &nbsp;　蒋龙 Long Jiang<br />
+　　　　 &nbsp;　张峻鸣 Junming Zhang<br />
+　　　　 &nbsp;　刘梦珂 Mengke Liu<br />
+　　　　 &nbsp;　刘恩佳 Enjia Liu<br />
+　　　　 &nbsp;　张芷箖 Zhilin Zhang<br />
+　　　　 &nbsp;　韩帅 Shuai Han<br />
+<br />
+◎标　　签　王一博 | 洛阳 | 悬疑 | 古装 | 马伯庸 | 剧情 | 电视剧 | 黄轩<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　该剧改编自马伯庸小说《洛阳》，讲述了武周时期一群出身不同阶层的人为调查洛阳悬案而发生的一系列故事。<br />
+　　<br />
+　　迹于洛阳底层的不良副帅高秉烛（黄轩 饰）阴差阳错卷入案件，成为嫌疑人，在想方设法自证清白时，与为查清父亲被毒杀真相的百里弘毅（王一博 饰）相遇，二人合作并展开调查。世家出身的内卫思月（宋茜 饰）为任务调查并接近武艺超群、颇有市井智慧的高秉烛，想要寻取与案件有关的告密信，完全不同阶级的两个人互相看不顺眼，却不得不捆绑在一起。随着他们对案件的不断深入，找寻真相，进而发现了一个足以毁灭神都、血染洛水的惊天阴谋。<br />
+　　<br />
+<img alt="image" src="https://i.ibb.co/74Fn0Fx/Feng-Qi-Luo-Yang-2021-E01-2160-P-WEB-DL-H265-AAC-HDHWEB-mp4.jpg" /><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : MPEG-4<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Base Media<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : isom (isom/iso2/mp41)<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.18 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 43 s<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 3 709 kb/s<br />
+Recorded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 2021-12-03T20:29:41.8441984+08:00<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Lavf58.32.104<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main@L5@Main<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : hev1<br />
+Codec ID/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 43 s<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 3 513 kb/s<br />
+Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />
+Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 632 pixels<br />
+Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.35:1<br />
+Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
+Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />
+Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />
+Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 8 bits<br />
+Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.022<br />
+Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.12 GiB (95%)<br />
+Codec configuration box &nbsp; &nbsp; &nbsp; &nbsp;: hvcC<br />
+<br />
+Audio<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AAC LC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Audio Codec Low Complexity<br />
+Codec ID ...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] The Lighthouse 2019 2160p UHD Blu-ray REMUX HEVC DTS-HD MA 5.1-HDH[64.08 GB]</title>
+<link>https://hdhome.org/details.php?id=167247</link>
+<guid isPermaLink="false">4827a6be87165602cd598903f126239b4f4845e8</guid>
+<pubDate>Tue, 20 Jun 2023 12:20:26 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=167247" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Tue, 20 Jun 2023 12:20:26 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=167247">https://hdhome.org/details.php?id=167247</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img.hdhome.org/images/2023/04/04/f68a97cc3c54ae99d9d51a5e49870a4d.png" /><br />
+<br />
+◎译　　名　灯塔<br />
+◎片　　名　The Lighthouse<br />
+◎年　　代　2019<br />
+◎产　　地　加拿大/美国/巴西<br />
+◎类　　别　恐怖/奇幻<br />
+◎语　　言　英语<br />
+◎上映日期　2019-05-19(戛纳电影节)/2019-09-07(多伦多电影节)/2019-11-01(美国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt7984734/" target="_blank">https://www.imdb.com/title/tt7984734/</a><br />
+◎豆瓣评分　7.3/10 from 47948 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/30143336/" target="_blank">https://douban.com/subject/30143336/</a><br />
+◎片　　长　109分钟<br />
+◎导　　演　罗伯特·艾格斯 Robert Eggers<br />
+◎编　　剧　马克斯·艾格斯 Max Eggers / 罗伯特·艾格斯 Robert Eggers<br />
+◎主　　演　罗伯特·帕丁森 Robert Pattinson<br />
+　　　　 &nbsp;　威廉·达福 Willem Dafoe<br />
+　　　　 &nbsp;　瓦莱丽娅·卡拉曼 Valeriia Karaman<br />
+　　　　 &nbsp;　洛根·霍克斯 Logan Hawkes<br />
+<br />
+◎简　　介<br />
+<br />
+　　<br />
+　　1890年代，两名灯塔管理员试图在他们生活在偏僻而神秘的新英格兰岛上时保持理智。<br />
+　　<br />
+　　随着雾角的摇摆声响彻空中，沉默寡言的前伐木工人埃弗莱姆·温斯洛和两鬓斑白的灯塔管理员托马斯·韦克踏上了十九世纪末新英格兰沿岸一个僻静且了无生气的岛屿。 在接下来四周艰苦的工作和不利的条件下 ，俩沉默寡言男人除了彼此以外，没有其他人的陪伴，被迫忍受，仇怨与日俱增。 然后，在恶劣的预兆中，狂怒而无休的暴风使看守员受困于本就不宜居的火山岩，助长了长期的野性饥饿；极度痛苦；使人躁狂的隔绝以及恐怖的酒后幻觉。现在，精神错乱得令人窒息。 还可以从无形的牢狱中逃脱吗？<br />
+　　<br />
+　　<br />
+　　<br />
+<br />
+◎获奖情况<br />
+<br />
+　　第92届奥斯卡金像奖 &nbsp;(2020)<br />
+　　最佳摄影(提名) 贾琳·布拉什克<br />
+　　<br />
+　　第72届戛纳电影节 &nbsp;(2019)<br />
+　　导演双周单元(提名) 罗伯特·艾格斯<br />
+　　费比西奖导演双周单元<br />
+　　<br />
+　　第73届英国电影学院奖 &nbsp;(2020)<br />
+　　电影奖最佳摄影(提名) 贾琳·布拉什克<br />
+　　<br />
+　　第34届美国摄影协会奖 &nbsp;(2020)<br />
+　　聚光灯奖(提名) 贾琳·布拉什克<br />
+　　<br />
+　　第25届美国评论家选择电影奖 &nbsp;(2020)<br />
+　　最佳男配角(提名) 威廉·达福<br />
+　　最佳摄影(提名)<br />
+　　<br />
+　　第35届美国独立精神奖 &nbsp;(2020)<br />
+　　最佳导演(提名) 罗伯特·艾格斯<br />
+　　最佳男主角(提名) 罗伯特·帕丁森<br />
+　　最佳男配角 威廉·达福<br />
+　　最佳摄影<br />
+　　最佳剪辑(提名)<br />
+　　<br />
+　　第29届哥谭独立电影奖 &nbsp;(2019)<br />
+　　最佳男演员(提名) 威廉·达福<br />
+　　<br />
+　　第24届金卫星奖 &nbsp;(2020)<br />
+　　电影部门最佳剧情片(提名)<br />
+　　电影部门最佳男配角 威廉·达福<br />
+　　<br />
+　　第40届伦敦影评人协会奖 &nbsp;(2020)<br />
+　　年度英国/爱尔兰男演员 罗伯特·帕丁森<br />
+　　<br />
+　　第32届芝加哥影评人协会奖 &nbsp;(2019)<br />
+　　最佳摄影(提名) 贾琳·布拉什克<br />
+　　<br />
+　　第23届美国在线影评人协会奖 &nbsp;(2020)<br />
+　　最佳男配角(提名) 威廉·达福<br />
+　　最佳摄影(提名) 贾琳·布拉什克<br />
+<br />
+<br />
+<br />
+<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a class="faqlink" href="https://img.hdhome.org/image/Bs6rL"><img alt="image" src="https://img.hdhome.org/images/2021/02/01/6625a368a2e98cadf63276e1e166b201.png" /></a><br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>The.Lighthouse.2019.2160p.UHD.Blu-ray.REMUX.HEVC.DTS-HD.MA.5.1-HDH<br />
+<br />
+.Release.Info<br />
+SOURCE .........: The.Lighthouse.2019.2160p.UHD.Blu-ray.HEVC.DTS-HD.MA.5.1-DiY@HDHome<br />
+RELEASE DATE....: 06/20/2023<br />
+FilE SiZE.......: 64.08 GiB<br />
+ENCODER.........: HDH<br />
+<br />
+.Media.Info<br />
+RUNTiME.........: 01:49:26.977 (h:m:s)<br />
+RESOLUTiON......: 3840 x 2160<br />
+ViDEO BiTRATE...: HEVC L5.1 Main 10 @ 80197 Kbps<br />
+HDR Format 1....: Dolby Vision, dvhe 07.06, BL+EL+RPU, Blu-ray compatible<br />
+HDR Format 2....: SMPTE ST 2086, HDR10 compatible<br />
+ASPECT RATiO....: 16 : 9<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO 1.........: English DTS-HDMA 5.1 @ 3769 Kbps<br />
+SUBTiTLE 1......: English/PGS<br />
+SUBTiTLE 2......: Spanish/PGS<br />
+SUBTiTLE 3......: Chinese/PGS<br />
+SUBTiTLE 4......: Chinese/PGS<br />
+SUBTiTLE 5......: Chinese/PGS<br />
+SUBTiTLE 6......: Chinese/PGS<br />
+</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<img alt="image" src="https://img.hdhome.org/images/2023/06/20/334d30a3bfdc5f59663665f93fa0487c.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] A Madea Family Funeral 2019 BluRay 1080p REMUX AVC DTS-HD MA 5.1-HDH[29.77 GB]</title>
+<link>https://hdhome.org/details.php?id=52238</link>
+<guid isPermaLink="false">d2425aca3fc4752e9a514fa9de46078b5475746c</guid>
+<pubDate>Tue, 11 Jun 2019 17:29:20 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=52238" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Tue, 11 Jun 2019 17:29:20 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=52238">https://hdhome.org/details.php?id=52238</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2543279105.jpg" /><br />
+<br />
+◎译　　名　黑疯婆子的葬礼/Tyler Perry&#039;s a Madea Family Funeral<br />
+◎片　　名　A Madea Family Funeral<br />
+◎年　　代　2019<br />
+◎产　　地　美国<br />
+◎类　　别　喜剧<br />
+◎语　　言　英语<br />
+◎上映日期　2019-03-01(美国)<br />
+◎IMDb评分 &nbsp;4.3/10 from 2,114 users<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt7054636/" target="_blank">https://www.imdb.com/title/tt7054636/</a><br />
+◎豆瓣评分　/10 from 0 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/30162058/" target="_blank">https://douban.com/subject/30162058/</a><br />
+◎片　　长　109分钟<br />
+◎导　　演　泰勒·派瑞 Tyler Perry<br />
+◎编　　剧　泰勒·派瑞 Tyler Perry<br />
+◎主　　演　泰勒·派瑞 Tyler Perry<br />
+　　　　 &nbsp;　凯西·戴维斯 Cassi Davis<br />
+　　　　 &nbsp;　派翠丝·拉弗莉 Patrice Lovely<br />
+　　　　 &nbsp;　迈克·泰森 Mike Tyson<br />
+　　　　 &nbsp;　西雷拉·佩顿 Ciera Payton<br />
+　　　　 &nbsp;　杰·史密斯 Kj Smith<br />
+　　　　 &nbsp;　昆·沃尔特斯 Quin Walters<br />
+　　　　 &nbsp;　艾里耶·米兰达 Aeriél Miranda<br />
+　　　　 &nbsp;　韦米蒂娅·埃拉恩 Vermyttya Erahn<br />
+　　　　 &nbsp;　詹·哈珀 Jen Harper<br />
+　　　　 &nbsp;　罗姆·弗林 Rome Flynn <br />
+　　　　 &nbsp;　大卫·奥唐家 David Otunga<br />
+　　　　 &nbsp;　阿莱·卡特斯 Ary Katz<br />
+　　　　 &nbsp;　乔尔·拉什 Joel Rush<br />
+　　　　 &nbsp;　玛丽索尔·科雷亚 Marisol Correa<br />
+　　　　 &nbsp;　大卫·邓斯顿 David Dunston<br />
+　　　　 &nbsp;　雷纳·加拉赫 Renah Gallagher<br />
+　　　　 &nbsp;　肖恩·麦克米伦 Shaun McMillan<br />
+<br />
+◎标　　签　剧情 | 美国 | 喜剧 | 2019 | 泰勒·派瑞 | 2010s | 迈克·泰森 | 大陆<br />
+<br />
+◎简　　介<br />
+<br />
+　　“黑疯婆子”系列电影始于2005年，由美国黑人电影人泰勒·派瑞(Tyler Perry)打造。自《疯女人日记》(Diary of a Mad Black Woman)2005年2月上映以来，该系列于14年间推出《黑疯婆子的万圣节》(Boo! A Madea Halloween)、《黑疯婆子的快乐大家庭》(Madea&#039;s Big Happy Family)、《黑疯婆子闹监狱》(Madea Goes to Jail)等9部影片，展开一段又一段“黑疯婆子”疯狂搞笑之旅。最新亮相的《黑疯婆子的家庭葬礼》，继续由今年50岁的泰勒·派瑞担纲编剧、导演和主演，讲述一场意想不到的葬礼引出家族秘密的滑稽故事。<br />
+　　 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<font face="Lucida Console"><fieldset><legend> 引用 </legend>A.Madea.Family.Funeral.2019.BluRay.1080p.REMUX.AVC.DTS-HD.MA.5.1-HDH<br />
+RELEASE DATE....: 06/11/2019<br />
+THEATRE DATE....: 2019<br />
+iMDB URL........: <a class="faqlink" href="https://www.imdb.com/title/tt7054636/" target="_blank">https://www.imdb.com/title/tt7054636/</a><br />
+iMDB RATiNG.....: 4.3/10 &nbsp; 2,114 votes<br />
+GENRE...........: Comedy <br />
+SOURCE .........: A Madea Family Funeral 2019 1080p Blu-ray AVC DTS-HD MA 5.1-LAZERS<br />
+ViDEO BiTRATE...: AVC L4.1 High @ 35.4 Mbps<br />
+FRAME RATE......: 23.976 fps<br />
+AUDiO...........: English DTS-HDMA5.1 @ 3430 Kbps<br />
+RUNTiME.........: 01:49:28.608 (h:m:s)<br />
+ASPECT RATiO....: 16 : 9<br />
+RESOLUTiON......: 1920 x 1080 <br />
+SUBTiTLES.......: ENG/SPA<br />
+FilE SiZE.......: 29.77 G<br />
+ENCODER.........: HDH</fieldset></font><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<fieldset><legend> 引用 </legend><span style="color: red;"><b>郑重声明：<br />
+本站提供的所有影视作品均是在网上搜集任何涉及商业盈利目的均不得使用，<br />
+否则产生的一切后果将由您自己承担！本站将不对本站的任何内容负任何法律责任！该下载内容仅做宽带测试使用，请在下载后24小时内删除。请购买正版！</b></span></fieldset></div>]]></description>
+</item>
+<item>
+<title>[已拥有] Relationship Goals 2026 2160p AMZN WEB-DL H.265 DDP5.1 Atmos-ADWeb[10.02 GB]</title>
+<link>https://audiences.me/details.php?id=632230</link>
+<guid isPermaLink="false">3274aa0f026f61787d591e99e42a3b4fd630a055</guid>
+<pubDate>Thu, 12 Mar 2026 08:13:16 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632230" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:13:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632230">https://audiences.me/details.php?id=632230</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] Tell Me Softly 2025 2160p AMZN WEB-DL H.265 DDP5.1 Atmos-ADWeb[12.82 GB]</title>
+<link>https://audiences.me/details.php?id=632226</link>
+<guid isPermaLink="false">e76c6b720416dc644a5f1e077a6391ef9b009238</guid>
+<pubDate>Thu, 12 Mar 2026 08:11:22 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632226" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:11:22 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632226">https://audiences.me/details.php?id=632226</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] Love Me Love Me 2026 1080p AMZN WEB-DL H.264 DDP5.1 Atmos-ADWeb[6.51 GB]</title>
+<link>https://audiences.me/details.php?id=632223</link>
+<guid isPermaLink="false">6a331371e8fa3db0b61d2c9e97b2bd684352a085</guid>
+<pubDate>Thu, 12 Mar 2026 08:10:26 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=632223" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:10:26 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=632223">https://audiences.me/details.php?id=632223</a></p>]]></description>
 </item>
 <item>
 <title>[未监控] Sex Tape 2014 1080p BluRay x264 DTS-ADE[9.32 GB]</title>
-<link>https://ptchdbits.co/details.php?id=531472</link>
-<guid isPermaLink="false">dac39249a049bb88dd63e163a4d5218ee62502d6</guid>
-<pubDate>Thu, 12 Mar 2026 08:19:08 +0800</pubDate>
-<source>ptchdbits</source>
-<enclosure url="https://ptchdbits.co/download.php?id=531472" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
-<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:19:08 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=531472">https://ptchdbits.co/details.php?id=531472</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">Audiences官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br /><font size="5"><span style="color: royalblue;">原盘来自DIY@Audies，字幕素材来自@字幕库，<br />由Audiences完成校对、调整。<br />字幕转载务必注意礼节，请保留原作者信息，谢绝二次提取修改！<br />在此感谢各位原作者及分享者！如有侵权请联系删除！</span></font></fieldset><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/original/pFdS7SIdjcrYXtf141dabWVly9B.jpg" /><br />◎译　　名 &nbsp;性爱录像带 / 爱爱上云端(台) / 春光乍网(港)<br />◎片　　名　Sex Tape<br />◎年　　代　2014<br />◎产　　地　美国<br />◎类　　别　喜剧<br />◎语　　言　英语<br />◎上映日期　2014-07-18(美国)<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt1956620/">https://www.imdb.com/title/tt1956620/</a><br />◎豆瓣评分　5.5/10 from 8919 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/21324293/">https://movie.douban.com/subject/21324293/</a><br />◎导　　演 &nbsp;杰克·卡斯丹 Jake Kasdan<br />◎编　　剧 &nbsp;凯特·安吉洛 Kate Angelo / 杰森·席格尔 Jason Segel / 尼古拉斯·斯托勒 Nicholas Stoller<br />◎主　　演 &nbsp;杰森·席格尔 Jason Segel<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 卡梅隆·迪亚兹 Cameron Diaz<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 罗伯·考德瑞 Rob Corddry<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 艾丽·坎伯尔 Ellie Kemper<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 罗伯·劳 Rob Lowe<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 奈特·法松 Nat Faxon<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 南希·利内翰 Nancy Lenehan<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 库梅尔·南贾尼 Kumail Nanjiani<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 杰克·布莱克 Jack Black<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 克里斯·西德贝里 Kris Sidberry<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 戴夫·艾伦 Dave Allen<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 乔琳纳·布拉洛克 Jolene Blalock<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 吉塞尔·艾森伯格 Giselle Eisenberg<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 兰道尔·朴 Randall Park<br /><br />◎简　　介 &nbsp;<br /><br />　一对结婚多年性生活早已进入干旱期的夫妻，某日性致高昂天雷勾动地火，还将炒饭过程全都录，但却不慎将影片PO上云端，急得跳脚的傻夫傻妻要如何在小电影首映前把影片拉下云端?!<br /><br />◎获奖情况 &nbsp;<br /><br />　第35届金酸莓奖 &nbsp;(2015)<br /> &nbsp;最差剧本(提名) 凯特·安吉洛 / 尼古拉斯·斯托勒 / 杰森·席格尔<br /> &nbsp;最差银幕组合(提名) 卡梅隆·迪亚兹 / 杰森·席格尔 / 卡梅隆·迪亚兹 / 杰森·席格尔<br /><br /><fieldset><legend> 引用 </legend><br /><font face="Lucida Console"><br />.Release.Info<br />ENCODER...................: ADE<br />RELEASE NAME..............: Sex.Tape.2014.1080p.BluRay.x264.DTS-ADE<br />RELEASE DATE..............: 2025-04-14<br />RELEASE SiZE..............: 9.318 GiB<br />SOURCE....................: Sex Tape 2014 1080p BluRay AVC DTS-HD MA 5.1-DIY@Audies (Thanks)<br /><br />.Media.Info<br />RUNTiME...................: 1 h 34 min 34 s<br />ViDEO CODEC...............: x264 High-L4.1 &nbsp;@ 12.5Mb/s<br />RESOLUTiON................: 1920 x 1036<br />DiSPLAY ASPECT RATiO......: 1.85:1<br />FRAME RATE................: 23.976 FPS<br />BIT DEPTH.................: 8 bits<br />AUDiO CODEC...............: English DTS 5.1 @ 1509Kbps<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (chs&amp;eng)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht&amp;eng)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (cht)<br />SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht)<br />SUBTiTLES.................: S_HDMV/PGS : English (eng)<br /><br />.x264.Info<br />x264 [info]: profile High, level 4.1, 4:2:0, 8-bit<br />x264 [info]: frame I:1282 &nbsp;Avg QP:16.17 &nbsp;size:212453<br />x264 [info]: frame P:31269 Avg QP:17.52 &nbsp;size:113197<br />x264 [info]: frame B:103505 Avg QP:19.43 &nbsp;size: 48627<br />x264 [info]: consecutive B-frames: &nbsp;2.3% &nbsp;4.2% &nbsp;4.5% 40.8% 11.9% 19.6% &nbsp;8.0% &nbsp;8.1% &nbsp;0.4% &nbsp;0.0% &nbsp;0.1% &nbsp;0.2%<br /><br /></font></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br /><font face="Lucida Console">General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 162231984511114946840461624168269174956 (0x7A0CBE62840D5C1634112D5AEECB58AC)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Sex.Tape.2014.1080p.BluRay.x264.DTS-ADE.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 9.32 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 34 min<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.1 Mb/s<br />Movie name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Sex Tape – Blu-ray™<br />Encoded date &nbsp; ...</div>]]></description>
+<link>https://hdhome.org/details.php?id=283065</link>
+<guid isPermaLink="false">42030d9ffe4a299c718b99b2adbeb45ab9539aad</guid>
+<pubDate>Thu, 12 Mar 2026 08:47:18 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=283065" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Thu, 12 Mar 2026 08:47:18 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=283065">https://hdhome.org/details.php?id=283065</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">Audiences官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend><font size="5"><span style="color: royalblue;">原盘来自DIY@Audies，字幕素材来自@字幕库，<br />
+由Audiences完成校对、调整。<br />
+字幕转载务必注意礼节，请保留原作者信息，谢绝二次提取修改！<br />
+在此感谢各位原作者及分享者！如有侵权请联系删除！</span></font></fieldset><br />
+<img alt="image" src="https://image.tmdb.org/t/p/original/pFdS7SIdjcrYXtf141dabWVly9B.jpg" /><br />
+◎译　　名 &nbsp;性爱录像带 / 爱爱上云端(台) / 春光乍网(港)<br />
+◎片　　名　Sex Tape<br />
+◎年　　代　2014<br />
+◎产　　地　美国<br />
+◎类　　别　喜剧<br />
+◎语　　言　英语<br />
+◎上映日期　2014-07-18(美国)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt1956620/">https://www.imdb.com/title/tt1956620/</a><br />
+◎豆瓣评分　5.5/10 from 8919 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/21324293/">https://movie.douban.com/subject/21324293/</a><br />
+◎导　　演 &nbsp;杰克·卡斯丹 Jake Kasdan<br />
+◎编　　剧 &nbsp;凯特·安吉洛 Kate Angelo / 杰森·席格尔 Jason Segel / 尼古拉斯·斯托勒 Nicholas Stoller<br />
+◎主　　演 &nbsp;杰森·席格尔 Jason Segel<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 卡梅隆·迪亚兹 Cameron Diaz<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 罗伯·考德瑞 Rob Corddry<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 艾丽·坎伯尔 Ellie Kemper<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 罗伯·劳 Rob Lowe<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 奈特·法松 Nat Faxon<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 南希·利内翰 Nancy Lenehan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 库梅尔·南贾尼 Kumail Nanjiani<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 杰克·布莱克 Jack Black<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 克里斯·西德贝里 Kris Sidberry<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 戴夫·艾伦 Dave Allen<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 乔琳纳·布拉洛克 Jolene Blalock<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 吉塞尔·艾森伯格 Giselle Eisenberg<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 兰道尔·朴 Randall Park<br />
+<br />
+◎简　　介 &nbsp;<br />
+<br />
+　一对结婚多年性生活早已进入干旱期的夫妻，某日性致高昂天雷勾动地火，还将炒饭过程全都录，但却不慎将影片PO上云端，急得跳脚的傻夫傻妻要如何在小电影首映前把影片拉下云端?!<br />
+<br />
+◎获奖情况 &nbsp;<br />
+<br />
+　第35届金酸莓奖 &nbsp;(2015)<br />
+ &nbsp;最差剧本(提名) 凯特·安吉洛 / 尼古拉斯·斯托勒 / 杰森·席格尔<br />
+ &nbsp;最差银幕组合(提名) 卡梅隆·迪亚兹 / 杰森·席格尔 / 卡梅隆·迪亚兹 / 杰森·席格尔<br />
+<br />
+<fieldset><legend> 引用 </legend><font face="Lucida Console"><br />
+.Release.Info<br />
+ENCODER...................: ADE<br />
+RELEASE NAME..............: Sex.Tape.2014.1080p.BluRay.x264.DTS-ADE<br />
+RELEASE DATE..............: 2025-04-14<br />
+RELEASE SiZE..............: 9.318 GiB<br />
+SOURCE....................: Sex Tape 2014 1080p BluRay AVC DTS-HD MA 5.1-DIY@Audies (Thanks)<br />
+<br />
+.Media.Info<br />
+RUNTiME...................: 1 h 34 min 34 s<br />
+ViDEO CODEC...............: x264 High-L4.1 &nbsp;@ 12.5Mb/s<br />
+RESOLUTiON................: 1920 x 1036<br />
+DiSPLAY ASPECT RATiO......: 1.85:1<br />
+FRAME RATE................: 23.976 FPS<br />
+BIT DEPTH.................: 8 bits<br />
+AUDiO CODEC...............: English DTS 5.1 @ 1509Kbps<br />
+SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (chs&amp;eng)<br />
+SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht&amp;eng)<br />
+SUBTiTLES.................: S_HDMV/PGS : Chinese (Simplied) (cht)<br />
+SUBTiTLES.................: S_HDMV/PGS : Chinese (Traditional) (cht)<br />
+SUBTiTLES.................: S_HDMV/PGS : English (eng)<br />
+<br />
+.x264.Info<br />
+x264 [info]: profile High, level 4.1, 4:2:0, 8-bit<br />
+x264 [info]: frame I:1282 &nbsp;Avg QP:16.17 &nbsp;size:212453<br />
+x264 [info]: frame P:31269 Avg QP:17.52 &nbsp;size:113197<br />
+x264 [info]: frame B:103505 Avg QP:19.43 &nbsp;size: 48627<br />
+x264 [info]: consecutive B-frames: &nbsp;2.3% &nbsp;4.2% &nbsp;4.5% 40.8% 11.9% 19.6% &nbsp;8.0% &nbsp;8.1% &nbsp;0.4% &nbsp;0.0% &nbsp;0.1% &nbsp;0.2%<br />
+<br />
+</font></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend><font face="Lucida Console">General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 162231984511114946840461624168269174956 (0x7A0CBE62840D5C1634112D5AEECB58AC)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Sex.Tape.2014.1080p.BluRay.x264.DTS-ADE.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 9.32 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 34 min<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.1 Mb/s<br />
+Movie name &nbsp; &nbsp; &nbsp; &nbsp; ...</div>]]></description>
 </item>
 </channel>
 </rss>
