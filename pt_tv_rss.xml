@@ -3,228 +3,879 @@
 <channel>
 <title>PT剧集RSS</title>
 <link>https://liuhangbj.github.io/pt-rss</link>
-<description>PT剧集RSS - 生成时间: 2026-04-01 09:28:34 | 保留最近7天</description>
-<lastBuildDate>Wed, 01 Apr 2026 09:28:34 +0800</lastBuildDate>
+<description>PT剧集RSS - 生成时间: 2026-04-01 12:00:03 | 保留最近7天</description>
+<lastBuildDate>Wed, 01 Apr 2026 12:00:03 +0800</lastBuildDate>
 <language>zh-CN</language>
 <item>
-<title>[未监控] [Moordfeest 第二季 全6集] Moordfeest S02 2023 1080p WEB-DL H.264 AAC 2.0-BTN[Moordfeest 第二季 全6集][14.32 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=285995</link>
-<guid isPermaLink="false">a0607bb0833d79a75d44544d9a460f09099b2e3f</guid>
-<pubDate>Wed, 01 Apr 2026 07:53:27 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=285995" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 07:53:27 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=285995">https://hdhome.org/details.php?id=285995</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><img alt="image" src="https://ptpimg.me/g8j2fh.jpg" /><br />
-◎译　　名　Moordfeest 第二季<br />
-◎片　　名　Moordfeest Season 2<br />
-◎类　　型　Family<br />
-◎产　　地　Netherlands<br />
-◎年　　代　December 16, 2023 (Netherlands)<br />
-◎IMDb评分  6.2/10<br />
-◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt33258224/">https://www.imdb.com/title/tt33258224/</a><br />
-◎演　　员　Hans Kesting, Tatum Dagelet, Tygo Gernandt, Annick Boer, Roeland Fernhout, Jasmine Sendar, Bobbi Eden, Tina de Bruin<br />
-<br />
-◎简　　介　<br />
-<br />
- &nbsp;Six celebrities solve a fictional murder, with a new theme and a new location every week. Both the victim and the perpetrator are also well-known Dutch people who have received an invitation.<br />
-<br />
- &nbsp; &nbsp; <br />
-<br />
- &nbsp;<br />
-<fieldset><legend> 引用 </legend>General<br />
-Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 62647797878300952040552798172620234758 (0x2F2186E8B5C73FC0233CF8B3FE23A006)<br />
-Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Moordfeest.S02E01.DUTCH.1080p.WEB.h264-TRIPEL.mkv<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
-Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
-File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 2.51 GiB<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 8 min<br />
-Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 290 kb/s<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
-Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v90.0 (&#039;Hanging On&#039;) 64-bit<br />
-Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.4 + libmatroska v1.7.1 / Lavf60.18.100<br />
-<br />
-Video<br />
-ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
-Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
-Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4<br />
-Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 3 Ref Frames<br />
-Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
-Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 3 frames<br />
-Format settings, GOP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : M=3, N=50<br />
-Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 8 min<br />
-Bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 130 kb/s<br />
-Maximum bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 6 000 kb/s<br />
-Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />
-Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 080 pixels<br />
-Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />
-Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
-Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />
-Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs...</div>]]></description>
-</item>
-<item>
-<title>[未监控] [Moordfeest 第一季 全7集] Moordfeest S01 2023 DUTCH 1080p WEB-DL H.264 AAC 2.0-BTN[Moordfeest 第一季 全7集][14.65 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=285994</link>
-<guid isPermaLink="false">39ef5679a4971bcd930b6a20a39e7801cfae4dc5</guid>
-<pubDate>Wed, 01 Apr 2026 07:52:16 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=285994" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 07:52:16 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=285994">https://hdhome.org/details.php?id=285994</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><img alt="image" src="https://ptpimg.me/g8j2fh.jpg" /><br />
-◎译　　名　Moordfeest 第一季<br />
-◎片　　名　Moordfeest Season 1<br />
-◎类　　型　Family<br />
-◎产　　地　Netherlands<br />
-◎年　　代　December 16, 2023 (Netherlands)<br />
-◎IMDb评分  6.2/10<br />
-◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt33258224/">https://www.imdb.com/title/tt33258224/</a><br />
-◎演　　员　Hans Kesting, Tatum Dagelet, Tygo Gernandt, Annick Boer, Roeland Fernhout, Jasmine Sendar, Bobbi Eden, Tina de Bruin<br />
-<br />
-◎简　　介　<br />
-<br />
- &nbsp;Six celebrities solve a fictional murder, with a new theme and a new location every week. Both the victim and the perpetrator are also well-known Dutch people who have received an invitation.<br />
-<br />
- &nbsp; &nbsp; <br />
-<br />
- &nbsp;<br />
-<fieldset><legend> 引用 </legend>All episodes are off by 1 number. &nbsp;Scene released S01E01 which is the special, Episode 2 onwards is the season<br />
-<br />
-General<br />
-Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 275029877466251730075201125048434570104 (0xCEE8D3E19D163FC408BC2CB3C4EC3378)<br />
-Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Moordfeest.S01E02.DUTCH.1080p.WEB.h264-KIJKDOOS.mkv<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
-Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
-File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 2.15 GiB<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 6 min<br />
-Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 644 kb/s<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
-Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge 65.0.0 (&#039;Too Much&#039;) 64-bit<br />
-Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.2 + libmatroska v1.6.3<br />
-<br />
-Video<br />
-ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
-Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
-Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4<br />
-Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 3 Ref Frames<br />
-Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
-Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 3 frames<br />
-Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 6 min<br />
-Bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 484 kb/s<br />
-Maximum bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 6 000 kb/s<br />
-Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />
-Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 080 pixels<br />
-Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />
-Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
-Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />
-Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs...</div>]]></description>
-</item>
-<item>
-<title>[未监控] [爱情保卫战 2026年度 正片 婚后婆家变脸？妻子只求一句真爱 *云视听极光*] Ai Qing Bao Wei Zhan S2026E35 2010 1080p WEB-DL H265 DDP2.0-ADWeb[爱情保卫战 2026年度 正片 婚后婆家变脸？妻子只求一句真爱 *云视听极光*][197.61 MB]</title>
-<link>https://audiences.me/details.php?id=642593</link>
-<guid isPermaLink="false">1295ae69374ff8f0b41d8c0cd6c794ca1e801d35</guid>
-<pubDate>Wed, 01 Apr 2026 04:00:26 +0800</pubDate>
-<source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=642593" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 04:00:26 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=642593">https://audiences.me/details.php?id=642593</a></p>]]></description>
-</item>
-<item>
-<title>[已拥有] [大世界之旅 第 4 季] The Grand Tour S04 2019 Complete 1080p Amazon WEB-DL AVC DDP 5.1-DBTV[大世界之旅 第 4 季 / The Grand Tour 全 4 集 (2019)][21.74 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=285986</link>
-<guid isPermaLink="false">1e4f064b0d1b2daa2adc6eb2c273fbad2ca636df</guid>
-<pubDate>Wed, 01 Apr 2026 04:03:16 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=285986" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 04:03:16 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=285986">https://hdhome.org/details.php?id=285986</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">HDDolby官组作品，源站种子ID：233250，感谢原制作者发布。</span></b></fieldset><br />
-<br />
-<img alt="image" src="https://image.tmdb.org/t/p/w500/lO26aL6xNQFhObq3fakdy1YZgiK.jpg" /><br />
-<br />
-◎译　　名　大世界之旅 第 4 季 / The Grand Tour<br />
-◎首播日期　2019-12-13<br />
-◎产　　地　未知<br />
-◎类　　别　真人秀 / 喜剧 / 脱口秀<br />
-◎语　　言　English<br />
-◎季　　数　5<br />
-◎集　　数　45<br />
-◎当季集数　4<br />
-◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt5712554/" target="_blank">https://www.imdb.com/title/tt5712554/</a><br />
-◎豆瓣链接 &nbsp;<a class="faqlink" href="https://movie.douban.com/subject/26791670/" target="_blank">https://movie.douban.com/subject/26791670/</a><br />
-◎TMDb链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/tv/67557" target="_blank">https://www.themoviedb.org/tv/67557</a><br />
-◎TMDb评分 &nbsp;8/10 from 827 users<br />
-◎导　　演　未知<br />
-◎主　　演　杰里米·克拉克森<br />
-　　　　 &nbsp;　理查德·哈蒙德<br />
-　　　　 &nbsp;　詹姆斯·梅<br />
-<br />
-◎整剧简介<br />
-<br />
-　　《大世界之旅》是“大猩猩”杰瑞米·克拉克森与BBC“不欢而散”后，与“三贱客”中的另两位：“船长”詹姆斯·梅，以及“鼹鼠”理查德·哈蒙德再度聚首，联袂献上的汽车文化主题类节目，由亚马逊投资制作。大世界之旅延续了播出十几年经久不衰享誉全球的“最高档”（Top Gear）的基本风格和框架，但同时针对互联网时代的电视节目做出创新和改革。节目中，三贱客将游历世界各地，试驾各种炫目的汽车，进行各种比赛、测试，同时试图应对节目组提出的各种挑战。<br />
-<br />
-◎当季简介（第 4 季）<br />
-<br />
-　　在封城特别节目的第二集中，三人组杰里米、理查德和詹姆斯深入探索了法国汽车文化离奇精怪的世界。在威尔士令人叹为观止的自然景色中开始的史诗般的公路旅行中，三人历经了令人寒毛耸立的登山、拆弹、螺旋桨动力汽车、直升机特技和他们人生中最激动人心的比赛，而后来到英吉利海峡迎来了令人瞠目结舌的中世纪风格高潮。此外还可以欣赏一点点法式文艺电影呢。<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<fieldset><legend> 引用 </legend>General<br />
- Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 174110026148640332475384088597440510688<br />
- Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: The.Grand.Tour.S04E01.2019.1080p.Amazon.WEB-DL.AVC.DDP.5.1-DBTV.mkv<br />
- Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
- Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
- File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 6.28 GiB<br />
- Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 32 min<br />
- Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9 736 kb/s<br />
- Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
- Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 《歌朗途》精彩呈现…海员<br />
- Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2026-01-26 04:06:16 UTC<br />
- Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v93.0 (&#039;Goblu&#039;) 64-bit<br />
- Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1 / Lavf61.7.100<br />
- Cover &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br />
- Attachments &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: cover.png<br />
-<br />
-Video<br />
- Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
- Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
- Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4<br />
- Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br />
- Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
- Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 4 frames<br />
- Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
- Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 32 min<br />
- Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9 084 kb/s<br />
- Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1920 pixels<br />
- Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp...</div>]]></description>
-</item>
-<item>
-<title>[已拥有] [逐玉 全40集【杜比全景声】【导演：曾庆杰] Pursuit of Jade 2026 S01 Complete 2160p WEB-DL HEVC DDP5.1 Atmos 2Audios-QHstudIo[逐玉 全40集【杜比全景声】【导演：曾庆杰 | 主演：田曦薇 | 张凌赫 | 任豪 | 孔雪儿】QHstudIo小组作品][56.95 GB]</title>
-<link>https://ptchdbits.co/details.php?id=536915</link>
-<guid isPermaLink="false">3a26fd01f7457bbeff36f2db9d3a2737728b802f</guid>
-<pubDate>Wed, 01 Apr 2026 03:08:51 +0800</pubDate>
+<title>[已拥有] [猎杀] The Hunt AKA Traqués S01 2026 2160p ATVP WEB-DL DDP 5.1 Atmos DV HDR10+ H.265-RAWR[猎杀 / 森林阴影下 / A l'Ombre des Forêts‎ / The Hunt / 狩猎 *全6集* | 类型: 剧情 / 惊悚][53.91 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536983</link>
+<guid isPermaLink="false">04cfe634e6a6919ed20470ce2d9c0d143c8b369d</guid>
+<pubDate>Wed, 01 Apr 2026 10:45:00 +0800</pubDate>
 <source>ptchdbits</source>
-<enclosure url="https://ptchdbits.co/download.php?id=536915" type="application/x-bittorrent" />
+<enclosure url="https://ptchdbits.co/download.php?id=536983" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
-<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 03:08:51 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536915">https://ptchdbits.co/details.php?id=536915</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">HDDolby官组作品，源站种子ID：233333，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: Black;"><font size="5">高清杜比 <b><span style="color: DarkOrange;">QHstudIo小组<b><span style="color: Black;">出品！</span></b></span></b></font></span></b><br /><b><font size="4">禁止以非PT方式转载分享，非必要禁止删改本页信息，包括但不限于本说明、下示截图及mediainfo</font></b></fieldset><br /><br /><img alt="image" src="https://img.ptdream.net/o/ptdream-img/2026/03/06/69aae41cbae61.jpg" /><br /><br />◎译　　名　Pursuit of Jade<br />◎片　　名　逐玉<br />◎年　　代　2026<br />◎产　　地　中国大陆<br />◎类　　别　剧情 / 爱情 / 古装<br />◎语　　言　汉语普通话<br />◎上映日期　2026-03-06(中国大陆)<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt35316225/">https://www.imdb.com/title/tt35316225/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36554061/">https://movie.douban.com/subject/36554061/</a><br />◎单集片长　45分钟<br />◎集　　数　40<br />◎导　　演　曾庆杰 / Qingjie Zeng<br />◎主　　演　田曦薇 / Xiwei Tian (饰 樊长玉)<br />　　　　　　张凌赫 / Linghe Zhang (饰 谢征)<br />　　　　　　任豪 / Hao Ren (饰 李怀安)<br />　　　　　　孔雪儿 / Sherry Kong (饰 俞浅浅)<br />　　　　　　邓凯 / Kai Deng (饰 齐旻)<br />　　　　　　李卿 / Qing Li (饰 公孙鄞)<br />　　　　　　喻钟黎 / Zhongli Yu (饰 齐姝)<br />　　　　　　刘琳 / Lin Liu (饰 赵大娘)<br />　　　　　　严屹宽 / Yikuan Yan (饰 魏严)<br />　　　　　　岳旸 / Yang Yue (饰 赵大叔)<br />　　　　　　杜淳 / Chun Du (饰 王捕头)<br />　　　　　　谭凯 / Kai Tan<br />　　　　　　毛林林 / Linlin Mao (饰 魏绾)<br />　　　　　　叶祖新 / Zuxin Ye<br />　　　　　　于洋 / Yang Yu<br />　　　　　　李建义 / Jianyi Li<br />　　　　　　田丽 / Lily Tien<br />　　　　　　寇占文 / Zhanwen Kou<br />　　　　　　付淼 / Miao Fu<br />　　　　　　卢勇 / Yong Lu (饰 贺敬元)<br />　　　　　　苑冉 / Ran Yuan<br />　　　　　　王九胜 / Jiusheng Wang<br />　　　　　　高卿尘 / Nine Konchit Boonsatheepakdee (饰 满地)<br />　　　　　　贾妮 / Ni Jia<br />　　　　　　金珈 / Jia Jin<br />　　　　　　林沐然 / Muran Lin (饰 随元青)<br />　　　　　　林思意 / Sissy Lin (饰 十三娘)<br />　　　　　　何昶希 / Changxi He<br />　　　　　　高上淇 / Shanqi Gao (饰 崔千金)<br />　　　　　　李殿尊 / Dianzun Li (饰 金爷)<br />　　　　　　管云鹏 / Yunpeng Guan (饰 齐昇)<br />　　　　　　管梓净 / Zijing Guan<br />　　　　　　张舒沦 / Shawn Zhang (饰 谢五)<br />　　　　　　李昱唯 / Yuwei Li (饰 谢七)<br />　　　　　　向夏 / Xia Xiang (饰 崔县令)<br />　　　　　　韩浩天 / Haotian Han (饰 卓然)<br />　　　　　　王亭文 / Tingwen Wang (饰 蒹葭)<br />　　　　　　杨贺文 / Hewen Yang<br />　　　　　　马跃 / Yue Ma<br />　　　　　　庞竞 / Jing Pang (饰 罗掌柜)<br />　　　　　　张艺心 / Yixin Zhang<br />　　　　　　贾舒夷 / Shuyi Jia<br />　　　　　　宁小花 / Xiaohua Ning (饰 郭大力)<br />　　　　　　詹小楠 / Xiaonan Zhan (饰 魏夫人)<br />　　　　　　钟泠儿 (饰 戚容音)<br />◎编　　剧　邹越 / Yue Zou<br />　　　　　　曾珍 / Zhen Zeng<br />　　　　　　团子来袭<br /><br />◎简　　介　<br /><br />　　该剧改编自晋江文学城团子来袭的小说《逐玉》。讲述了屠户女樊长玉（田曦薇 饰）与落难侯爷谢征（张凌赫 饰）于困境中相遇，一个父母双亡为了保住家产，一个死里逃生隐姓埋名，二人一拍即合决定成婚。先婚后爱日渐生情，后因战乱被迫分开，樊长玉最终拿着杀猪刀上战场，谢征实是战功赫赫的铁血将军，两人于战场重逢，携手共筑拨云见日求真相。<br /><br /><br /><br /><img alt="image" src="https://img.ptdream.net/o/ptdream-img/2024/01/16/Mediainfo.png" /><br /><fieldset><legend> 引用 </legend><br /><br /> QHstudIo小组作品NFO信息:<br /><br />【文件名称】...............: [逐玉].Pursuit.of.Jade.2026.S01E01.2160p.WEB-DL.HEVC.DDP5.1.Atmos.2Audios-QHstudIo<br />【文件体积】...............: 1.68 GiB<br />【视频时长】...............: 00:47:48:03<br />【视频码率】...............: 5 046 kb/s<br />【视频像素】...............: 3840x1606 (2.391) <br />【视频帧率】...............: 25.000 fps<br />【视频编码】...............: HEVC at 4 461 kb/s Main@L5@Main , BT.709<br />【视频比特】...............: 8 Bit<br />【音频编码】...............: E-AC-3 JOC 448 kb/s 6 channel(s) Dolby Digital Plus with Dolby Atmos, 48.0 kHz, DDP5.1 Atmos,普通话,普通话,zh<br />【音频编码】...............: AAC LC 125 kb/s 2 channel(s) , 48.0 kHz, AAC2.0,普通话,zh<br />【视频来源】...............: WEB-DL<br />【视频格式】...............: mp4<br />【作品发布】...............: J<br />【出品小组】...............: QHstudIo<br />【特别提醒】...............: 转载请注明出处<br /></fieldset><br /><br /><br /><fieldset><legend> 引用 </legend><br />General<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: [逐玉].Pursuit.of.Jade.2026.S01E01.2160p.WEB-DL.HEVC.DDP5.1.Atmos.2Audios-QHstudIo.mp4<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : MPEG-4<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Base Media<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : isom (isom/dby1/iso2/mp41)<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.68 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 47 min 48 s<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 046 kb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs...</div>]]></description>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:45:00 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536983">https://ptchdbits.co/details.php?id=536983</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.pixhost.to/images/6848/710384790_p2926882769.jpg" /><br /><br />◎译　　名　猎杀 / 森林阴影下 / A l'Ombre des Forêts‎ / The Hunt / 狩猎<br />◎片　　名　Traqués<br />◎年　　代　2026<br />◎产　　地　法国<br />◎类　　别　剧情 / 惊悚<br />◎语　　言　法语<br />◎上映日期　2026-03-04(法国)<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt33086602/">https://www.imdb.com/title/tt33086602/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36783469/">https://movie.douban.com/subject/36783469/</a><br />◎TMDB链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/tv/257992">https://www.themoviedb.org/tv/257992</a><br />◎TMDB评分 &nbsp;7.0/10 from 11 users<br />◎集　　数　6<br /><br />◎简　　介　<br /><br />　　弗兰克（伯努瓦·马吉梅尔饰）和他的老朋友们喜欢一起在周末打猎，但某个星期天，他们遇到另一群猎人，这群人毫无理由地开始攻击他们。<br />　　当他们一行中的一人中枪时，弗兰克的朋友们反击，将一名袭击者击倒。<br />　　他们勉强逃脱后，四人决定将这件事隐瞒下来。<br />　　弗兰克试图回归正常生活，与妻子克里斯特尔（梅拉尼·罗兰饰）一起生活，但接下来的几天，他开始感到自己和朋友们似乎被人监视，甚至更糟——那些猎人似乎正在追踪他们，决心复仇。<br /><br /><fieldset><legend> 引用 </legend><br /><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 285708709352124151996527836667503365356 (0xD6F17EF16CB900B5AA31F068D766CCEC)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: The.Hunt.2026.S01E01.Day.of.Hunting.2160p.ATVP.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-RAWR.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 8.97 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 49 min 8 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 26.1 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />Movie name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : The Hunt S01E01 Day of Hunting<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v94.0 ('Initiate') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@High<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Dolby Vision, Version 1.0, Profile 8.1, dvhe.08.06, BL+RPU, no metadata compression, HDR10 compatible / SMPTE ST 2094 App 4, Version HDR10+ Profile B, HDR10+ Profile B compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 49 min 8 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.6 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 820 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.110<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 (24000/1001) FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0 (Type 2)<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [权欲 第三季] Power Book IV: Force S03 2160p STAN WEB-DL DDP 5.1 Atmos H.265-FLUX[权欲 [第三季] | 类型：剧情 犯罪][47.32 GB]</title>
+<link>https://audiences.me/details.php?id=642767</link>
+<guid isPermaLink="false">5425a385fad6a009fd12b78d68efec371fd2e997</guid>
+<pubDate>Wed, 01 Apr 2026 10:47:52 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=642767" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:47:52 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=642767">https://audiences.me/details.php?id=642767</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [弹珠汽水瓶里的千岁同学] [内封中字] Chitose Is in the Ramune Bottle S01 1080p MyVideo WEB-DL AAC2.0 H.264-CHDWEB[弹珠汽水瓶里的千岁同学 / 千岁同学在波子汽水瓶内 第一季 第11-13集 | 类型:剧情/爱情/动画 | 内封中字][762.44 MB]</title>
+<link>https://ptchdbits.co/details.php?id=536981</link>
+<guid isPermaLink="false">7d2fa506f8e7f17bca8f8bbc88a502d01da60dd2</guid>
+<pubDate>Wed, 01 Apr 2026 10:37:59 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536981" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:37:59 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536981">https://ptchdbits.co/details.php?id=536981</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2923865412.jpg" /><br /><br />◎译　　名　弹珠汽水瓶里的千岁同学 千歳くんはラムネ瓶のなか / 千岁同学在波子汽水瓶内 / Chitose-kun wa Ramune Bin no Naka / Chitose Is in the Ramune Bottle<br />◎年　　代　2025<br />◎产　　地　日本<br />◎类　　别　剧情 / 爱情 / 动画<br />◎语　　言　日语<br />◎上映日期　2025-10-07(日本)<br />◎IMDb链接　<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36406378/">https://movie.douban.com/subject/36406378/</a><br />◎导　　演　德野雄士 Yuuji Tokuno (id:37237734)<br />◎编　　剧　荒川稔久 Naruhisa Arakawa (id:27493564)<br />　　　　　 裕梦 Hiromu (id:37237735)<br />◎演　　员　坂田将吾 Shogo Sakata (id:36052683)<br />　　　　　 石见舞菜香 Iwami Manaka (id:27587309)<br />　　　　　 羊宫妃那 Hina Youmiya (id:35726975)<br />　　　　　 长谷川育美 Ikumi Hasegawa (id:30274880)<br />　　　　　 大久保瑠美 Rumi Okubo (id:27566625)<br />　　　　　 安济知佳 Chika Anzai (id:27550621)<br />　　　　　 阿座上洋平 Azakami Youhei (id:34807611)<br />　　　　　 宫崎雅也 Masaya Miyazaki (id:37526742)<br />　　　　　 土岐隼一 Shunichi Toki (id:30240019)<br />　　　　　 今井文也 Fumiya Imai (id:34782388)<br /><br />◎简　　介<br />　　県内随一の進学校・藤志高校に通う千歳朔。<br />　　勉強、運動、コミュ力すべてがハイレベルで、良くも悪くも注目を集める彼の周りには、<br />　　誰もが羨む華やかな仲間たちが集っていた。<br />　　新たなクラスで迎えた2年生の春。<br />　　朔は、ひとりの引きこもり生徒の更生を頼まれることに——。<br />　　福井を舞台に紡がれる、<br />　　どこまでも青く、どこまでも眩しい、<br />　　エモーショナル青春ストーリー！<br /><br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Chitose.Is.in.the.Ramune.Bottle.S01E03.1080p.MyVideo.WEB-DL.AAC2.0.H.264-CHDWEB.mkv<br />File Size............: 0.25 GiB<br />Duration.............: 0:23:40 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 1,314 kbps<br />Video Codec..........: AVC Main@L4<br />Frame Rate...........: 23.976 fps<br />Resolution...........: 1920 x 1080<br />Audio#01.............: English &nbsp;192 kbps &nbsp;2channels AAC<br />Subtitle#01..........: Chinese (Simplified) Simplified<br />Subtitle#02..........: Chinese (Traditional) Traditional<br />Uploader.............: @CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://shewang.net/images/2025/10/22/Chitose.Is.in.the.Ramune.Bottle.S01E03.1080p.MyVideo.WEB-DL.AAC2.0.H.264-CHDWEB.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] [搜神记] Tales of Divine Quests S01 2026 2160p WEB-DL H265 HDR AAC-CHDWEB[搜神记 | 第4集 | 4K/HDR | 类型:动画 | 简繁中字 | 导演:黄剑/李濛 | 主演:苏尚卿/史泽鲲/张惠霖/张雨濛][1.63 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536979</link>
+<guid isPermaLink="false">520941926345bcd47575bba9e6c24bafde6e0de8</guid>
+<pubDate>Wed, 01 Apr 2026 10:34:59 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536979" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:34:59 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536979">https://ptchdbits.co/details.php?id=536979</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/03/23/1774258058.3704448.jpg" /><br /><br />◎译　　名　搜神记 / 搜神记 动画版<br />◎年　　代　2026<br />◎产　　地　中国大陆<br />◎类　　别　动画<br />◎语　　言　汉语普通话<br />◎上映日期　2026-03-25(中国大陆)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt28591181/">https://www.imdb.com/title/tt28591181/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36403386/">https://movie.douban.com/subject/36403386/</a><br />◎集　　数　18<br />◎导　　演　黄剑 Jian Huang (id:36881408)<br />　　　　　 李濛 &nbsp;(id:37405046)<br />◎编　　剧　王旭阳 &nbsp;(id:36968556)<br />◎演　　员　苏尚卿 Shangqing Su (id:27574915)<br />　　　　　 史泽鲲 Zekun Shi (id:36014918)<br />　　　　　 张惠霖 Huilin Zhang (id:36238029)<br />　　　　　 张雨濛 Yumeng Zhang (id:36015604)<br /><br />◎简　　介<br />　　故事发生在炎帝、黄帝所在的蛮荒时代。正值群雄逐鹿中原之际，天下公认的领袖——神农帝去世，金、木、水、火、土各族群雄皆蠢蠢欲动。波涛暗涌的时代中，少年拓拔野横空出世，在机缘巧合下得到了神农帝临终传承，开始了一段惊心动魄的传奇历程。<br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />General............: Tales.of.Divine.Quests.S01E01.2026.2160p.WEB-DL.H265.HDR.AAC-CHDWEB<br />Duration...........: 00:23:10.991 (HH:MM:SS:FF)<br />RELEASE.SIZE.......: 1.72 GiB<br />VIDEO.CODEC........: HEVC Main 10@L5@Main &nbsp;SMPTE ST 2086, HDR10 compatible<br />FRAMERATE..........: 25.000 fps<br />VIDEO.BITRATE......: 10.4 Mb/s<br />RESOLUTION.........: 3840 x 1608<br />ASPECT.RATIO.......: 2.40:1<br />Audio..............: AAC 2 channels 192 kb/s Chinese Mandarin [AAC.2.0]<br />SUBTITLE...........: Chinese Simplified Chinese<br />SUBTITLE...........: Chinese Traditional Chinese<br />UPLOADER...........: CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://shewang.net/images/2026/03/25/Tales.of.Divine.Quests.S01E01.2026.2160p.WEB-DL.H265.HDR.AAC-CHDWEB.mkv.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] [命中婚劫] Something Very Bad Is Going to Happen S01 2160p NF WEB-DL DDP5.1 Atmos DV HDR H.265-XEBEC[命中婚劫/某些非常糟糕的事情即将发生/非常糟糕的事情将要发生/大祸将至/大难临头/坏事将近 *第一季 全8集*  [第1季][8集全]][50.08 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536974</link>
+<guid isPermaLink="false">c1cd25c389e41841d62ad035bca8555d699b70c5</guid>
+<pubDate>Wed, 01 Apr 2026 10:14:50 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536974" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:14:50 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536974">https://ptchdbits.co/details.php?id=536974</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2930646348.jpg" /><br />◎译　　名　命中婚劫 / 某些非常糟糕的事情即将发生 / 非常糟糕的事情将要发生 / 大祸将至 / 大难临头 / 坏事将近<br />◎片　　名　Something Very Bad Is Going to Happen<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　剧情 / 恐怖<br />◎语　　言　英语<br />◎上映日期　2026-03-26(美国)<br />◎IMDb评分  6.8/10 from 5,362 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt32937780/">https://www.imdb.com/title/tt32937780/</a><br />◎豆瓣评分　6.5/10 from 402 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36967745/">https://movie.douban.com/subject/36967745/</a><br />◎集　　数　8<br />◎导　　演　维罗妮卡·托菲尔斯卡 / Weronika Tofilska<br />　　　　　　阿克塞尔·卡罗琳 / Axelle Carolyn<br />　　　　　　丽莎·布吕尔曼 / Lisa Brühlmann<br />◎演　　员　卡米拉·莫罗 / Camila Morrone (饰 Rachel)<br />　　　　　　亚当·迪马科 / Adam DiMarco (饰 Nicky)<br />　　　　　　耶夫·威尔布什 / Jeff Wilbusch (饰 Jules)<br />　　　　　　卡拉·克罗姆 / Karla Crome (饰 Nell)<br />　　　　　　格斯·伯尼 / Gus Birney (饰 Portia)<br />　　　　　　詹妮弗·杰森·李 / Jennifer Jason Leigh (饰 Victoria)<br />　　　　　　泰德·拉文 / Ted Levine (饰 Boris)<br />　　　　　　索耶·弗雷泽 / Sawyer Fraser (饰 Jude)<br />　　　　　　兹拉特科·布里奇 / Zlatko Buric<br />　　　　　　迈克·达拉 / Mike Dara (饰 That Arch Man)<br />　　　　　　沙恩·希门尼斯 / Shaeane Jimenez (饰 Wedding Guest)<br />　　　　　　米卡拉·里德-贝凯特 / Mikalah Reid-Beckette (饰 &nbsp;Laura)<br />　　　　　　罗伯特·富尔顿 / Robert Fulton (饰 &nbsp;Cashier)<br />　　　　　　梅森·麦克唐纳 / Mason McDonald (饰 &nbsp;Casey)<br />　　　　　　布莱尔·麦克米伦 / Blair MacMillan (饰 &nbsp;Wedding Guest)<br />　　　　　　肯特·谢里丹 / Kent Sheridan (饰 Wedding Guest)<br />　　　　　　艾米·基廷 / Amy Keating (饰 &nbsp;Bartender)<br />◎编　　剧　海莉·Z·波士顿 / Haley Z. Boston <br />　　　　　　亚历克斯·德莱尔 / Alex Delyle<br />　　　　　　凯特·特雷弗里 / Kate Trefry<br />◎制  片  人　马特·达菲 / Matt Duffer<br />　　　　　　罗斯·达菲 / Ross Duffer<br />　　　　　　维罗妮卡·托菲尔斯卡 / Weronika Tofilska<br />　　　　　　安德蕾雅·史珀林 / Andrea Sperling<br />　　　　　　Hilary Leavitt Hilary Leavitt<br /><br />◎简　　介　<br /><br />　　如果说《魔女嘉莉》是关于少女蜕变为女人的恐怖寓言、《罗丝玛丽的婴儿》是关于女人蜕变为母亲的惊悚版本，那么《命中婚劫》则以恐怖题材的方式，讲述一个女人走向婚姻的故事。瑞秋将在五天后步入婚姻殿堂。她与未婚夫尼基踏上一段公路之旅，前往他家位于雪林深处的度假屋，准备举行一场只属于两人的私密婚礼，那本该是他们梦寐以求的浪漫仪式。一切原本应该很美好，然而，天性迷信又多疑的瑞秋始终无法摆脱一种强烈的不祥预感：某件可怕的事情即将发生。她的惶惶不安，加上一连串诡异的巧合与令人战栗的突发状况，迫使她不断追问：究竟是什么让两个人成为灵魂伴侣？更可怕的是，还有什么比与错误的人相伴一生更加令人恐惧？<br /><br /><fieldset><legend> 引用 </legend><br /><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 165046853640752118808985247459601768301 (0x7C2ADE25DEEB3E5564B63E854ECB5F6D)<br />Complete name : Something.Very.Bad.Is.Going.to.Happen.S01E01.Never.Get.On.One.Knee.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-XEBEC.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 7.11 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 51 min 1 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 20.0 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.000 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v96.0 ('It's My Life') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@Main<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Dolby Vision, Version 1.0, dvhe.08.06, BL+RPU, HDR10 compatible / SMPTE ST 2086, HDR10 compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 51 min 1 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 19.2 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [玄界之门] The Gate of Mystical Realm S01 2025 2160p WEB-DL H264 AAC-CHDWEB[玄界之门 | 第21集 | 4K | 国语/中字 | 类型:动作/动画/奇幻 | 主演:姜秋再/李诗萌/赵爽][1.82 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536972</link>
+<guid isPermaLink="false">9a6467ac602e531fb9c9a78fac0b4da6fa45d777</guid>
+<pubDate>Wed, 01 Apr 2026 10:01:02 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536972" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:01:02 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536972">https://ptchdbits.co/details.php?id=536972</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2025/11/26/1764149268.8432684.jpg" /><br /><br />◎译　　名　玄界之门 / 玄界之门 3D动画版 / 玄界之门之初阶武徒篇 / 玄界之门之四馆较技篇 / 玄界之门之黑魔门人篇 / The Gate of Mystical Realm<br />◎年　　代　2025<br />◎产　　地　中国大陆<br />◎类　　别　动作 / 动画 / 奇幻<br />◎语　　言　汉语普通话<br />◎上映日期　2025-11-26(中国大陆)<br />◎IMDb链接　<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/37167543/">https://movie.douban.com/subject/37167543/</a><br />◎集　　数　26<br />◎片　　长　20分钟<br />◎导　　演　黄晓洪 Huang Xiaohong (id:37567312)<br />◎编　　剧　李杨 Li Yang (id:37567309)<br />◎演　　员　姜秋再 Qiuzai Jiang (id:36245393)<br />　　　　　 李诗萌 Shimeng Li (id:30481908)<br />　　　　　 赵爽 Shuang Zhao (id:30222290)<br />　　　　　 魏一凡 Yifan Wei (id:36058307)<br />　　　　　 聂曦映 Xiying Nie (id:35413176)<br />　　　　　 赵熠彤 Yitong Zhao (id:35473413)<br />　　　　　 刘琮 Cong Liu (id:27554562)<br />　　　　　 姜贺 He Jiang (id:36657706)<br />　　　　　 杨潇然 Xiaoran Yang (id:36864308)<br />　　　　　 星潮 Xing Chao (id:30343336)<br />　　　　　 黄伟忠 &nbsp;(id:37423335)<br />　　　　　 张加麒 Jiaqi Zhang (id:36720854)<br />　　　　　 胡亚捷 Yajie Hu (id:34966965)<br />　　　　　 尹博一 &nbsp;(id:37174886)<br />　　　　　 傅婷云 &nbsp;(id:37359542)<br />　　　　　 汤水雨 Shuiyu Tang (id:27576511)<br />　　　　　 郭浩然 Haoran Guo (id:27576542)<br />　　　　　 关帅 Shuai Guan (id:36265147)<br />　　　　　 兰陶倚 Taoyi Lan (id:35093150)<br />　　　　　 吕思衡 Siheng Lv (id:36245583)<br />　　　　　 李逸 Yi Li (id:36731442)<br /><br />◎简　　介<br />　　在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚定。最终，石牧领悟了自己的血脉力量，不仅改变了自己的命运，也影响了许多人的未来。<br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />General............: The.Gate.of.Mystical.Realm.S01E01.2025.2160p.WEB-DL.H264.AAC-CHDWEB<br />Duration...........: 00:21:04.470 (HH:MM:SS:FF)<br />RELEASE.SIZE.......: 1.57 GiB<br />VIDEO.CODEC........: AVC High@L5.1 &nbsp;<br />FRAMERATE..........: 24.000 fps<br />VIDEO.BITRATE......: 10.5 Mb/s<br />RESOLUTION.........: 3840 x 2160<br />ASPECT.RATIO.......: 16:9<br />Audio..............: AAC 2 channels 186 kb/s<br />UPLOADER...........: CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://shewang.net/images/2025/11/26/The.Gate.of.Mystical.Realm.S01E01.2025.2160p.WEB-DL.H264.AAC-CHDWEB.mp4.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] [锻刀大赛 第二季] Forged in Fire S02 2016 1080p DSNP WEB-DL AVC AAC 2.0-LongWeb[锻刀大赛 第二季 /  | 类型：真人秀 | 演员：][20.29 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286031</link>
+<guid isPermaLink="false">29b324b30d039347b75d89708ef628ac519f7b03</guid>
+<pubDate>Wed, 01 Apr 2026 10:54:32 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286031" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:54:32 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286031">https://hdhome.org/details.php?id=286031</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br />
+<span style="color: indigo;"><b><font size="5">LongPT官组出品</font></b></span></fieldset><br />
+<img alt="image" src="https://imgs.longpt.org/file/AgACAgUAAyEGAASjAAEHRQACIUdpy-AQdbi_9Tems-XOyVRiok-fhQACYxBrGz5TYVbVfg40fkIqpwEAAwIAA3gAAzoE.jpg" /><br />
+◎译　　名　锻刀大赛 第二季<br />
+◎别　　名　锻刀大赛 第二季<br />
+◎片　　名　Forged in Fire Season 2<br />
+◎年　　代　2016<br />
+◎产　　地　美国<br />
+◎类　　别　真人秀<br />
+◎语　　言　英语<br />
+◎上映日期　2016-02-16<br />
+◎IMDb评分 &nbsp;7.6/10 from 52 users<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt5352594/">https://www.imdb.com/title/tt5352594/</a><br />
+◎豆瓣评分　9.2/10 from 486 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/26765023/">https://movie.douban.com/subject/26765023/</a><br />
+◎集　　数　10<br />
+◎片　　长　40分钟<br />
+◎主　　演　J. David Baker J. David Baker<br />
+<br />
+◎简　　介<br />
+<br />
+　　Forged in Fire is an American reality television competition series that airs on the History channel, and is produced by Outpost Entertainment, a Leftfield Entertainment company. In each episode, four bladesmiths compete in a three-round elimination contest to forge bladed weapons, with the overall winner receiving $10000 and the day&#039;s championship title. The series is hosted by Wil Willis, with a three-judge panel consisting of J. Neilson, David Baker, and Doug Marcaida, experts in weapon history and use.<br />
+<br />
+ &nbsp;<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 159464322935023010844714240945070836234 (0x77F7B62241722771F03D75E2D5EC8A0A)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 锻刀大赛.第二季.Forged.in.Fire.S02E01.2016.1080p.DSNP.WEB-DL.AVC.AAC.2.0-LongWeb.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.07 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 42 min 48 s<br />
+Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Variable<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 6 920 kb/s<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 23.976 FPS<br />
+Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 2026-03-28 15:46:45 UTC<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : mkvmerge v97.0 (&#039;You Don&#039;t Have A Clue&#039;) 64-bit<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : libebml v1.4.5 + libmatroska v1.7.1<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: AVC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Advanced Video Codec<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High@L4<br />
+Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : CABAC / 4 Ref Frames<br />
+Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br />
+Format settings, Reference frames &nbsp; : 4 frames<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: V_MPEG4/ISO/AVC<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 42 min 48 s<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 6 792 kb/s<br />
+Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 920 pixels<br />
+Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 080 pixels<br />
+Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 16:9<br />
+Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Constant<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 23.976 (24000/1001) FPS<br />
+Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : YUV<br />
+Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [我深深地爱着你 全40集] Wo Shen Shen De Ai Zhe Ni 2026 S01 Complete 2160p WEB-DL H.265 HDR DDP2.0-PTerWEB[我深深地爱着你 全40集 | 导演: 曲有为 主演: 傅晶 程枫 李超  [国语//中字]][123.12 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286029</link>
+<guid isPermaLink="false">5a0ea86c98cba54e2342e16161b7024477c27279</guid>
+<pubDate>Wed, 01 Apr 2026 10:31:58 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286029" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:31:58 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286029">https://hdhome.org/details.php?id=286029</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">PTer官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<img alt="image" src="https://img2.pixhost.to/images/6812/709830101_ptgen_poster_1pdhnm.jpg" /><br />
+<img alt="image" src="https://pterclub.net/pic/PTerWEB.png" /><br />
+◎译　　名　我深深地爱着你<br />
+◎片　　名　我深深地爱着你<br />
+◎年　　代　2026<br />
+◎产　　地　中国大陆<br />
+◎类　　别　剧情 / 爱情<br />
+◎语　　言　汉语普通话<br />
+◎上映日期　2026-03-08(中国大陆)<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36514987/">https://movie.douban.com/subject/36514987/</a><br />
+◎集　　数　40<br />
+◎片　　长　45分钟<br />
+◎导　　演　曲有为<br />
+◎编　　剧　蒋雪蓝<br />
+◎主　　演　傅晶<br />
+　　　　　　程枫<br />
+　　　　　　李超<br />
+　　　　　　孙爽<br />
+　　　　　　史光辉<br />
+<br />
+◎简　　介<br />
+<br />
+　　　　知青方新颜和江海洋是一对情投意合的恋人，两人拥有共同的理想，双双被推荐去上大学。他们因一场误会分手，多年后重聚时，方新颜已经和善良忠厚的周新民结婚，两人放下往事的羁绊，在工作中精诚合作。周新民因病去世，江海洋这才得知当年令人唏嘘的往事。江海洋陪伴方新颜渡过难关，并担负起照顾周家人的责任。许林波是方新颜的同事也是追求者，因为私心走入歧途，不仅给工厂带来困扰，也把自己逼到困境。方新颜和江海洋力挽狂澜，帮助工厂和许林波摆脱困境。许林波幡然悔悟，也重拾对事业的初心。<br />
+<br />
+<img alt="image" src="https://pterclub.net/pic/CS.png" /><br />
+<fieldset><legend> 引用 </legend><font size="4"><span style="color: royalblue;"><b>★★★★★ General Information ★★★★★</b></span></font><br />
+<font face="Lucida Console">RELEASE.NAME........: Wo.Shen.Shen.De.Ai.Zhe.Ni.2026.S01E01.2160p.WEB-DL.H265.HDR.DDP2.0-PTerWEB.mp4<br />
+RELEASE.DATE........: UTC 2026-03-31 04:43:52<br />
+RELEASE.SIZE........: 2.45 GiB<br />
+RELEASE.FORMAT......: MPEG-4<br />
+DURATION............: 45 min 12 s<br />
+OVERALL.BITRATE.....: 7 744 kb/s<br />
+RESOLUTION..........: 3840 x 2160<br />
+VIDEO.CODEC.........: HEVC Main 10@L5@Main<br />
+FRAME.RATE..........: 25.000 FPS<br />
+Aspect.Ratio........: 1.778<br />
+Audio #0............: Chinese 2 channels AAC 192 kb/s AAC 普通话<br />
+Audio #1............: Chinese 2 channels E-AC-3 96.3 kb/s Dolby Digital Plus 杜比音效,普通话<br />
+UPLOADER............: PTerWEB</font></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Complete name: Wo.Shen.Shen.De.Ai.Zhe.Ni.2026.S01E01.2160p.WEB-DL.H265.HDR.DDP2.0-PTerWEB.mp4<br />
+Format: MPEG-4<br />
+File Size: 2.45 GiB<br />
+Duration: 45 min 12 s<br />
+Overall bit rate: 7 744 kb/s<br />
+Writing application: Lavf60.21.101<br />
+<br />
+Video<br />
+ID: 1<br />
+Format: HEVC<br />
+Format/Info: High Efficiency Video Coding<br />
+Format profile: Main 10@L5@Main<br />
+HDR format: SMPTE ST 2086, HDR10 compatible<br />
+Codec ID: hev1<br />
+Duration: 45 min 12 s<br />
+Bit rate: 7 449 kb/s<br />
+Width: 3 840 pixels<br />
+Height: 2 160 pixels<br />
+Display aspect ratio: 16:9<br />
+Frame rate mode: Constant<br />
+Frame rate: 25.000 FPS<br />
+Color space: YUV<br />
+Chroma subsampling: 4:2:0<br />
+Bit depth: 10 bits<br />
+Bits/(Pixel*Frame): 0.036<br />
+Stream size: 2.35 GiB (96%)<br />
+Color range: Limited<br />
+Color primaries: BT.2020<br />
+Transfer characteristics: PQ<br />
+Matrix coefficients: BT.2020 non-constant<br />
+Mastering display color primaries: R: x=0.708000 y=0.292000, G: x=0.170000 y=0.797000, B: x=0.130000 y=0.046000, White point: x=0.312700 y=0.329000<br />
+Mastering display luminance: min: 0.0001 cd/m2, max: 1000 cd/m2<br />
+Maximum Content Light Level: 534 cd/m2<br />
+<br />
+Audio #1<br />
+ID: 2<br />
+Format: AAC LC<br />
+Format/Info: Advanced Audio Codec Low Complexity<br />
+Commercial name: AAC<br />
+Codec ID: mp4a-40-2<br />
+Duration: 45 min 12 s<br />
+Bit rate mode: Constant<br />
+Bit rate: 192 kb/s<br />
+Channel(s): 2<br />
+Channel layout: L R<br />
+Sampling rate: 44.1 kHz<br />
+Frame rate: 43.066 FPS (1024 SPF)<br />
+Compression mode: Lossy<br />
+Stream size: 61.4 MiB (2%)<br />
+Title: 普通话<br />
+Language: Chinese<br />
+Default: Yes<br />
+<br />
+Audio #2<br />
+ID: 3<br />
+Format: E-AC-3<br />
+Format/Info: Enhanced AC-3<br />
+Commercial name: Dolby Digital Plus<br />
+Codec ID: ec-3<br />
+Duration: 45 min 12 s<br />
+Bit rate mode: Constant<br />
+Bit rate: 96.3 kb/s<br />
+Channel(s): 2<br />
+Channel layout: L R<br />
+Sampling rate: 48.0 kHz<br />
+Frame rate: 31.250 FPS (1536 SPF)<br />
+Compression mode: Lossy<br />
+Stream size: 31.1 MiB (1%)<br />
+Title: 杜比音效,普通话<br />
+Language: Chinese<br />
+Service kind: Complete Main<br />
+Default: No<br />
+</fieldset><br />
+<br />
+<img alt="image" src="https://pterclub.net/pic/GDJT.png" /><br />
+<img alt="image" src="https://img.pterclub.net/images/2026/03/28/Wo.Shen.Shen.De.Ai.Zhe.Ni.2026.S01E36.2160p.WEB-DL.H265.HDR.DDP2.0-PTerWEB.thumb.png" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] [大卫王朝 全8集] House of David 2025 S01 Complete 2160p AMZN WEB-DL H.265 DDP5.1-PTerWEB[大卫王朝 全8集 | 导演: 乔恩·欧文 主演: 迈克尔·伊斯坎德 史蒂芬·朗 奥德·菲尔  [英语中字]][46.94 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286023</link>
+<guid isPermaLink="false">35de8fa3210ae5b51d9c5f4d651568d03159d840</guid>
+<pubDate>Wed, 01 Apr 2026 10:13:46 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286023" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:13:46 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286023">https://hdhome.org/details.php?id=286023</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">PTer官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<img alt="image" src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2918291448.jpg" /><br />
+<img alt="image" src="https://pterclub.net/pic/PTerWEB.png" /><br />
+◎译　　名　大卫王朝<br />
+◎片　　名　House of David<br />
+◎年　　代　2025<br />
+◎产　　地　美国<br />
+◎类　　别　历史<br />
+◎语　　言　英语<br />
+◎上映日期　2025-02-27(美国)<br />
+◎IMDb评分 &nbsp;7.2/10 from 6397 users<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt30955673/">https://www.imdb.com/title/tt30955673/</a><br />
+◎豆瓣评分　6.9/10 from 168 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36747789/">https://movie.douban.com/subject/36747789/</a><br />
+◎集　　数　8<br />
+◎片　　长　56分钟<br />
+◎导　　演　乔恩·欧文 Jon Erwin / 乔·戈恩 Jon Gunn<br />
+◎编　　剧　乔恩·欧文 Jon Erwin / 乔·戈恩 Jon Gunn<br />
+◎主　　演　迈克尔·伊斯坎德 Michael Iskander<br />
+　　　　　　史蒂芬·朗 Stephen Lang<br />
+　　　　　　奥德·菲尔 Oded Fehr<br />
+　　　　　　阿耶莱特·祖里尔 Ayelet Zurer<br />
+　　　　　　路易斯·费雷拉 Louis Ferreira<br />
+　　　　　　马丁·福特 Martyn Ford<br />
+　　　　　　阿里·苏莱曼 Ali Suliman<br />
+　　　　　　雅莉·托珀尔·玛格丽斯 Yali Topol Margalith<br />
+　　　　　　阿什拉夫·巴姆 Ashraf Barhom<br />
+　　　　　　伊桑·卡伊 Ethan Kai<br />
+　　　　　　Davood Ghadami Davood Ghadami<br />
+　　　　　　Nimo Hochenberg Nimo Hochenberg<br />
+　　　　　　Aury Alby Aury Alby<br />
+　　　　　　英迪·刘易斯 Indy Lewis<br />
+　　　　　　Bernardo Tuccillo Bernardo Tuccillo<br />
+　　　　　　Darien Martin Darien Martin<br />
+<br />
+◎简　　介<br />
+<br />
+　　讲述了圣经人物大卫的崛起故事，他最终成为以色列最著名的国王。该剧聚焦于昔日强大的扫罗王，他因自身的傲慢而走向衰落。在神的指引下，先知撒母耳膏立了一位出身卑微、备受冷落的少年作为新王。随着扫罗逐渐失去对王国的掌控，大卫踏上了一段探索并实现自己命运的旅程，在那个他注定要取而代之的君王的宫廷中，他经历了爱情、失落与暴力的考验。一个领袖的崛起，意味着另一个领袖的陨落。<br />
+<br />
+<img alt="image" src="https://pterclub.net/pic/CS.png" /><br />
+<fieldset><legend> 引用 </legend><font size="4"><span style="color: royalblue;"><b>★★★★★ General Information ★★★★★</b></span></font><br />
+<font face="Lucida Console">RELEASE.NAME........: House.of.David.2025.S01E01.2160p.AMZN.WEB-DL.H265.DDP5.1-PTerWEB.mkv<br />
+RELEASE.DATE........: UTC 2025-04-06 00:40:30<br />
+RELEASE.SIZE........: 5.97 GiB<br />
+RELEASE.FORMAT......: Matroska<br />
+DURATION............: 57 min 32 s<br />
+OVERALL.BITRATE.....: 14.9 Mb/s<br />
+RESOLUTION..........: 3840 x 1920<br />
+VIDEO.CODEC.........: HEVC Main@L5@Main<br />
+FRAME.RATE..........: 23.976 (24000/1001) FPS<br />
+Aspect.Ratio........: 2.000<br />
+Audio #0............: English 6 channels E-AC-3 640 kb/s Dolby Digital Plus en<br />
+SUBTiTLE #0.........: Chinese Simplified<br />
+SUBTiTLE #1.........: Chinese Traditional<br />
+SUBTiTLE #2.........: English SDH<br />
+UPLOADER............: PTerWEB</font></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID: 58935364771344738172980695672138906061 (0x2C5689D33FB5117E366B419CE30A39CD)<br />
+Complete name: House.of.David.2025.S01E01.2160p.AMZN.WEB-DL.H265.DDP5.1-PTerWEB.mkv<br />
+Format: Matroska<br />
+Format version: Version 4<br />
+File Size: 5.97 GiB<br />
+Duration: 57 min 32 s<br />
+Overall bit rate: 14.9 Mb/s<br />
+Encoded date: UTC 2025-04-05 13:10:55<br />
+Writing application: mkvmerge v88.0 (&#039;All I Know&#039;) 64-bit<br />
+Writing library: libebml v1.4.5 + libmatroska v1.7.1<br />
+<br />
+Video<br />
+ID: 1<br />
+Format: HEVC<br />
+Format/Info: High Efficiency Video Coding<br />
+Format profile: Main@L5@Main<br />
+Codec ID: V_MPEGH/ISO/HEVC<br />
+Duration: 57 min 32 s<br />
+Bit rate: 14.2 Mb/s<br />
+Width: 3 840 pixels<br />
+Height: 1 920 pixels<br />
+Display aspect ratio: 2.000<br />
+Frame rate mode: Constant<br />
+Frame rate: 23.976 (24000/1001) FPS<br />
+Color space: YUV<br />
+Chroma subsampling: 4:2:0<br />
+Bit depth: 8 bits<br />
+Bits/(Pixel*Frame): 0.080<br />
+Stream size: 5.71 GiB (96%)<br />
+Default: Yes<br />
+Forced: No<br />
+Color range: Limited<br />
+Color primaries: BT.709<br />
+Transfer characteristics: BT.709<br />
+Matrix coefficients: BT.709<br />
+<br />
+Audio<br />
+ID: 2<br />
+Format: E-AC-3<br />
+Format/Info: Enhanced AC-3<br />
+Commercial name: Dolby Digital Plus<br />
+Codec ID: A_EAC3<br />
+Duration: 57 min 32 s<br />
+Bit rate mode: Constant<br />
+Bit rate: 640 kb/s<br />
+Channel(s): 6<br />
+Channel layout: L R C LFE Ls Rs<br />
+Sampling rate: 48.0 kHz<br />
+Frame rate: 31.250 FPS (1536 SPF)<br />
+Compression mode: Lossy<br />
+Stream size: 263 MiB (4%)<br />
+Language: English<br />
+Service kind: Complete Main<br />
+Default: Yes<br />
+Forced: No<br />
+<br />
+Text #1<br />
+ID: 3<br />
+Format: UTF-8<br />
+Codec ID: S_TEXT/UTF8<br />
+Codec ID/Info: UTF-8 Plain Text<br />
+Duration: 55 min 43 s<br />
+Bit rate: 41 b/s<br />
+Count of elements: 541<br />
+Stream size: 17.0 KiB (0%)<br />
+Title: Simplified<br />
+Language: Chinese<br />
+Default: No<br />
+Forced: No<br />
+<br />
+Text #2<br />
+ID: 4<br />
+Format: UTF-8<br />
+Codec ID: S_TEXT/UTF8<br />
+Codec ID/Info: UTF-8 Plain Text<br />
+Duration: 55 min 43 s<b...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [韶华若锦] [内封多国字幕] Youthful Glory 2025 S01 Complete 2160p IQ WEB-DL H.265 DDP2.0-PTerWEB[韶华若锦/小豆蔻 全30集 | 导演: 闵国辉 主演: 宋威龙 包上恩 代露娃  [国语/中字] | [内封多国字幕]][30.51 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286020</link>
+<guid isPermaLink="false">3cde78a04ee190f76f98aa9e7119f094e1134db0</guid>
+<pubDate>Wed, 01 Apr 2026 10:12:17 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286020" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:12:17 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286020">https://hdhome.org/details.php?id=286020</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">PTer官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<img alt="image" src="https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2921508962.jpg" /><br />
+<img alt="image" src="https://pterclub.net/pic/PTerWEB.png" /><br />
+◎译　　名　小豆蔻<br />
+◎片　　名　韶华若锦<br />
+◎年　　代　2025<br />
+◎产　　地　中国大陆<br />
+◎类　　别　剧情 / 古装<br />
+◎语　　言　汉语普通话<br />
+◎上映日期　2025-05-19(中国大陆)<br />
+◎IMDb评分 &nbsp;7.1/10 from 104 users<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt32221618/">https://www.imdb.com/title/tt32221618/</a><br />
+◎豆瓣评分　5.6/10 from 17195 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36553913/">https://movie.douban.com/subject/36553913/</a><br />
+◎集　　数　30<br />
+◎片　　长　45分钟<br />
+◎导　　演　闵国辉 Guohui Min / 郄国伟 Guowei Qie<br />
+◎编　　剧　诸懿 Yi Zhu / 不止是颗菜 <br />
+◎主　　演　宋威龙 Weilong Song<br />
+　　　　　　包上恩 Shangen Bao<br />
+　　　　　　代露娃 Luwa Dai<br />
+　　　　　　柯颖 Ying Ke<br />
+　　　　　　白澍 Shu Bai<br />
+　　　　　　秦晓轩 Xiaoxuan Qin<br />
+　　　　　　王可 Ke Wang<br />
+　　　　　　全伊伦 Yilun Quan<br />
+　　　　　　杨博潇 Boxiao Yang<br />
+　　　　　　李佳蔚 Jiawei Li<br />
+　　　　　　庞竞 Jing Pang<br />
+　　　　　　梁爱琪 Aiqi Liang<br />
+　　　　　　俞庆 Qing Yu<br />
+　　　　　　陈欣予 Xinyu Chen<br />
+　　　　　　李洪涛 Hongtao Li<br />
+　　　　　　张晓晨 Xiaochen Zhang<br />
+　　　　　　修庆 Qing Xiu<br />
+　　　　　　李淑婷 Shuting Li<br />
+　　　　　　安冬 Dong An<br />
+　　　　　　冯建宇 Jianyu Feng<br />
+　　　　　　邬倩 Qian Wu<br />
+　　　　　　陈之辉 Zhihui Chen<br />
+　　　　　　刘津言 Jinyan Liu<br />
+　　　　　　高峰 Feng Gao<br />
+　　　　　　孙祖君 Zujun Sun<br />
+　　　　　　李博 Bo Li<br />
+　　　　　　颜景瑶 Jingyao Yan<br />
+　　　　　　沙漩 Xuan Sha<br />
+　　　　　　孙子航 Zihang Sun<br />
+　　　　　　谭建昌 Jianchang Tan<br />
+　　　　　　贺镪 Qiang He<br />
+　　　　　　张媛钰 Yuanyu Zhang<br />
+　　　　　　彭博 Bo Peng<br />
+　　　　　　曹赛亚 Saiya Cao<br />
+　　　　　　蒋潇林 Xiaolin Jiang<br />
+　　　　　　冷海铭 Marco Leng<br />
+　　　　　　程涛 Tao Cheng<br />
+　　　　　　梅凌甄 Lingzhen Mei<br />
+　　　　　　毛凡 Michael Mao<br />
+　　　　　　郭东海 Donghai Guo<br />
+　　　　　　范翔 Xiang Fan<br />
+　　　　　　张怀公 Huaigong Zhang<br />
+　　　　　　李佳佳 Li Jia Jia<br />
+　　　　　　何适 Yimeng He<br />
+　　　　　　田煜玮 <br />
+　　　　　　丁正勇 Zhengyong Ding<br />
+　　　　　　段冉 Ran Duan<br />
+　　　　　　李树 Shu Li<br />
+　　　　　　李飞扬 Feiyang Li<br />
+<br />
+◎简　　介<br />
+<br />
+　　成康十一年，戍守边关八年的定北王江绪，为调查定北军军饷被贪墨一案回到大显朝。岂料贪墨案背后牵连甚广，为了尽快查明幕后真凶，肃清朝堂，江绪自愿迎娶同为将门之后的明檀，让明家免遭利用。随着阴谋被逐渐揭开，江绪发现凶手的贪墨之举关乎整个大显朝的经济命脉，他必须釜底抽薪将朝中所有与之相关者连根拔起。谁知明家因江绪彻查之举遭了诬陷，家破人亡。江绪为明家力证清白，经历坎坷变故的二人萌生出真情实意，二人携手同行，决心要彻底瓦解敌方势力。他们查明了真相，终将凶手绳之于法，保卫百姓安全，同时也收获了爱情。<br />
+<br />
+<img alt="image" src="https://pterclub.net/pic/CS.png" /><br />
+<fieldset><legend> 引用 </legend><font size="4"><span style="color: royalblue;"><b>★★★★★ General Information ★★★★★</b></span></font><br />
+<font face="Lucida Console">RELEASE.NAME........: Youthful.Glory.2025.S01E01.2160p.IQ.WEB-DL.H265.DDP2.0-PTerWEB.mkv<br />
+RELEASE.DATE........: UTC 2025-07-22 03:26:31<br />
+RELEASE.SIZE........: 1.14 GiB<br />
+RELEASE.FORMAT......: Matroska<br />
+DURATION............: 46 min 46 s<br />
+OVERALL.BITRATE.....: 3 491 kb/s<br />
+RESOLUTION..........: 3840 x 2160<br />
+VIDEO.CODEC.........: HEVC Main@L5@Main<br />
+FRAME.RATE..........: 25.000 FPS<br />
+Aspect.Ratio........: 1.778<br />
+Audio #0............: 2 channels E-AC-3 96.0 kb/s Dolby Digital Plus<br />
+SUBTiTLE #0.........: Chinese 繁体中文<br />
+SUBTiTLE #1.........: English 英语<br />
+SUBTiTLE #2.........: Chinese 简体中文<br />
+UPLOADER............: PTerWEB</font></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID: 157974750940578744999515159727911141913 (0x76D8D49076FBE93F6B4BB67922F70219)<br />
+Complete name: Youthful.Glory.2025.S01E01.2160p.IQ.WEB-DL.H265.DDP2.0-PTerWEB.mkv<br />
+Format: Matroska<br />
+Format version: Version 4<br />
+File Size: 1.14 GiB<br />
+Duration: 46 min 46 s<br />
+Overall bit rate: 3 491 kb/s<br />
+Encoded date: UTC 2025-05-19 16:54:54<br />
+Writing application: mkvmerge v61.0.0 (&#039;So&#039;) 64-bit<br />
+Writing library: libebml v1.4.2 + libmatroska v1.6.4<br />
+<br />
+Video<br />
+ID: 1<br />
+Format: HEVC<br />
+Format/Info: High Efficiency Video Coding<br />
+Format profile: Main@L5@Main<br />
+Codec ID: V_MPEGH/ISO/HEVC<br />
+Duration: 46 min 46 s<br />
+Bit rate: 3 392 kb/s<br />
+Width: 3 840 pixels<br />
+Height: 2 160 pixels<br />
+Display aspect ratio: 16:9<br />
+Frame rate mode: Constant<br />
+Frame rate: 25.000 FPS<br />
+Color space: YUV<br />
+Chroma subsampling: 4:2:0<br />
+Bit depth: 8 bits<br />
+Bits/(Pixel*Frame): 0.016<br />
+Stream size: 1.11 GiB (97%)<br />
+Default: Yes<br />
+Forced: No<br />
+<br />
+Audio<br />
+ID: 2<br />
+Format: E-AC-3<br />
+Format/Info: Enhanced AC-3<br />
+Commercial name: Dolby Digital Plus<br />
+Codec ID: A_EAC3<br />
+Duration: 46 min 46 s<br />
+Bit rate mode: Constant<br />
+Bit rate: 96.0 kb/s<br />
+Channel(s): 2<br />
+Channel layout: L R<br />
+Sampling rate: 48.0 kHz<br />
+Frame rate: 31.250 FPS (1536 SPF)<br />
+Compression mode: Lossy<br />
+Stream size: 3...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [好好的时代] [硬字幕] Wonderful Times S01 2026 2160p WEB-DL H.264 AAC 2.0-CMCTV[好好的时代 | 第一季 全40集 | 梅婷 / 田雨 / 陈昊宇 [国语] [硬字幕]][96.75 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286019</link>
+<guid isPermaLink="false">b4ba3147469f4887595b852110fc7cebf4c6a543</guid>
+<pubDate>Wed, 01 Apr 2026 10:10:22 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286019" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:10:22 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286019">https://hdhome.org/details.php?id=286019</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">CMCT官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<img alt="image" src="https://cache.springsunday.net/img9.doubanio.com/view/photo/l_ratio_poster/public/p2930223764.jpg" /><br />
+◎译　　名　好好的时代<br />
+◎片　　名　好好的时光<br />
+◎年　　代　2026<br />
+◎产　　地　中国大陆<br />
+◎类　　型　电视剧<br />
+◎类　　别　剧情<br />
+◎语　　言　汉语普通话<br />
+◎上映日期　2026-02-23(中国大陆)<br />
+◎豆瓣评分　6.9/10 from 11,684 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36919162/">https://movie.douban.com/subject/36919162/</a><br />
+◎集　　数　40<br />
+◎单集片长　45分钟<br />
+◎简　　介<br />
+　　上世纪70年代末，带着两儿一女的机械厂工人庄先进，迎娶了带着一儿一女的歌舞团演员苏小曼，来自两个家庭的孩子各怀心思，和父母一道演绎了一段三十年的情感大戏。自小当家的大女儿庄好好，是两个重组家庭的“定盘星”，从电车售票员到歌舞厅里的驻唱红歌手，她像高山之巅的野花，和家人们携手并肩心向阳光，顽强生长。庄先进终于实现了为孩子起名“好好学习，天天向上”的梦想，可为之圆梦的庄向上却成为庄好好和苏小曼之间不可说破的“秘密”。庄学习和王元媛本是青梅竹马的同学，却因各自父母的结合，两人只能擦肩而过。庄先进的徒弟刘成追求庄先进的女儿庄好好未果，却娶了苏小曼的女儿。<br />
+<br />
+<fieldset><legend> 引用 </legend>General<br />
+Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 178956823200781037241675390007222385396 (0x86A1D498BAF5EEDFAF6A6371089ABAF4)<br />
+Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: [好好的时代].Wonderful.Times.S01E01.2026.2160p.WEB-DL.H264.AAC-CMCTV.mkv<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
+Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
+File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 2.92 GiB<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 46 min 10 s<br />
+Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9 062 kb/s<br />
+Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />
+Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v88.0 (&#039;All I Know&#039;) 64-bit<br />
+Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br />
+Copyright &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: e897427bc7<br />
+Group &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CMCTV<br />
+IMDB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : tt34571219<br />
+TMDB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : tv/283682<br />
+TVDB2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: series/474486<br />
+<br />
+Video<br />
+ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
+Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
+Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
+Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L5.1<br />
+Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br />
+Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
+Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 4 frames<br />
+Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
+Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 46 min 10 s<br />
+Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 8 870 kb/s<br />
+Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />
+Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 744 pixels<br />
+Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.2:1<br />
+Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [逐玉 全40集] Pursuit of Jade S01 2026 1080p NF WEB-DL x264 DDP5.1-ADWeb[逐玉 全40集 | 类型: 剧情 / 爱情 / 古装 主演: 田曦薇 / 张凌赫 / 任豪 / 孔雪儿 / 邓凯 / 李卿 / 喻钟黎 / 刘琳][82.33 GB][anonymous]</title>
+<link>https://hdhome.org/details.php?id=286018</link>
+<guid isPermaLink="false">4d4abb6bd6191eec2c74afb73797b1648b8d2d02</guid>
+<pubDate>Wed, 01 Apr 2026 10:09:28 +0800</pubDate>
+<source>hdhome</source>
+<enclosure url="https://hdhome.org/download.php?id=286018" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 10:09:28 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=286018">https://hdhome.org/details.php?id=286018</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">Audiences官组作品，感谢原制作者发布。</span></b></fieldset><br />
+<br />
+<fieldset><legend> 引用 </legend><font size="3"><span style="color: red;"><b>禁止转发此种至PTTime！！！</b></span></font></fieldset><img alt="image" src="https://dbimgs.audiences.me/?https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2920718637.jpg" /><br />
+◎译　　名 &nbsp;Pursuit of Jade<br />
+◎片　　名　逐玉<br />
+◎年　　代　2026<br />
+◎产　　地　中国大陆<br />
+◎类　　别　剧情 / 爱情 / 古装<br />
+◎语　　言　汉语普通话<br />
+◎上映日期　2026-03-06(中国大陆)<br />
+◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt35316225/">https://www.imdb.com/title/tt35316225/</a><br />
+◎豆瓣评分　/10 from 0 users<br />
+◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36554061/">https://movie.douban.com/subject/36554061/</a><br />
+◎集　　数　40<br />
+◎片　　长　45分钟<br />
+◎导　　演 &nbsp;曾庆杰 Qingjie Zeng<br />
+◎编　　剧 &nbsp;邹越 Yue Zou / 曾珍 Zhen Zeng / 团子来袭 <br />
+◎主　　演 &nbsp;田曦薇 Xiwei Tian<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 张凌赫 Linghe Zhang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 任豪 Hao Ren<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 孔雪儿 Sherry Kong<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 邓凯 Kai Deng<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 李卿 Qing Li<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 喻钟黎 Zhongli Yu<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 刘琳 Lin Liu<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 严屹宽 Yikuan Yan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 岳旸 Yang Yue<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 杜淳 Chun Du<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 谭凯 Kai Tan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 毛林林 Linlin Mao<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 叶祖新 Zuxin Ye<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 于洋 Yang Yu<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 李建义 Jianyi Li<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 田丽 Lily Tien<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 寇占文 Zhanwen Kou<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 付淼 Miao Fu<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 卢勇 Yong Lu<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 苑冉 Ran Yuan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 王九胜 Jiusheng Wang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 高卿尘 Nine Konchit Boonsatheepakdee<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 贾妮 Ni Jia<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 金珈 Jia Jin<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 林沐然 Muran Lin<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 林思意 Sissy Lin<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 何昶希 Changxi He<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 高上淇 Shanqi Gao<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 李殿尊 Dianzun Li<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 管云鹏 Yunpeng Guan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 管梓净 Zijing Guan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 张舒沦 Shawn Zhang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 李昱唯 Yuwei Li<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 向夏 Xia Xiang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 韩浩天 Haotian Han<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 王亭文 Tingwen Wang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 杨贺文 Hewen Yang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 马跃 Yue Ma<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 庞竞 Jing Pang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 张艺心 Yixin Zhang<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 贾舒夷 Shuyi Jia<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 宁小花 Xiaohua Ning<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 詹小楠 Xiaonan Zhan<br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 钟泠儿 <br />
+<br />
+◎简　　介 &nbsp;<br />
+<br />
+　该剧改编自晋江文学城团子来袭的小说《逐玉》。讲述了屠户女樊长玉（田曦薇 饰）与落难侯爷谢征（张凌赫 饰）于困境中相遇，一个父母双亡为了保住家产，一个死里逃生隐姓埋名，二人一拍即合决定成婚。先婚后爱日渐生情，后因战乱被迫分开，樊长玉最终拿着杀猪刀上战场，谢征实是战功赫赫的铁血将军，两人于战场重逢，携手共筑拨云见日求真相。<br />
+<img alt="image" src="https://img93.pixhost.to/images/86/435614074_c5134549f13c2c087d67c9fa4089c49e-removebg-preview.png" /><br />
+<fieldset><legend> 引用 </legend><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br />
+<br />
+RELEASE.NAME...: Pursuit.of.Jade.S01E01.2026.1080p.NF.WEB-DL.x264.DDP5.1-ADWeb<br />
+RELEASE.TIME...: UTC 2026-03-08 03:46:05.620<br />
+RELEASE.SIZE...: 2.10 GiB<br />
+RELEASE.FORMAT.: Matroska<br />
+DURATION.......: 00:46:59.680 (HH:MM:SS.MMM)<br />
+OVERALL.BITRATE: 6 395 kb/s<br />
+VIDEO.CODEC....: x264 High@L4 @ 5 800 kb/s<br />
+FRAME.RATE.....: 25.000 FPS<br />
+RESOLUTION.....: 1920 x 1080<br />
+AUDIO.1........: China Dolby Digital Plus 6 channels @ 640 kb/s<br />
+SUBTITLES.1....: Simplified / UTF-8<br />
+SUBTITLES.2....: Traditional / UTF-8<br />
+SUBTITLES.3....: English / UTF-8<br />
+SUBTITLES.4....: Latin American / UTF-8<br />
+SUBTITLES.5....: Indonesian / UTF-8<br />
+SUBTITLES.6....: Japanese / UTF-8<br />
+SUBTITLES.7....: Korean / UTF-8<br />
+SUBTITLES.8....: Brazilian / UTF-8<br />
+SUBTITLES.9....: Thai / UTF-8<br />
+SUBTITLES.10...: Vietnamese / UTF-8<br />
+UPLOADER.......: ADWeb<br />
+</font></fieldset><br />
+<fieldset><legend> 引用 </legend>General<br...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [修罗武神 第二季 全16集] Martial God Asura S02 2026 2160p WEB-DL H265 AAC-ADWeb[修罗武神 第二季 全16集 / 修罗武神2 / 修罗武神2之锋芒初露 / 修罗武神2之雷惊天下 / 修罗武神2之纵横九州 | 类型：动作 动画 奇幻 冒险 *云视听极光*][14.12 GB]</title>
+<link>https://audiences.me/details.php?id=642708</link>
+<guid isPermaLink="false">548f0c8142f5fb27a55ed50f914a0433e8005802</guid>
+<pubDate>Wed, 01 Apr 2026 09:39:54 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=642708" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:39:54 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=642708">https://audiences.me/details.php?id=642708</a></p>]]></description>
+</item>
+<item>
+<title>[已拥有] [韩国制造] Made in Korea S01 2025 2160p DSNP WEB-DL DV HDR H.265 DDP 5.1-FLUX[韩国制造 / Made in Korea 全6集][38.77 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536968</link>
+<guid isPermaLink="false">e71fea00d70d684a9638b117311e1175a8c1ca2a</guid>
+<pubDate>Wed, 01 Apr 2026 09:55:11 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536968" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:55:11 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536968">https://ptchdbits.co/details.php?id=536968</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.pixhost.to/images/6699/708046598_doubaninfo_com_36774007.jpg" /><br />◎译　　名　韩国制造 / Made in Korea<br />◎片　　名　메이드 인 코리아<br />◎年　　代　2025<br />◎产　　地　韩国<br />◎类　　别　剧情 / 动作 / 惊悚 / 犯罪<br />◎语　　言　韩语<br />◎上映日期　2025-12-24(韩国)<br />◎IMDb评星  ★★★★★★★✦☆☆<br />◎IMDb评分  7.3/10 from 975 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt33298903/">https://www.imdb.com/title/tt33298903/</a><br />◎豆瓣评星　★★★✦☆<br />◎豆瓣评分　7.2/10 from 4,856 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36774007/">https://movie.douban.com/subject/36774007/</a><br />◎集　　数　6<br />◎导　　演　禹民镐 / Min-ho Woo<br />◎演　　员　玄彬 / Hyun Bin | 饰 白冀兑<br />　　　　　　郑雨盛 / Woo-sung Jung | 饰 张健荣<br />　　　　　　中川雅也 / Lily Franky<br />　　　　　　元志安 / Ji-An Won | 饰 崔有智<br />　　　　　　禹棹奂 / Woo Do-hwan<br />　　　　　　赵汝贞 / Yeo-jeong Cho &nbsp;| 饰 裴金智<br />　　　　　　徐恩秀 / Eun-su Seo | 饰 吴艺珍<br />　　　　　　郑成日 / Seong-il Jeong &nbsp;| 饰 千锡中<br />　　　　　　卢在元 / Jae-won Roh<br />　　　　　　车熙 / Cha Hee | 饰 白素英<br />　　　　　　李珠妍 / Lee Ju-Yeon | 饰 张惠恩<br />◎编　　剧　朴恩娇<br />　　　　　　朴俊锡<br /><br />◎简　　介　<br /><br />　　该剧背景设定在动荡的1970年代，讲述被财富和权力欲望所吞噬的男人白冀兑（玄彬 饰）和信念坚定的正义检察官张健荣（郑雨盛 饰）之间的故事。<br />　　立场不同的两人不断针锋相对，最终卷入了改变他们未来的重大事件。<br /><br /> &nbsp; &nbsp; <br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 215080568650921519134685803895125876301 (0xA1CF02C14D7AC889CFC72C0D90469E4D)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Made.in.Korea.S01E01.A.Businessman.2160p.DSNP.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-FLUX.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 5.15 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 52 min 24 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.1 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge 95.0 ('Goodbye Stranger') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@High<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Dolby Vision, Version 1.0, Profile 8.1, dvhe.08.06, BL+RPU, no metadata compression, HDR10 compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 52 min 24 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 13.6 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 160 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 (24000/1001) FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />Bi...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [威尔·史密斯的极地纵横] Pole to Pole with Will Smith S01 2026 DV HDR 2160p DSNP WEB-DL H.265 DDP 5.1-RAWR[威尔·史密斯的极地纵横 / 韦史密夫的极地纵横(港) / 威尔史密斯的极地纵横(台) / 威尔·史密斯：极地纵横 全7集][30.04 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536966</link>
+<guid isPermaLink="false">4ca4ff2cab22d8fdde5860a120a5efe3622234be</guid>
+<pubDate>Wed, 01 Apr 2026 09:49:19 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536966" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:49:19 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536966">https://ptchdbits.co/details.php?id=536966</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://img2.pixhost.to/images/6840/710306158_doubaninfo_com_35879746.jpg" /><br />◎译　　名　威尔·史密斯的极地纵横 / 韦史密夫的极地纵横(港) / 威尔史密斯的极地纵横(台) / 威尔·史密斯：极地纵横<br />◎片　　名　Pole to Pole with Will Smith<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　纪录片<br />◎语　　言　英语<br />◎上映日期　2026-01-13(美国)<br />◎IMDb评星  ★★★★★★✦☆☆☆<br />◎IMDb评分  6.3/10 from 3,072 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt18069218/">https://www.imdb.com/title/tt18069218/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/35879746/">https://movie.douban.com/subject/35879746/</a><br />◎集　　数　7<br />◎导　　演　汤姆·巴伯-梅特 / Tom Barbor-Might<br />　　　　　　迪奥尼·布罗姆菲尔德 / Dionne Bromfield<br />◎演　　员　威尔·史密斯 / Will Smith<br />◎制  片  人　达伦·阿伦诺夫斯基 / Darren Aronofsky<br /><br />◎简　　介　<br /><br />　　威尔·史密斯踏上直面生命极限的旅程。受到已故导师启发，用100天挑战不可能：滑雪横越南极、近距离捕捉巨蟒。为剧毒狼蛛取毒、攀登高山、潜入北极冰层之下。他将与专家们并肩同行，展开横跨地球两极、探索身心极限的震撼冒险。<br /><br /> &nbsp; &nbsp; <br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 282904354892900874396216898176424081346 (0xD4D56597DE54E09914776FADE71FF7C2)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Pole.to.Pole.with.Will.Smith.S01E01.The.South.Pole.2160p.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-RAWR.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 4.83 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 57 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 15.0 Mb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br />Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Pole to Pole with Will Smith S01E01 The South Pole<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge 94.0 ('Initiate') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@High<br />HDR format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Dolby Vision, Version 1.0, Profile 8.1, dvhe.08.06, BL+RPU, no metadata compression, HDR10 compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 45 min 57 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.8 Mb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 160 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 (24000/1001) FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [Marko &amp; Irma 第三季 全8集] Marko Och Irma S03 2023 1080p WEB-DL H.264 AAC 2.0-BTN[Marko &amp; Irma 第三季 全8集][11.24 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536959</link>
+<guid isPermaLink="false">cdd18aa8bb27d8a3429be9891924f42319b3181d</guid>
+<pubDate>Wed, 01 Apr 2026 09:40:52 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536959" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:40:52 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536959">https://ptchdbits.co/details.php?id=536959</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://ptpimg.me/6ht32m.jpg" /><br />◎译　　名　Marko &amp; Irma 第三季<br />◎片　　名　Marko &amp; Irma Season 3<br />◎类　　型　真人秀<br />◎产　　地　Sweden<br />◎年　　代　January 12, 2023 (Sweden)<br />◎IMDb评分  8.4/10<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt25911004/">https://www.imdb.com/title/tt25911004/</a><br />◎演　　员　Marko Lehtosalo, Irma Lehtosalo, Håkan Svensson, Lasse Jensen, David Sundin, Robin Bengtsson, Martin Bergsten, Saffran Boutamann<br /><br />◎简　　介　<br /><br /> &nbsp;We join Markoolio and his mother Irma in their daily adventures. When they discover that Irma's house in Ingarö, (which Marko bought for her as a safe haven from alcohol) is infested with mold, they make the bold decision to embar...<br /><br /> &nbsp; &nbsp; <br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 314851174237613899214857860376751435256 (0xECDE21651A8D82EA8C3191FD359EEDF8)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: marko.och.irma.s03e01.swedish.1080p.web.h264-ollonborre.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.41 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 44 min 13 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 575 kb/s<br />Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : UTC 2025-02-19 23:03:54<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v89.0 ('And the Melody Still Lingers On (Night in Tunisia)') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4<br />Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br />Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />Format settings, Reference fra : 4 frames<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 44 min 13 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4 445 kb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 080 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 8 bits<br />Scan type &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Progressive<br />Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.086<br />Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.37 GiB (97%)<br />Default &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br />Forced &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : No<br /><br />Audio<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AAC LC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Audio Codec Low Complexity<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : A_AAC-2<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 44 min 13 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 128 kb/s<br />Channel(s) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 channels<br />Channel layout &nbsp; &nbsp; &nbsp; &nbsp;...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [美剧：诊疗中 第三季 第10集] [内封官方中字] Shrinking S03 2160p Apple TV+ WEB-DL DDP.5.1 Atmos HDR10+ H.265-CHDWEB[美剧：诊疗中 第三季 第10集 /诚实诊疗室/心理治疗 | 4K HDR10+ | 类型:剧情/喜剧 | 内封官方中字][6.38 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536957</link>
+<guid isPermaLink="false">974dccb3704164a3cbd0c301c1e4840a460c78c0</guid>
+<pubDate>Wed, 01 Apr 2026 09:37:31 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536957" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:37:31 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536957">https://ptchdbits.co/details.php?id=536957</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/01/27/1769527172.870015.jpg" /><br /><br />◎译　　名　诊疗中 第三季 Shrinking Season 3 / 诚实诊疗室 / 心理治疗 / 缩小<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　剧情 / 喜剧<br />◎语　　言　英语<br />◎上映日期　2026-01-28(美国)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt34058411/">https://www.imdb.com/title/tt34058411/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/37078948/">https://movie.douban.com/subject/37078948/</a><br />◎编　　剧　比尔·劳伦斯 Bill Lawrence (id:27316794)<br />　　　　　 杰森·席格尔 Jason Segel (id:27219463)<br />　　　　　 布雷特·戈德斯坦 Brett Goldstein (id:27579166)<br />　　　　　 布莱恩·加利文 Brian Gallivan (id:36829882)<br />　　　　　 萨沙·加伦 Sasha Garron (id:35622440)<br />◎演　　员　杰森·席格尔 Jason Segel (id:27219463)<br />　　　　　 哈里森·福特 Harrison Ford (id:27214929)<br />　　　　　 坎迪斯·伯根 Candice Bergen (id:27250653)<br />　　　　　 雪莉·可拉 Sherry Cola (id:35798902)<br />　　　　　 杰夫·丹尼尔斯 Jeff Daniels (id:27212665)<br />　　　　　 迈克尔·J·福克斯 Michael J. Fox (id:27223619)<br />　　　　　 伊莎贝拉·戈麦兹 Isabella Gomez (id:27569220)<br />　　　　　 卢基塔·麦克斯韦尔 Lukita Maxwell (id:36829835)<br />　　　　　 特德·麦金利 Ted McGinley (id:27330074)<br />　　　　　 克瑞丝塔·米勒 Christa Miller (id:27223665)<br />　　　　　 Rachel Stubington Rachel Stubington (id:36829839)<br />　　　　　 卢克·坦尼 Luke Tennie (id:30283370)<br />　　　　　 迈克尔·尤瑞 Michael Urie (id:27228487)<br />　　　　　 杰西卡·威廉姆斯 Jessica Williams (id:27395219)<br /><br />◎简　　介<br />　　Moving forward, together.<br /><br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Shrinking.S03E01.My.Bad.2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-CHDWEB.mkv<br />File Size............: 11.18 GiB<br />Duration.............: 1:3:23 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 24,480 kbps<br />Video Codec..........: HEVC Main 10@L5 SMPTE ST 2094 App 4 1<br />Frame Rate...........: 23.976 fps<br />Resolution...........: 3840 x 1920<br />Audio#01.............: English &nbsp;768 kbps &nbsp;6channels E-AC-3<br />Subtitle#01..........: English <br />Subtitle#02..........: Chinese (Simplified) Simplified<br />Subtitle#03..........: Chinese (Traditional) Traditional<br />Subtitle#04..........: Chinese (Traditional) Traditional<br />Subtitle#05..........: Arabic <br />Subtitle#06..........: Bulgarian <br />Subtitle#07..........: Czech <br />Subtitle#08..........: Danish <br />Subtitle#09..........: German <br />Subtitle#10..........: Greek <br />Subtitle#11..........: Spanish (Latin America) Latin America<br />Subtitle#12..........: Spanish (ES) <br />Subtitle#13..........: Estonian <br />Subtitle#14..........: Finnish <br />Subtitle#15..........: French (CA) Canada<br />Subtitle#16..........: French (FR) <br />Subtitle#17..........: Hebrew <br />Subtitle#18..........: Hindi <br />Subtitle#19..........: Hungarian <br />Subtitle#20..........: Indonesian <br />Subtitle#21..........: Italian <br />Subtitle#22..........: Japanese <br />Subtitle#23..........: Korean <br />Subtitle#24..........: Lithuanian <br />Subtitle#25..........: Latvian <br />Subtitle#26..........: Malay <br />Subtitle#27..........: Dutch <br />Subtitle#28..........: Norwegian <br />Subtitle#29..........: Polish <br />Subtitle#30..........: Portuguese <br />Subtitle#31..........: Portuguese (BR) Brazil<br />Subtitle#32..........: Russian <br />Subtitle#33..........: Slovak <br />Subtitle#34..........: Slovenian <br />Subtitle#35..........: Swedish <br />Subtitle#36..........: Tamil <br />Subtitle#37..........: Telugu <br />Subtitle#38..........: Thai <br />Subtitle#39..........: Turkish <br />Subtitle#40..........: Ukrainian <br />Subtitle#41..........: Vietnamese <br />Uploader.............: @CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/01/28/Shrinking.S03E01.My.Bad.2160p.Apple.TV.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[未监控] [天相] [天相/天相 第一季：大荒猎煞 | 全26集 [国语/简繁中字] Divine Manifestation 2025 S01 Complete 2160p WEB-DL H.265 10bit AAC-UBWEB[天相/天相 第一季：大荒猎煞 | 全26集 [国语/简繁中字] [软字幕版] [4K版]][26.65 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536949</link>
+<guid isPermaLink="false">bc5312f08ff0228f5e38cfda7290e716d8677c7a</guid>
+<pubDate>Wed, 01 Apr 2026 09:25:00 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536949" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:25:00 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536949">https://ptchdbits.co/details.php?id=536949</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">UBits官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><img alt="image" src="https://ptpimg.me/t46crs.jpg" /><br /><br />❁ 片　　名:　天相<br />❁ 译　　名:　Divine Manifestation / The Divine Manifestation / 天相 第一季：灵相觉醒+大荒猎煞<br />❁ 年　　代:　2025<br />❁ 产　　地:　中国大陆<br />❁ 类　　别:　动作 / 动画 / 奇幻 / 冒险 / 古装<br />❁ 语　　言:　汉语普通话<br />❁ 上映日期:　2025-10-15(中国大陆)<br />❁ 豆瓣评分:　0 / 10 from 0 users<br />❁ 豆瓣链接:　<a class="faqlink" href="https://movie.douban.com/subject/36118296/">https://movie.douban.com/subject/36118296/</a><br />❁ 集　　数:　26<br />❁ 片　　长:　22分钟<br />❁ 主　　演:　魏一凡 Yifan Wei<br />　　　　　　　赵梦娇 Mengjiao Zhao<br />　　　　　　　陈诗语 Shiyu Chen<br />　　　　　　　傅晨阳 Chenyang Fu<br />　　　　　　　宝木中阳 Ming Song<br />　　　　　　　张家辉<br />　　　　　　　赵俊凌<br /><br />❁ 简　　介<br /><br />　十五年前，丁晓前世在与白衣古神的旷古决战中殒没。十五年后，丁晓七岁结灵胎，特招入镇灵司，却被判定为废相而沦为背棺人，八年来受尽冷眼。<br />　　镇灵司分为八部，而灵部与归部夙怨颇深。<br />　　机缘之下，丁晓觉醒了相力，在考核赛中成为了归部的英雄，也成为了灵部的眼中钉。与此同时，各地起煞事件越来越频繁。为救妹妹丁灵的怪病，丁晓再次踏上了度化灵煞的征途，随后被卷入到一场惊天阴谋之中，幕后黑手也渐渐浮出水面，而这一切似乎与丁灵的怪病有关。<br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 331816683163776920754205861915467186896 (0xF9A19190C4A6E5F7F12C6B2DDBBC02D0)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: [天相].Divine.Manifestation.2025.S01E01.2160p.WEB-DL.H265.10bit.AAC-UBWEB.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.83 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 28 min 8 s<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9 287 kb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 30.000 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v93.0 ('Goblu') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1 / Lavf59.27.100<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main 10@L5@Main<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEGH/ISO/HEVC<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 28 min 8 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9 092 kb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 632 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.35:1<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 30.000 FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: YUV<br />Chroma subsampling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 4:2:0<br />Bit depth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 10 bits<br />Bits/(Pixel*Frame) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 0.048<br />Stream size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.79 GiB (98%)<br />Default &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Yes<br />Fo...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [美剧：不完美的女人 第一季 第4集 Imperfect Women] [内封官方中字] Imperfect Women S01 2160p Apple TV+ WEB-DL DDP.5.1 Atmos HDR10+ H.265-CHDWEB[美剧：不完美的女人 第一季 第4集 Imperfect Women/不完美女人 | 4K HDR10+ | 类型:惊悚 | 内封官方中字][6.72 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536948</link>
+<guid isPermaLink="false">05f0e5203a8c75d86f812b59c9606aab9dc6641e</guid>
+<pubDate>Wed, 01 Apr 2026 09:23:10 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536948" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:23:10 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536948">https://ptchdbits.co/details.php?id=536948</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/03/18/1773808172.5686674.jpg" /><br /><br />◎译　　名　不完美的女人 Imperfect Women / 不完美女人<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　惊悚<br />◎语　　言　英语<br />◎上映日期　2026-03-18(美国)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt31937954/">https://www.imdb.com/title/tt31937954/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36832087/">https://movie.douban.com/subject/36832087/</a><br />◎集　　数　8<br />◎导　　演　莱丝莉·琳卡·格拉特 Lesli Linka Glatter (id:27480748)<br />　　　　　 杰特·威尔金森 Jet Wilkinson (id:27588436)<br />　　　　　 恩辛哈·斯图尔特 Nzingha Stewart (id:30185639)<br />　　　　　 戴纳·里德 Daina Reid (id:30424281)<br />◎编　　剧　安妮·韦斯曼 Annie Weisman (id:36835782)<br />　　　　　 卡伊·耶贡 Kay Oyegun (id:30336191)<br />　　　　　 艾莉森·艾布纳 Allison Abner (id:34929705)<br />　　　　　 凯尔·沃伦 Kyle Warren (id:36095713)<br />　　　　　 阿拉明塔·霍尔 Araminta Hall (id:36835783)<br />◎演　　员　伊丽莎白·莫斯 Elisabeth Moss (id:27228293)<br />　　　　　 凯丽·华盛顿 Kerry Washington (id:27210306)<br />　　　　　 凯特·玛拉 Kate Mara (id:27237542)<br />　　　　　 乔尔·金纳曼 Joel Kinnaman (id:27242492)<br />　　　　　 寇瑞·斯托尔 Corey Stoll (id:27481179)<br />　　　　　 小莱斯利·奥多姆 Leslie Odom Jr. (id:27385214)<br />　　　　　 Audrey Zahn Audrey Zahn (id:37384143)<br />　　　　　 吉尔·瓦格纳 Jill Wagner (id:27426584)<br />　　　　　 罗姆·弗林 Rome Flynn (id:30337732)<br />　　　　　 雪莉·李·拉尔夫 Sheryl Lee Ralph (id:27260869)<br />　　　　　 Violette Linnz Violette Linnz (id:37384146)<br />　　　　　 印第安娜·艾尔 Indiana Elle (id:37384145)<br />　　　　　 杰克森·凯利 Jackson Kelly (id:36220362)<br />　　　　　 基思·卡拉丹 Keith Carradine (id:27230943)<br />　　　　　 阿娜·奥缇兹 Ana Ortiz (id:27210441)<br />　　　　　 威尔逊·贝索尔 Wilson Bethel (id:27404917)<br />　　　　　 谢丽·萨姆 Sherri Saum (id:27354565)<br />　　　　　 何家蓓 Sandrine Holt (id:27246459)<br />　　　　　 Michelle Arthur Michelle Arthur (id:37090298)<br />　　　　　 Maggie Weible Maggie Weible (id:37935143)<br />　　　　　 米西·克莱尔·法尔科内 Missy Claire Falcone (id:37384144)<br />　　　　　 Yanis Kalnins Yanis Kalnins (id:37923456)<br />　　　　　 Hayley Assink Hayley Assink (id:38235860)<br />　　　　　 Itziar Martinez Itziar Martinez (id:36236261)<br />　　　　　 亚当·沙皮罗 Adam Shapiro (id:27493053)<br />　　　　　 埃文·沙夫兰 Evan Shafran (id:27461824)<br />　　　　　 瑞秋·阿什利·约翰逊 Rachel Ashley Johnson (id:36895541)<br />　　　　　 凯萨琳·布吕耶 Catherine Bruhier (id:27282720)<br />　　　　　 罗克茜·里韦拉 Roxy Rivera (id:36546903)<br />　　　　　 Alexander Chard Alexander Chard (id:37479666)<br />　　　　　 尼古拉·赞科夫 Nikolai Tsankov (id:36572601)<br />　　　　　 Stephen Saux Stephen Saux (id:27353375)<br />　　　　　 克里斯廷·古德温 Krystin Goodwin (id:36350954)<br /><br />◎简　　介<br />　　故事改编自Araminta Hall的2021年小说，聚焦Nancy Hennessy的死，外人看来她的生活是完美的，漂亮、富有、深得相识的人的尊敬和喜爱。而她被谋杀后，留下两个最好的朋友、深爱她的丈夫和女儿，以及一个她至死都未说出身份的秘密恋人。随着对其死亡的调查陷入困难，两个好友Eleanor和Mary也深陷悲痛，黑暗的细节慢慢浮现，让她们发觉自己对好友、对彼此甚至对自己其实都知之甚少。<br /><br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Imperfect.Women.S01E03.Monster.2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-CHDWEB.mkv<br />File Size............: 7.66 GiB<br />Duration.............: 0:43:42 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 24,320 kbps<br />Video Codec..........: HEVC Main 10@L5 SMPTE ST 2094 App 4 1<br />Frame Rate...........: 23.976 fps<br />Resolution...........: 3840 x 1920<br />Audio#01.............: English &nbsp;768 kbps &nbsp;6channels E-AC-3<br />Subtitle#01..........: English <br />Subtitle#02..........: Chinese (Simplified) Simplified<br />Subtitle#03..........: Chinese (Traditional) Traditional<br />Subtitle#04..........: Chinese (Traditional) Traditional<br />Subtitle#05..........: Arabic <br />Subtitle#06..........: Bulgarian <br />Subtitle#07..........: Czech <br />Subtitle#08..........: Danish <br />Subtitle#09..........: German <br />Subtitle#10..........: Greek <br />Subtitle#11..........: Spanish (Latin America) Latin America<br />Subtitle#12..........: Spanish (ES) <br />Subtitle#13..........: Estonian <br />Subtitle#14..........: Finnish <br />Subtitle#15..........: French (CA) Canada<br />Subtitle#16..........: French (FR) <br />Subtitle#17..........: Hebrew <br />Subtitle#18..........: Hindi <br />Subtitle#19..........: Hungarian <br />Subtitle#20..........: Indonesian <br />Subtitle#21..........: Italian <br />Subtitle#22..........: Japanese <br />Subtitle#23..........: Korean <br />Subtitle#24..........: Lithuanian <br />Subtitle#25..........: Latvian <br />Subtitle#26..........: Malay <br />Subtitle#27..........: Dutch <br />Subtitle#28..........: Norwegian <br />Subtitle#29..........: Polish <br />Subtitle#30..........: Portuguese <br />Subtitle#31..........: Portuguese (BR) Brazil<br />Subtitle#32..........: Russian <br />Subtitle#33..........: Slovak <br />Subtitle#34..........: Slovenian <br />Subtitle#35..........: Swedish <br />Subtitle#36..........: Tamil <br />Subtitle#37..........: Telugu <br />Subtitle#38.............</div>]]></description>
+</item>
+<item>
+<title>[未监控] [她的盛焰] [软字幕] Her Blaze 2026 S01 2160p WEB-DL H.265 DDP5.1-AilMWeb[她的盛焰 | 第1季 全30集 | 主演：马思纯 / 宁理 / 袁姗姗 [普通话][简/繁][软字幕]][27.85 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536947</link>
+<guid isPermaLink="false">5da597a563ced2175b663fc6c74a785b12698f08</guid>
+<pubDate>Wed, 01 Apr 2026 09:21:58 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536947" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:21:58 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536947">https://ptchdbits.co/details.php?id=536947</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">Panda官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/original/zyHpEpZmzwMPvB8cJrFpc0FOmFW.jpg" /><br />◎译　　名　她的盛焰 / Her Blaze / 彼女の燃える炎<br />◎片　　名　她的盛焰<br />◎年　　代　2026<br />◎产　　地　中国<br />◎类　　别　剧情<br />◎语　　言　中文<br />◎上映日期　2026-03-13<br />◎TMDB评分 &nbsp;8.0/10 from 未知 users<br />◎TMDB链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/tv/282904">https://www.themoviedb.org/tv/282904</a><br />◎imdb评分 &nbsp;0/10 from 0 users<br />◎imdb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt32563322/">https://www.imdb.com/title/tt32563322/</a><br />◎集　　数 &nbsp;30<br />◎导　　演　温若寒<br />◎编　　剧　李熹微<br />◎主　　演　马思纯<br />　　　　 &nbsp;　宁理<br />　　　　 &nbsp;　袁姗姗 袁姍姍<br />　　　　 &nbsp;　翟子路<br />　　　　 &nbsp;　范湉湉 Fan Tiantian<br />　　　　 &nbsp;　章涛<br /><br />◎简　　介<br /><br />三年前，数学天才饶雨瓷被闺蜜兼创业合伙人白靓靓设计构陷，因“药物成瘾”袭击母亲，被家人强制送进了心康治疗中心接受治疗，而白靓靓靠卖掉两人创办的公司，成为历森集团的高管。亲情、友情、爱情、事业悉数从她的人生退场。天才坠落的同时，也死死记住了推她进深渊的脸。 三年后，饶雨瓷病愈出院，她精心计划，誓要揭下白靓靓的伪善面具，让她的恶行在阳光之下无所遁形……<br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 她的盛焰.Her.Blaze.2026.S01E29.2160p.WEB-DL.H.265.DDP5.1-AilMWeb.mp4<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : MPEG-4<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Base Media<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : isom (isom/dby1/iso2/mp41)<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 563 MiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 39 min 18 s<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 002 kb/s<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Lavf62.6.101<br />Copyright &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Panda<br />Comment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: AilMWeb<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : HEVC<br />Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Main@L5@Main<br />Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : hev1<br />Codec ID/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: High Efficiency Video Coding<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 39 min 18 s<br />Source duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 39 min 18 s<br />Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 486 kb/s<br />Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 3 840 pixels<br />Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2 160 pixels<br />Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 16:9<br />Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.000 FPS<br />Minimum frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24.993 FPS<br />Maximum frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 25.007 FPS<br />Color space &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [夜魔侠：重生 第二季 第2-3集] [内封中文字幕] Daredevil Born Again S02 2160p Disney+ WEB-DL DDP 5.1 Atmos HDR10 H.265-CHDWEB[夜魔侠：重生 第二季 第2-3集 /超胆侠：重生/夜魔侠(重启版) | 类型:剧情/动作/科幻/惊悚/犯罪/奇幻/冒险 | 主演:查理考克斯文森特多诺费奥/克里斯滕里特/黛博拉安霍尔/阿耶莱特祖里尔 | 4K HDR10 | 内封中文字幕][9.54 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536946</link>
+<guid isPermaLink="false">3d6622033f3c069b0ca42a503eae78f7dc20dcc0</guid>
+<pubDate>Wed, 01 Apr 2026 09:21:16 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536946" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:21:16 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536946">https://ptchdbits.co/details.php?id=536946</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/03/23/1774244478.510496.jpg" /><br /><br />◎译　　名　夜魔侠：重生 第二季 Daredevil: Born Again Season 2 / 超胆侠：重生 / 夜魔侠重启版 / Daredevil<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　剧情 / 动作 / 科幻 / 惊悚 / 犯罪 / 奇幻 / 冒险<br />◎语　　言　英语<br />◎上映日期　2026-03-24(美国)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt21357492/">https://www.imdb.com/title/tt21357492/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36341343/">https://movie.douban.com/subject/36341343/</a><br />◎集　　数　8<br />◎导　　演　贾斯汀·本森 Justin Benson (id:27573508)<br />　　　　　 艾伦·穆尔黑德 Aaron Moorhead (id:27573509)<br />◎编　　剧　达里奥·斯卡达潘 Dario Scardapane (id:27251579)<br />　　　　　 克里斯·奥德 Chris Ord (id:34779380)<br />　　　　　 马特·科尔曼 Matt Corman (id:34779361)<br />◎演　　员　查理·考克斯 Charlie Cox (id:27242235)<br />　　　　　 文森特·多诺费奥 Vincent D'Onofrio (id:27216237)<br />　　　　　 克里斯滕·里特 Krysten Ritter (id:27242057)<br />　　　　　 黛博拉·安·霍尔 Deborah Ann Woll (id:27210257)<br />　　　　　 阿耶莱特·祖里尔 Ayelet Zurer (id:27368398)<br />　　　　　 玛格丽塔·列维耶娃 Margarita Levieva (id:27210309)<br />　　　　　 威尔逊·贝索尔 Wilson Bethel (id:27404917)<br />　　　　　 埃尔登·亨森 Elden Henson (id:27255431)<br />　　　　　 亨特·杜汉 Hunter Doohan (id:34914391)<br />　　　　　 克拉克·约翰森 Clark Johnson (id:27516054)<br />　　　　　 钱睿博 Ruibo Qian (id:33420743)<br />　　　　　 妮基·米歇尔·詹姆斯 Nikki Michelle James (id:27412399)<br />　　　　　 杰内娅·沃尔顿 Genneya Walton (id:36453327)<br />　　　　　 迈克尔·甘多菲尼 Michael Gandolfini (id:30224498)<br />　　　　　 扎布丽娜·格瓦拉 Zabryna Guevara (id:27546231)<br />　　　　　 阿尔蒂·佛鲁山 Arty Froushan (id:34812190)<br />　　　　　 哈米什·艾伦-海德利 Hamish Allan-Headley (id:36709613)<br />　　　　　 苏珊·瓦伦 Susan Varon (id:36448922)<br />　　　　　 卡米拉·罗德里格斯 Camila Rodriguez (id:36636604)<br />　　　　　 莉莉·泰勒 Lili Taylor (id:27237629)<br />　　　　　 马修·里沃德 Matthew Lillard (id:27210305)<br />　　　　　 Alan Avitan Alan Avitan (id:38226124)<br />　　　　　 托尼·达尔顿 Tony Dalton (id:27210991)<br /><br />◎简　　介<br />　　夜幕降临，魔影共舞。<br />　　真正觉醒的夜魔侠（查理·考克斯 Charlie Cox 饰）将与金并（文森特·多诺费奥 Vincent D'Onofrio 饰）正面交锋，揭开纽约市权力风起云涌的幕后真相。<br /><br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Daredevil.Born.Again.S02E01.The.Northern.Star.2160p.Disney+.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB.mkv<br />File Size............: 5.1 GiB<br />Duration.............: 0:50:42 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 13,631 kbps<br />Video Codec..........: HEVC Main 10@L5 SMPTE ST 2086<br />Frame Rate...........: 24.000 fps<br />Resolution...........: 3840 x 2160<br />Audio#01.............: English &nbsp;768 kbps &nbsp;6channels E-AC-3<br />Subtitle#01..........: English SDH<br />Subtitle#02..........: Chinese (Traditional) Traditional<br />Subtitle#03..........: Chinese (Simplified) Simplified<br />Subtitle#04..........: Czech <br />Subtitle#05..........: Danish <br />Subtitle#06..........: German <br />Subtitle#07..........: Greek <br />Subtitle#08..........: Spanish (Latin America) Latin America (SDH)<br />Subtitle#09..........: Spanish (Latin America) Latin America<br />Subtitle#10..........: Spanish (ES) <br />Subtitle#11..........: Finnish <br />Subtitle#12..........: French (FR) <br />Subtitle#13..........: Hungarian <br />Subtitle#14..........: Italian <br />Subtitle#15..........: Japanese <br />Subtitle#16..........: Korean <br />Subtitle#17..........: Dutch <br />Subtitle#18..........: Norwegian <br />Subtitle#19..........: Polish <br />Subtitle#20..........: Portuguese (BR) Brazil (SDH)<br />Subtitle#21..........: Portuguese (BR) Brazil<br />Subtitle#22..........: Portuguese (PT) <br />Subtitle#23..........: Romanian <br />Subtitle#24..........: Slovak <br />Subtitle#25..........: Swedish <br />Subtitle#26..........: Turkish <br />Subtitle#27..........: Chinese (HK) Hong Kong<br />Uploader.............: @CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/03/25/Daredevil.Born.Again.S02E01.The.Northern.Star.2160p.Disney.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB.jpg" /></div>]]></description>
+</item>
+<item>
+<title>[已拥有] [德凯奥特曼] Ultraman Decker S01 2022 1080p AMZN WEB-DL H.264 DDP 2.0-HDCTV[德凯奥特曼 / 超人帝卡(港) / 超人力霸王德卡(台) / 戴卡奥特曼 / Ultraman Decker 全25集][37.65 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536944</link>
+<guid isPermaLink="false">cc1e13aafed4e587a545cd46b16f6afdfbb9b50f</guid>
+<pubDate>Wed, 01 Apr 2026 09:18:48 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536944" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:18:48 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536944">https://ptchdbits.co/details.php?id=536944</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">HDChina官组作品，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://img2.pixhost.to/images/6645/707297568_35705769.jpg" /><br />◎译　　名　德凯奥特曼 / 超人帝卡(港) / 超人力霸王德卡(台) / 戴卡奥特曼 / Ultraman Decker<br />◎片　　名　ウルトラマンデッカー<br />◎年　　代　2022<br />◎产　　地　日本<br />◎类　　别　剧情 / 动作 / 科幻 / 奇幻<br />◎语　　言　日语<br />◎上映日期　2022-07-09(日本)<br />◎IMDb评星  ★★★★★★★☆☆☆<br />◎IMDb评分  7.0/10 from 232 users<br />◎IMDb链接  <a class="faqlink" href="https://www.imdb.com/title/tt18884220/">https://www.imdb.com/title/tt18884220/</a><br />◎豆瓣评星　★★★✦☆<br />◎豆瓣评分　7.2/10 from 10,743 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/35705769/">https://movie.douban.com/subject/35705769/</a><br />◎单集片长　24分钟<br />◎集　　数　25<br />◎导　　演　武居正能 / Masayoshi Takesue<br />　　　　　　辻本贵则 / Takanori Tsujimoto<br />　　　　　　坂本浩一 / Koichi Sakamoto<br />　　　　　　越知靖 / Tomonobu Kochi<br />　　　　　　内田直之 / Naoyuki Uchida<br />　　　　　　中川和博 / Kazuhiro Nakamura<br />　　　　　　田口清隆 / Kiyotaka Taguchi<br />◎演　　员　松本大辉 / Matsumoto Hiroki | 饰 明日见奏大<br />　　　　　　村山优香 / Yuka Murayama | 饰 桐野唯千夏<br />　　　　　　大地伸永 / Nobunaga Daichi | 饰 龙门创守<br />　　　　　　小柳友 / Yû Koyanagi | 饰 朝影雄一郎 / 巴孜特星人 阿加慕斯<br />　　　　　　宫泽佐江 / Sae Miyazawa | 饰 海岬五和<br />　　　　　　黄川田将也 / Masaya Kikawada | 饰 昴星帝司<br />　　　　　　土田大 / Hiroshi Tsuchida | 配 哈乃次郎<br />　　　　　　寺坂赖我 / Raiga Terasaka | 饰 真中剑悟<br />　　　　　　金子隼也 / Shunya Kaneko | 饰 圣彰人<br />　　　　　　丰田留妃 / Runa Toyoda | 饰 静间结名<br />　　　　　　铃木一功 / Ikko Suzuki | 饰 明日见大志郎<br />　　　　　　堀内正美 / Masami Horiuchi | 饰 滨野镇长<br />　　　　　　中村守里 / Nakamura Shuri | 饰 优子<br />　　　　　　岩田荣庆 / Hideyoshi Iwata | 饰 德凯奥特曼 皮套演员<br />　　　　　　榎本遥菜 / Haruna Enomoto | 饰 米卡<br />　　　　　　向井莉生 / Live Mukai | 配 翻译软件<br />　　　　　　上坂堇 / Sumire Uesaka | 配 妖丽战士 卡露蜜拉<br />　　　　　　高木胜也 / Katsuya Takagi | 饰 辰巳诚也<br />　　　　　　水野直 / Tadashi Mizuno | 饰 作马铁心 回忆<br />　　　　　　春川芽生 / Harukawa Seigen | 饰 七濑日葵 回忆<br />　　　　　　中村浩二 / Kôji Nakamura | 饰 古雷思<br />　　　　　　福岛弘之 / Hiroyuki Fukushima | 饰 暗黑星人 夏普雷星人 皮套演员<br />　　　　　　安川桃香 / Momoka Yasukawa | 饰 妖丽战士 卡露蜜拉 皮套演员<br />　　　　　　谷口贤志 / Masashi Taniguchi | 饰 德凯·明日见<br />　　　　　　市道真央 / Mao Ichimichi | 配 梅特隆星人 玛露露<br />　　　　　　石川真之介 / Shinnosuke Ishikawa | 饰 特利迦奥特曼 皮套演员<br />　　　　　　寺井大介 / Daisuke Terai | 饰 TPU教官<br />　　　　　　野村真美 / Mami Nomura | 饰 茂永真希<br />　　　　　　久田悠贵 / Yuki Hisada | 饰 Techinician C<br />　　　　　　野田あかり / Akari Noda | 饰 ナギ幼少期<br />　　　　　　姜波 / Bo Jiang | 配 明日见奏大中文<br />　　　　　　高桥麻琴 / Makoto Takahashi | 饰 堀内 第20话<br />　　　　　　阿部翔平 / Shohei Abe | 饰 绯山雄二 第21话<br />　　　　　　藤山由依 / Yuui Fujiyama | 饰 蕾丽兰<br />◎编　　剧　根元岁三 / Nemoto Toshizou<br />　　　　　　足木淳一郎 / Junichiro Ashiki<br />　　　　　　中野贵雄 / Takao Nakano<br />　　　　　　继田淳 / Jun Tsugita<br />　　　　　　久弥直树 / Hisaya Naoki<br />　　　　　　皋月彩 / Aya Satsuki<br />　　　　　　鹤田幸伸 / Tsuruta Yukinobu<br />◎制  片  人　北浦嗣巳 / Tsugumi Kitaura<br />◎音　　乐　末广健一郎 / Ken'ichirô Suehiro<br />　　　　　　得田真裕 / Masahiro Oda<br />◎摄　　影　村川聪 / Satoshi Murakawa<br />◎副  导  演　越知靖 / Tomonobu Kochi<br />◎动作特技　安川桃香 / Momoka Yasukawa<br />　　　　　　寺井大介 / Daisuke Terai<br />◎其　　它　涩谷浩康 / Hiroyasu Shibuya<br /><br />◎简　　介　<br /><br />　　地球已经很久没有遭受怪兽的侵害了，似乎恢复了和平。<br />　　人类将目光进一步转向宇宙，因此对抗怪兽灾难的队伍规模也在逐步缩小。<br />　　而就在这时，神秘宇宙漂浮体“斯菲亚”突然向地球发动攻击。地球与宇宙的联系被斩断，变成了“孤独的行星”。<br />　　斯菲亚的恶魔之手也逼近了主角明日见奏大的日常生活，它不停地制造着破坏，最终从漂浮体变成了巨大的形态……<br />　　奏大不顾危险、勇敢地挑战敌人，终于变身成德凯奥特曼。<br />　　“就是现在，上吧！”<br />　　奏大手握德凯奥特曼的“光”，为了保护昔日的和平奋勇迎战。<br />　　为了对抗斯菲亚，新精英队“GUTS-SELECT”重新建立。奏大作为新“精英胜利队”的新队员，与年轻的伙伴们一起对抗巨大的敌人！<br /><br /> &nbsp;<br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 101923260789439117663754450871994074476 (0x4CADB4BC4F9A3C85BA95374483CCC56C)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Ultraman.Decker.E01.2022.Amazon.WEB-DL.1080p.H264.DDP-AREY.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.53 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 24 min 35 s<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 8 921 kb/s<br />Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v72.0.0 ('Minuano (Six-eight)') 64-bit<br />Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.4 + libmatroska v1.7.1<br /><br />Video<br />ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp...</div>]]></description>
+</item>
+<item>
+<title>[未监控] [神盾局特工 第 6 季] Marvel's Agents of S.H.I.E.L.D. S06 2019 Complete 1080p DSNP WEB-DL AVC DDP 5.1-DBTV[神盾局特工 第 6 季 / Marvel's Agents of S.H.I.E.L.D. (2019)][19.98 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536940</link>
+<guid isPermaLink="false">09ffc81aac0ccb4bb36c3c2ee83ad9352693ea87</guid>
+<pubDate>Wed, 01 Apr 2026 09:12:11 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536940" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:12:11 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536940">https://ptchdbits.co/details.php?id=536940</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><b><span style="color: blue;">HDDolby官组作品，源站种子ID：209900，感谢原制作者发布。</span></b></fieldset><br /><br /><br /><img alt="image" src="https://image.tmdb.org/t/p/w500/6i3hTNgubWp8jEWeRXiYpI9Yl3n.jpg" /><br /><br />◎译　　名　神盾局特工 第 6 季 / Marvel's Agents of S.H.I.E.L.D.<br />◎首播日期　2019-05-10<br />◎产　　地　未知<br />◎类　　别　剧情 / Sci-Fi &amp; Fantasy / 动作冒险<br />◎语　　言　English<br />◎季　　数　7<br />◎集　　数　136<br />◎当季集数　13<br />◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt2364582/">https://www.imdb.com/title/tt2364582/</a><br />◎TMDb链接 &nbsp;<a class="faqlink" href="https://www.themoviedb.org/tv/1403">https://www.themoviedb.org/tv/1403</a><br />◎TMDb评分 &nbsp;7.5/10 from 3676 users<br />◎导　　演　未知<br />◎主　　演　克拉克·格雷格<br />　　　　 &nbsp;　汪可盈<br />　　　　 &nbsp;　伊丽莎白·亨斯特里奇<br />　　　　 &nbsp;　温明娜<br />　　　　 &nbsp;　亨利·西蒙斯<br />　　　　 &nbsp;　娜塔莉亚·科尔多瓦-巴克利<br />　　　　 &nbsp;　杰夫·沃德<br /><br />◎整剧简介<br /><br />　　复仇者联盟以及随后影响深远的纽约之战，让外星人和超能力者不再是坊间传说的秘密。纽约之战过后，世界格局即将重新洗牌，野心家们蠢蠢欲动，神盾局面临前所未有的挑战。在此危急关头，一度传闻死于纽约的特工菲尔·科尔森探员（克拉克·格雷格 Clark Gregg 饰）“复活”，吸纳了身怀绝技的格兰特•沃德（布雷特·道顿 Brett Dalton 饰）、梅琳达·梅（温明娜 Ming-Na Wen 饰）、莱奥·菲兹（伊恩·德·卡兹泰克 Iain De Caestecker 饰）、盖玛·西蒙斯（伊丽莎白·亨斯屈奇 Elizabeth Henstridge 饰）以及来自黑客构成的民间团体涨潮组织的斯凯（科洛·本内特 Chloe Bennet 饰）加入进来。他们以一己凡人之力，投入到各种匪夷所思且疑云重重的危险事件的调查中去……<br /><br />◎当季简介（第 6 季）<br /><br />　　上一季中，团队穿越时空，来到了一个他们很快意识到必须阻止的反乌托邦未来。面对多个时间线和来自遥远星球的新敌人，他们找到了家人、朋友、队友，并鼓起勇气完成了迄今为止最大的挑战。他们的下一个挑战是什么？他们意识到，扭曲空间和时间定律也许可以拯救地球，但无法拯救菲兹或科尔森。<br /><br /><br /><br /><br /><br /><fieldset><legend> 引用 </legend><br />General<br /> Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 64696870579912677726285288509462440488<br /> Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Marvel's.Agents.of.S.H.I.E.L.D.S06E01.2019.1080p.DSNP.WEB-DL.AVC.DDP.5.1-DBTV.mkv<br /> Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br /> Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br /> File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1.56 GiB<br /> Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 42 min 20 s<br /> Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 287 kb/s<br /> Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 FPS<br /> Encoded date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2025-10-17 12:06:31 UTC<br /> Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v94.0 ('Initiate') 64-bit<br /> Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br /><br />Video<br /> Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br /> Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br /> Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4<br /> Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br /> Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br /> Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 4 frames<br /> Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br /> Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 42 min 20 s<br /> Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 5 029 kb/s<br /> Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1920 pixels<br /> Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1080 pixels<br /> Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1.778<br /> Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CFR<br /> Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 23.976 (24000/1001) FPS<br /> Color space &nbsp; &...</div>]]></description>
+</item>
+<item>
+<title>[已拥有] [法剧：猎杀 第一季 第6集] [内封官方中字] The Hunt S01 2160p Apple TV+ WEB-DL DDP.5.1 Atmos HDR10+ H.265-CHDWEB[法剧：猎杀 第一季 第6集 /Traqués/森林阴影下/狩猎 | 4K HDR10+ | 类型:剧情/惊悚 | 内封官方中字][8.28 GB]</title>
+<link>https://ptchdbits.co/details.php?id=536938</link>
+<guid isPermaLink="false">c711180a1f148ea51e5666792e39efe44cfd21b3</guid>
+<pubDate>Wed, 01 Apr 2026 09:09:20 +0800</pubDate>
+<source>ptchdbits</source>
+<enclosure url="https://ptchdbits.co/download.php?id=536938" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
+<p><b>📅 发布时间:</b> Wed, 01 Apr 2026 09:09:20 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=536938">https://ptchdbits.co/details.php?id=536938</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><img alt="image" src="https://shewang.net/images/2026/03/05/1772684503.4628823.jpg" /><br /><br />◎译　　名　猎杀 Traqués / 森林阴影下 / A l'Ombre des Forêts‎ / The Hunt / 狩猎<br />◎年　　代　2026<br />◎产　　地　法国<br />◎类　　别　剧情 / 惊悚<br />◎语　　言　法语<br />◎上映日期　2026-03-04(法国)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt33086602/">https://www.imdb.com/title/tt33086602/</a><br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/36783469/">https://movie.douban.com/subject/36783469/</a><br />◎集　　数　6<br />◎导　　演　赛德里克·安热 Cédric Anger (id:27580050)<br />◎编　　剧　赛德里克·安热 Cédric Anger (id:27580050)<br />◎演　　员　梅拉尼·罗兰 Mélanie Laurent (id:27309498)<br />　　　　　 伯努瓦·马吉梅尔 Benoît Magimel (id:27250869)<br />　　　　　 达米安·勃纳尔 Damien Bonnard (id:27552128)<br />　　　　　 保罗·博雷佩雷 Paul Beaurepaire (id:37048660)<br />　　　　　 曼努埃尔·圭洛特 Manuel Guillot (id:36839890)<br /><br />◎简　　介<br />　　弗兰克（伯努瓦·马吉梅尔饰）和他的老朋友们喜欢一起在周末打猎，但某个星期天，他们遇到另一群猎人，这群人毫无理由地开始攻击他们。当他们一行中的一人中枪时，弗兰克的朋友们反击，将一名袭击者击倒。他们勉强逃脱后，四人决定将这件事隐瞒下来。弗兰克试图回归正常生活，与妻子克里斯特尔（梅拉尼·罗兰饰）一起生活，但接下来的几天，他开始感到自己和朋友们似乎被人监视，甚至更糟——那些猎人似乎正在追踪他们，决心复仇。<br /><br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: The.Hunt.S01E02.The.Return.2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-CHDWEB.mkv<br />File Size............: 8.77 GiB<br />Duration.............: 0:49:35 (HH:MM:SS.FFF)<br />Video Bit Rate.......: 24,546 kbps<br />Video Codec..........: HEVC Main 10@L5 SMPTE ST 2094 App 4 1<br />Frame Rate...........: 23.976 fps<br />Resolution...........: 3840 x 1820<br />Audio#01.............: French (FR) &nbsp;768 kbps &nbsp;6channels E-AC-3<br />Subtitle#01..........: French (CA) Canada<br />Subtitle#02..........: French (FR) <br />Subtitle#03..........: Chinese (Simplified) Simplified<br />Subtitle#04..........: Chinese (Traditional) Traditional<br />Subtitle#05..........: Chinese (Traditional) Traditional<br />Subtitle#06..........: Arabic <br />Subtitle#07..........: Bulgarian <br />Subtitle#08..........: Czech <br />Subtitle#09..........: Danish <br />Subtitle#10..........: German <br />Subtitle#11..........: Greek <br />Subtitle#12..........: English <br />Subtitle#13..........: Spanish (Latin America) Latin America<br />Subtitle#14..........: Spanish (ES) <br />Subtitle#15..........: Estonian <br />Subtitle#16..........: Finnish <br />Subtitle#17..........: Hebrew <br />Subtitle#18..........: Hindi <br />Subtitle#19..........: Hungarian <br />Subtitle#20..........: Indonesian <br />Subtitle#21..........: Italian <br />Subtitle#22..........: Japanese <br />Subtitle#23..........: Korean <br />Subtitle#24..........: Lithuanian <br />Subtitle#25..........: Latvian <br />Subtitle#26..........: Malay <br />Subtitle#27..........: Dutch <br />Subtitle#28..........: Norwegian <br />Subtitle#29..........: Polish <br />Subtitle#30..........: Portuguese <br />Subtitle#31..........: Portuguese (BR) Brazil<br />Subtitle#32..........: Russian <br />Subtitle#33..........: Slovak <br />Subtitle#34..........: Slovenian <br />Subtitle#35..........: Swedish <br />Subtitle#36..........: Tamil <br />Subtitle#37..........: Telugu <br />Subtitle#38..........: Thai <br />Subtitle#39..........: Turkish <br />Subtitle#40..........: Ukrainian <br />Subtitle#41..........: Vietnamese <br />Uploader.............: @CHDWEB</font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/03/05/The.Hunt.S01E02.The.Return.2160p.Apple.TV.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB.jpg" /></div>]]></description>
 </item>
 </channel>
 </rss>
