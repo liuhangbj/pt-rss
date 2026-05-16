@@ -8,16 +8,16 @@
     "tvdbId": 379200
   },
   {
+    "title": "Soul Mate",
+    "tvdbId": 451713
+  },
+  {
     "title": "Million Doll",
     "tvdbId": 295895
   },
   {
     "title": "Degrassi: Next Class",
     "tvdbId": 305913
-  },
-  {
-    "title": "The Regression of Great Sage Riddle",
-    "tvdbId": 473668
   },
   {
     "title": "KILL BLUE",
@@ -44,12 +44,16 @@
     "tvdbId": 273135
   },
   {
-    "title": "Zhan Zhao Adventures",
-    "tvdbId": 474142
+    "title": "Late Night with Seth Meyers",
+    "tvdbId": 270262
   },
   {
     "title": "You're the Best, Lee Soon Shin",
     "tvdbId": 267218
+  },
+  {
+    "title": "Royal Rumours",
+    "tvdbId": 431818
   },
   {
     "title": "The UnBelievable with Dan Aykroyd",
@@ -62,6 +66,10 @@
   {
     "title": "Healer of Children",
     "tvdbId": 393858
+  },
+  {
+    "title": "Henry Danger",
+    "tvdbId": 284114
   },
   {
     "title": "We Are All Trying Here",
