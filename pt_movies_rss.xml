@@ -3,335 +3,108 @@
 <channel>
 <title>PT电影RSS</title>
 <link>https://liuhangbj.github.io/pt-rss</link>
-<description>PT电影RSS - 生成时间: 2026-05-21 06:05:00 | 保留最近7天</description>
-<lastBuildDate>Thu, 21 May 2026 06:05:00 +0800</lastBuildDate>
+<description>PT电影RSS - 生成时间: 2026-05-21 12:00:24 | 保留最近7天</description>
+<lastBuildDate>Thu, 21 May 2026 12:00:24 +0800</lastBuildDate>
 <language>zh-CN</language>
 <item>
-<title>[未监控] [翠谷香魂] Green Mansions 1959 1080p HMAX WEB-DL DD+ 2.0 H.264-CHORTLE[翠谷香魂 / 绿厦 / 翠谷香魂 | 类别：剧情  爱情  冒险][4.52 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=293044</link>
-<guid isPermaLink="false">5d35e8a790b910d88783a5e52abc9c0d4350b593</guid>
-<pubDate>Thu, 21 May 2026 04:10:44 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=293044" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Thu, 21 May 2026 04:10:44 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=293044">https://hdhome.org/details.php?id=293044</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><img alt="image" src="https://cache.springsunday.net/img9.doubanio.com/view/photo/l_ratio_poster/public/p2443087709.jpg" /><br />
-<br />
-◎译　　名　翠谷香魂/绿厦<br />
-◎片　　名　Green Mansions<br />
-◎年　　代　1959<br />
-◎产　　地　美国<br />
-◎类　　型　电影<br />
-◎类　　别　剧情 / 爱情 / 冒险<br />
-◎语　　言　英语<br />
-◎预算票房　$3,288,000 / $0<br />
-◎上映日期　1959-03-19(美国)<br />
-◎MPAA评级　Approved(美国)<br />
-◎IMDb评分　5.5/10 from 1,959 users<br />
-◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt0052864/">https://www.imdb.com/title/tt0052864/</a><br />
-◎豆瓣评分　6.3/10 from 874 users<br />
-◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/1297241/">https://movie.douban.com/subject/1297241/</a><br />
-◎片　　长　Israel: 100分钟 / USA: 104分钟<br />
-◎简　　介<br />
-　　在经历了一连串的悲惨遭遇后，艾博（安东尼•博金斯 Anthony Perkins 饰）决定躲进森林里，却没想到落入了住在森林中的原始人的手中。莉玛（奥黛丽•赫本 Audrey Hepburn 饰）以及她的爷爷和原始部落的关系十分恶劣，长老利用艾博的无知和语言不通要求艾博出掉这两个手无寸铁的人。 <br />
-<br />
-　　一场意外中，艾博被毒蛇咬伤，所幸遇见了莉玛，才救回了一条性命，二艾博怎么也不愿意相信，眼前孱弱了美人和老态龙钟的老人就是他要杀的对象。艾博无法下手，放走了莉玛和爷爷，自己则踏上了逃亡之路。莉玛意外的得知了自己真正的身世，她的母亲其实就是给爷爷所在的部族给杀死的，莉玛无法原谅爷爷的所作所为，选择了回到自己本来的部族。<br />
-<br />
-<fieldset><legend> 引用 </legend>General<br />
-Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 192733407549280132819018048638367009246 (0x90FF1AA587CDDE6144B8977EC5F789DE)<br />
-Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Green.Mansions.1959.1080p.HMAX.WEB-DL.DDP2.0.H.264-CHORTLE.mkv<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />
-Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />
-File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 4.52 GiB<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 44 min<br />
-Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Overall bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 6 210 kb/s<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 29.970 FPS<br />
-Writing application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: mkvmerge v97.0 (&#039;You Don&#039;t Have A Clue&#039;) 64-bit<br />
-Writing library &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: libebml v1.4.5 + libmatroska v1.7.1<br />
-<br />
-Video<br />
-ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1<br />
-Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : AVC<br />
-Format/Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Advanced Video Codec<br />
-Format profile &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : High@L4.1<br />
-Format settings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: CABAC / 4 Ref Frames<br />
-Format settings, CABAC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Yes<br />
-Format settings, Reference frames &nbsp; &nbsp; &nbsp; &nbsp;: 4 frames<br />
-Codec ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : V_MPEG4/ISO/AVC<br />
-Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 1 h 44 min<br />
-Bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />
-Bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 6 079 kb/s<br />
-Maximum bit rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 11.0 Mb/s<br />
-Width &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 1 920 pixels<br />
-Height &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 818 pixels<br />
-Display aspect ratio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 2.35:1<br />
-Frame rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Constant<br />
-Frame rate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 29.970 (30000/1001) FPS<br />
-...</div>]]></description>
-</item>
-<item>
-<title>[缺少] [杰克·莱恩：幽灵之战] [中英双语字幕] Tom Clancys Jack Ryan Ghost War 2026 2160p AMZN WEB-DL DV HDR H265 DDP5.1 Atmos-BiVerse@ADWeb[杰克·莱恩：幽灵之战 / 杰克·莱恩(电影版) / Jack Ryan: Ghost War / Ghost War / Tom Clancy's Jack Ryan: Ghost War【中英双语字幕】][11.47 GB]</title>
-<link>https://audiences.me/details.php?id=667252</link>
-<guid isPermaLink="false">5f86aff398884c927fe1106b771741187728108a</guid>
-<pubDate>Thu, 21 May 2026 00:12:18 +0800</pubDate>
+<title>[已拥有] [疯狂动物城2] Zootopia 2 2025 BluRay 1080p x265 10bit DDP7.1 UC MNHD-FRDS[疯狂动物城2/动物乌托邦2/优兽大都会2(港)/动物方城市2(台)】10bit HEVC版本 国粤台英音轨 简英双语特效/国配特效字幕 带黑边][9.10 GB]</title>
+<link>https://audiences.me/details.php?id=667194</link>
+<guid isPermaLink="false">c4a336ef03ced855d88a3d4e13a414adc4047a0d</guid>
+<pubDate>Thu, 21 May 2026 09:48:11 +0800</pubDate>
 <source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=667252" type="application/x-bittorrent" />
+<enclosure url="https://audiences.me/download.php?id=667194" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Thu, 21 May 2026 00:12:18 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667252">https://audiences.me/details.php?id=667252</a></p>]]></description>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 09:48:11 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667194">https://audiences.me/details.php?id=667194</a></p>]]></description>
 </item>
 <item>
-<title>[已拥有] [阿凡达：火与烬] Avatar: Fire and Ash 2025 2160p UHD BluRay TrueHD 7.1 Atmos DV HDR10+ x265-SPHD[阿凡达：火与烬 / 阿凡达3 / 阿凡达3：火与烬 / 阿凡达3：火与灰 / 阿凡达3：带种者 / Avatar: The Seed Bearer / Avatar 3 / Avatar: Fire and Ash | 美国 | 动作 / 科幻 / 惊悚 / 奇幻 / 冒险 | 英语][60.03 GB]</title>
-<link>https://ptchdbits.co/details.php?id=550845</link>
-<guid isPermaLink="false">5bde4c783b3b0567d65223898c9438019f6e478d</guid>
-<pubDate>Thu, 21 May 2026 00:08:45 +0800</pubDate>
+<title>[未监控] [【人鱼传说】10bit HEVC版本 情色系列第137部 日语 简繁英字幕 视频类正方形比例] Mermaid Legend 1984 BluRay 1080p x265 10bit FLAC MNHD-FRDS[【人鱼传说】10bit HEVC版本 情色系列第137部 日语 简繁英字幕 视频类正方形比例][5.88 GB]</title>
+<link>https://audiences.me/details.php?id=667093</link>
+<guid isPermaLink="false">9fa92db011828cd9e54d7a5e2066545bbdca867e</guid>
+<pubDate>Thu, 21 May 2026 09:39:07 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667093" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 09:39:07 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667093">https://audiences.me/details.php?id=667093</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [【偷月情] Two Moon Junction 1988 BluRay 1080p x265 10bit FLAC 2.0 MNHD-FRDS[【偷月情/激情交叉点】10bit HEVC版本 情色系列第150部 英语 简繁英双语字幕][8.28 GB]</title>
+<link>https://audiences.me/details.php?id=667083</link>
+<guid isPermaLink="false">7131242bce39c8689ff59ed78235a422413e1813</guid>
+<pubDate>Thu, 21 May 2026 09:38:11 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667083" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 09:38:11 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667083">https://audiences.me/details.php?id=667083</a></p>]]></description>
+</item>
+<item>
+<title>[缺少] [挽救计划 KKYY 内封简英+繁英+简中+繁中特效字幕 HDR 内封国配音轨+国配特效字幕] [内封简英+繁英+简中+繁中特效字幕] Project Hail Mary 2026 2160p iTunes WEB-DL DDP5.1 Atmos HDR10+ H.265 2Audio V1-KKYY@CHDBits[挽救计划 [KKYY] [内封简英+繁英+简中+繁中特效字幕] [HDR] [内封国配音轨+国配特效字幕]][28.27 GB]</title>
+<link>https://ptchdbits.co/details.php?id=550882</link>
+<guid isPermaLink="false">75aeedaac0273c1a67e85c8c474b56a9b536debb</guid>
+<pubDate>Thu, 21 May 2026 09:15:36 +0800</pubDate>
 <source>ptchdbits</source>
-<enclosure url="https://ptchdbits.co/download.php?id=550845" type="application/x-bittorrent" />
+<enclosure url="https://ptchdbits.co/download.php?id=550882" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> ptchdbits</p>
-<p><b>📅 发布时间:</b> Thu, 21 May 2026 00:08:45 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=550845">https://ptchdbits.co/details.php?id=550845</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><br />x265 [INFO]: frame I: &nbsp; 2716, Avg QP:14.70 &nbsp;kb/s: 69065.22<br />x265 [INFO]: frame P: &nbsp;63771, Avg QP:16.07 &nbsp;kb/s: 54294.81<br />x265 [INFO]: frame B: 217406, Avg QP:18.45 &nbsp;kb/s: 32075.53</fieldset><br /><br /><br /><img alt="image" src="https://img2.pixhost.to/images/8041/728627329_p2925983114.jpg" /><br /><br />◎译　　名　阿凡达：火与烬 / 阿凡达3 / 阿凡达3：火与烬 / 阿凡达3：火与灰 / 阿凡达3：带种者 / Avatar: The Seed Bearer / Avatar 3<br />◎片　　名　Avatar: Fire and Ash<br />◎年　　代　2025<br />◎产　　地　美国<br />◎类　　别　动作 / 科幻 / 惊悚 / 奇幻 / 冒险<br />◎语　　言　英语<br />◎上映日期　2025-12-19(美国/中国大陆) / 2025-12-17(澳大利亚)<br />◎IMDb评分 　7.3/10 from 166891 users<br />◎IMDb链接 　<a class="faqlink" href="https://www.imdb.com/title/tt1757678/">https://www.imdb.com/title/tt1757678/</a><br />◎豆瓣评分　7.6/10 from 271821 users<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/5348089/">https://movie.douban.com/subject/5348089/</a><br />◎片　　长　198分钟<br />◎导　　演　詹姆斯·卡梅隆 James Cameron<br />◎编　　剧　詹姆斯·卡梅隆 James Cameron<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　里克·杰法 Rick Jaffa<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　阿曼达·斯尔沃 Amanda Silver<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　乔什·弗莱德曼 Josh Friedman<br />◎主　　演　萨姆·沃辛顿 Sam Worthington<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　佐伊·索尔达娜 Zoe Saldana<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　西格妮·韦弗 Sigourney Weaver<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　史蒂芬·朗 Stephen Lang<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　奥娜·卓别林 Oona Chaplin<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　凯特·温斯莱特 Kate Winslet<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　克利夫·柯蒂斯 Cliff Curtis<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　乔·大卫·摩尔 Joel David Moore<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　希·庞德 CCH Pounder<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　埃迪·法可 Edie Falco<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　大卫·休里斯 David Thewlis<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　杰梅奈·克莱门特 Jemaine Clement<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　吉奥瓦尼·瑞比西 Giovanni Ribisi<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　布里顿·达尔顿 Britain Dalton<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　杰克·尚皮永 Jack Champion<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　周睿初 Trinity Jo-Li Bliss<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　布伦丹·考威尔 Brendan Cowell<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　贝利·巴斯 Bailey Bass<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　杰米·福雷特斯 Jamie Flatters<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　菲利普·盖廖 Filip Geljo<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　杜恩·埃文斯 Duane Evans Jr.<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　马特·杰拉德 Matt Gerald<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;　　科斯顿·约翰 Keston John<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />◎简　　介<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 影片聚焦杰克·萨利与奈蒂莉一家的命运起伏，在前作的情感余波之上，深刻描绘一个家族在战火中如何成长、并共同守护血脉相连的情感纽带的历程，从而将故事推向更具张力的全新维度。此外，潘多拉的全新领域也即将揭晓——观众将首次邂逅“风之商人”这个崇尚和平的全新游牧民族，他们乘坐独特的浮空生物飞船穿梭于各部落间，交易货物、传递信息。而更具颠覆性的是“灰烬族”的登场，这个以掠夺为生、性情凶猛的族群，与大地之母爱娃之间有着深刻的矛盾。他们的出现，将撕开潘多拉不为人知的黑暗传说。当弑亲之仇与部落恩怨交织，潘多拉的命运悬于一线——在这场跨文明的复仇之战中，人类与纳威族将如何抉择，才能真正守护各自的家园与未来？<br />◎获奖情况<br /><br />　　第98届奥斯卡金像奖 (2026)<br />　　最佳视觉效果<br />　　埃里克·赛恩登 / 丹尼尔·巴雷特 / 乔·莱特瑞 / 理查德·贝纳姆<br />　　最佳服装设计(提名)<br />　　德博拉·林恩·斯科特<br /><br />　　第83届金球奖 (2026)<br />　　电影类 最佳原创歌曲(提名)<br />　　西蒙·弗兰格伦 / 麦莉·赛勒斯 / 马克·容森 / 安德鲁·怀亚特<br />　　电影类 电影和票房成就奖(提名)<br />　　<br /><br />　　第79届英国电影学院奖 (2026)<br />　　电影奖 最佳特殊视觉效果<br />　　<br /><br />　　第97届美国国家评论协会奖 (2025)<br />　　年度佳片<br />　　<br /><br />　　第31届美国评论家选择电影奖 (2026)<br />　　最佳视觉效果<br />　　埃里克·赛恩登 / 丹尼尔·巴雷特 / 理查德·贝纳姆 / 乔·莱特瑞<br /><br /><fieldset><legend> 引用 </legend><br />General<br />Unique ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 244412465478122327175402785899141755732 (0xB7E020EC3ADCF4EA145439011C9D7354)<br />Complete name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Avatar.Fire and Ash.2025.2160p.UHD.BluRay.HDR10+.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv<br />Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Matroska<br />Format version &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Version 4<br />File size &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: 60.0 GiB<br />Duration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 3 h 17 min<br />Overall bit rate mode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Variable<br />Overall bit rate &nbsp; &nbsp; &nbs...</div>]]></description>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 09:15:36 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://ptchdbits.co/details.php?id=550882">https://ptchdbits.co/details.php?id=550882</a></p><hr/><p><b>📄 原文内容:</b></p>
+<div><fieldset><legend> 引用 </legend><br /><font size="4"><span style="color: Blue;"><span style="color: red;"><b>本次更新双语特效中对白错误，增加国配音轨和国配特效字幕！<br /><br />1、片源CHDWEB<br /><br />2、国配音轨：麦哈制作 特此感谢<br /><br />3、国配字幕：爱国语听写 特此感谢<br /><br />4、特效字幕：Aya &nbsp;神赫 KKYY<br /><br />5、本资源内封的SUP为未过水的SUP，强烈不建议用使用蓝光机播放，如果非要播放，除了卡还是卡！强烈建议使用千元级的安卓机顶盒！电脑用户播放，建议安装MPC-HC或者POT播放器！部分安卓电视用户，可以安装KODI试试！<br /><br />本资源不允许转发，相关素材、框架结构，在未得到同意前，严禁提取发布或作为压制源，谢谢！<br /></span></font></fieldset><br /></b><br /><img alt="image" src="https://shewang.net/images/2026/05/12/1778559110.554405.jpg" /><br /><br />◎译　　名　挽救计划 Project Hail Mary / 极限返航(台) / 末日圣母号(港) / 孤注一掷 / 万福玛利亚计划<br />◎年　　代　2026<br />◎产　　地　美国<br />◎类　　别　剧情 / 科幻 / 惊悚<br />◎语　　言　英语<br />◎上映日期　2026-03-20(美国/中国大陆) / 2026-03-18(中国台湾)<br />◎IMDb链接　<a class="faqlink" href="https://www.imdb.com/title/tt12042730/">https://www.imdb.com/title/tt12042730/</a><br />◎豆瓣评分　8.6/10 (435869人评价)<br />◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/35010610/">https://movie.douban.com/subject/35010610/</a><br />◎片　　长　156分钟<br />◎导　　演　菲尔·罗德 Phil Lord (id:27518594)<br />　　　　　 克里斯托弗·米勒 Christopher Miller (id:27325242)<br />◎编　　剧　德鲁·戈达德 Drew Goddard (id:27238011)<br />　　　　　 安迪·威尔 Andy Weir (id:27575251)<br />◎演　　员　瑞恩·高斯林 Ryan Gosling (id:27218223)<br />　　　　　 桑德拉·惠勒 Sandra Hüller (id:27504179)<br />　　　　　 詹姆斯·奥尔蒂斯 James Ortiz (id:37409737)<br />　　　　　 莱昂内尔·博伊斯 Lionel Boyce (id:35995901)<br />　　　　　 梁振邦 Ken Leung (id:27210338)<br />　　　　　 米拉娜·薇恩翠 Milana Vayntrub (id:27497920)<br />　　　　　 普里亚·坎萨 Priya Kansara (id:36429632)<br />　　　　　 利兹·金斯曼 Liz Kingsman (id:35158283)<br />　　　　　 马拉基·卡比 Malachi Kirby (id:27475902)<br />　　　　　 梅丽尔·斯特里普 Meryl Streep (id:27260205)<br />　　　　　 尤妮斯·胡特哈特 Eunice Huthart (id:27318853)<br />　　　　　 雷·波特 Ray Porter (id:35370224)<br />　　　　　 达米安·德·弗罗贝维尔 Damien de Froberville (id:38389898)<br />　　　　　 米娅·索特里乌 Mia Soteriou (id:36624387)<br />　　　　　 亚伦·尼尔 Aaron Neil (id:36574780)<br />　　　　　 奥赖恩·李 Orion Lee (id:34941618)<br />　　　　　 迈克尔·阿金绥尔 Michael Akinsulire (id:35900784)<br />　　　　　 安妮勒·奥拉莱 Annelle Olaleye (id:38377620)<br />　　　　　 玛雅·伊娃·侯赛因 Maya Eva Hosein (id:38386243)<br />　　　　　 巴斯蒂安·安东尼奥·富恩特斯 Bastian Antonio Fuentes (id:37112562)<br />　　　　　 爱丽丝·布里塔因 Alice Brittain (id:37271139)<br />　　　　　 特拉维斯·杰 Travis Jay (id:36926597)<br />　　　　　 杰弗里·兰布 Geoffrey Lumb (id:36719773)<br />　　　　　 保罗·兰伯特 Paul Lambert (id:27530372)<br />　　　　　 米歇尔·格里尼奇 Michelle Greenidge (id:36418617)<br />　　　　　 伯恩哈德·舒茨 Bernhard Schütz (id:27545534)<br />　　　　　 詹姆斯·赖特 James Wright (id:36971465)<br />　　　　　 罗伯特·史密斯 Robert Smith (id:36680707)<br />　　　　　 瑞奇·张 Richie Cheung (id:38377619)<br /><br />◎简　　介<br />　　太阳正在被“吃”掉，绝望吞噬地球。一名“平凡”的中学教师格雷斯（瑞恩·高斯林 饰）背负全人类的希望，踏上“太空不归路”。末路孤旅中，他意外遇到一位外星萌友，一个同样身陷绝境的外星工程师，这对“宇宙搭子”成了两个文明最后的救命稻草。他们能否在资源紧缺的情况下攻克重重科学谜 题，寻回唯一的希望火种？<br />　　影片改编自安迪·威尔的同名畅销科幻小说。<br /><br /><img alt="image" src="https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png" /><br /><br /><fieldset><legend> 引用 </legend><br /><b><span style="color: royalblue;"><font size="3">★★★★★ General Information ★★★★★</font></span></b><font face="Courier"><br /><br />File Name............: Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265.2Audio.V1-KKYY@CHDBits<br /><br />Video: HVC1 3840x2160 24fps [V: English [eng] (hevc main 10 L5.0, yuv420p10le, 3840x2160) [default]]<br />Audio: DD+ 48000Hz 6ch 768kbps [A: 英语原声 [eng] (eac3 atmos, 48000 Hz, 5.1(side), 768 kb/s) [default]]<br />Audio: Dolby AC3 48000Hz stereo 448kbps [A: 长译国配 [chi] (ac3, 48000 Hz, stereo, 448 kb/s) [default]]<br />Subtitle [S: 简英双语HDR特效V1@KKYY [chi] (pgs) [default,forced]]<br />Subtitle [S: 繁英双语HDR特效V1@KKYY [chi] (pgs) [default]]<br />Subtitle [S: 简中国配HDR特效V1@KKYY [chi] (pgs) [default]]<br />Subtitle [S: 繁中国配HDR特效V1@KKYY [chi] (pgs) [default]]<br />Subtitle: UTF-8 [S: Traditional [chi] (subrip)]<br />Subtitle: UTF-8 [S: Simplified [chi] (subrip)]<br />Subtitle: UTF-8 [S: Spanish [spa] (subrip)]<br />Subtitle [S: Forced Subtitles (auto)]<br />Subtitle: UTF-8 [S: No subtitles]<br /></font></fieldset><br /><br /><br /><img alt="image" src="https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/05/18/Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.H.265-CHDWEB_converted_004_217289.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/05/18/Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.H.265-CHDWEB_converted_001_141.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/05/18/Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.H.265-CHDWEB_converted_001_6155.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/05/18/Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.H.265-CHDWEB_converted_001_10779.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/05/18/Project.Hail.Mary.2026.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.H.265-CHDWEB_converted_001_30732.png" /><br /><br /><img alt="image" src="https://chdbits.de/images/2026/...</div>]]></description>
 </item>
 <item>
-<title>[已拥有] [魔幻迷宫] Labyrinth 1986 Hybrid 1080p UHD BluRay FLAC2.0 DoVi HDR10+ x265-PTer[魔幻迷宫 / 魔王迷宫(台)|导演: 吉姆·亨森 主演: 大卫·鲍伊 詹妮弗·康纳利 克里斯托弗·马尔科姆 [英语+评论音轨][中英多国字+章节]][19.55 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=292950</link>
-<guid isPermaLink="false">1bfb50a2c0ef1e18359592db6c611770286ef06c</guid>
-<pubDate>Thu, 21 May 2026 00:53:57 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=292950" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Thu, 21 May 2026 00:53:57 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=292950">https://hdhome.org/details.php?id=292950</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">PTer官组作品，感谢原制作者发布。</span></b></fieldset><br />
-<br />
-<img alt="image" src="https://img2.pixhost.to/images/7949/727169333_p1936532395.jpg" /> <br />
-<img alt="image" src="https://pterclub.net/pic/PTer.png" /><br />
-<br />
-◎译　　名　魔幻迷宫 / 魔王迷宫(台)<br />
-◎片　　名　Labyrinth<br />
-◎年　　代　1986<br />
-◎产　　地　英国 / 美国<br />
-◎类　　别　歌舞 / 家庭 / 奇幻 / 冒险<br />
-◎语　　言　英语<br />
-◎上映日期　1986-06-27(美国)<br />
-◎IMDb评分 &nbsp;7.3/10 from 161351 users<br />
-◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt0091369">https://www.imdb.com/title/tt0091369</a><br />
-◎豆瓣评分　7.2/10 from 4707 users<br />
-◎豆瓣链接　<a class="faqlink" href="https://movie.douban.com/subject/1293117">https://movie.douban.com/subject/1293117</a><br />
-◎片　　长　101分钟<br />
-◎导　　演　吉姆·亨森 Jim Henson<br />
-◎编　　剧　丹尼斯·李 Dennis Lee / 吉姆·亨森 Jim Henson / 特瑞·琼斯 Terry Jones<br />
-◎主　　演　大卫·鲍伊 David Bowie<br />
-　　　　　　詹妮弗·康纳利 Jennifer Connelly<br />
-　　　　　　克里斯托弗·马尔科姆 Christopher Malcolm<br />
-　　　　　　布赖恩·汉森 Brian Henson<br />
-　　　　　　罗恩·穆埃克 Ron Mueck<br />
-　　　　　　大卫·戈尔兹 Dave Goelz<br />
-　　　　　　大卫·肖内西 David Shaughnessy<br />
-　　　　　　卡任·普瑞尔 Karen Prell<br />
-　　　　　　蒂莫西·贝特森 Timothy Bateson<br />
-　　　　　　弗兰克·奥兹 Frank Oz<br />
-　　　　　　迈克尔·霍尔德恩 Michael Hordern<br />
-　　　　　　德尼斯·拜尔 Denise Bryer<br />
-　　　　　　史蒂夫·惠特迈尔 Steve Whitmire<br />
-　　　　　　凯文·克拉什 Kevin Clash<br />
-　　　　　　安东尼·杰克逊 Anthony Jackson<br />
-　　　　　　道格拉斯·布莱克威尔 Douglas Blackwell<br />
-　　　　　　大卫·希里 David Healy<br />
-　　　　　　罗伯特·比提 Robert Beatty<br />
-　　　　　　托比·菲尔波特 Toby Philpott<br />
-　　　　　　丹尼·约翰-儒勒 Danny John-Jules<br />
-　　　　　　基范·肖 Kaefan Shaw<br />
-　　　　　　罗林·库森 Rollin Krewson<br />
-　　　　　　帕西·爱德华斯 Percy Edwards<br />
-　　　　　　迈克尔·阿特威尔 Michael Attwell<br />
-　　　　　　西恩·布瑞特 Sean Barrett<br />
-　　　　　　约翰·布鲁塞尔 John Bluthal<br />
-　　　　　　凯瑞·莎勒 Kerry Shale<br />
-　　　　　　肯尼·贝克 Kenny Baker<br />
-　　　　　　沃维克·戴维斯 Warwick Davis<br />
-　　　　　　理查德·琼斯 Richard Jones<br />
-　　　　　　杰克·普韦思 Jack Purvis<br />
-　　　　　　迈克尔·亨博瑞·巴尔兰 Michael Henbury Ballan<br />
-　　　　　　路易斯·勾德 Louise Gold<br />
-　　　　　　吉姆·亨森 Jim Henson<br />
-　　　　　　斯蒂夫·纳龙 Steve Nallon<br />
-　　　　　　简·拉文斯 Jan Ravens<br />
-　　　　　　恩·赖特尔 Enn Reitel<br />
-　　　　　　米尔德丽德·谢伊 Mildred Shay<br />
-　　　　　　Takis Miliadis Takis Miliadis<br />
-　　　　　　Antzela Zileia Antzela Zileia<br />
-　　　　　　卡德罗莎·奥娜·卡罗尔 Kadrolsha Ona Carole<br />
-　　　　　　保罗·格兰特 Paul Grant<br />
-　　　　　　卡罗琳·波普 Caroline Pope<br />
-<br />
-◎简　　介 &nbsp;<br />
-<br />
-　　虽然萨拉（詹妮弗·康纳利 Jennifer Connelly 饰）自己就是个孩子，但她依旧得担负起照顾弟弟托比（托比·弗劳德 Toby Froud 饰）的责任，无奈托比是个不听话的小孩，在他无休止的哭闹中，萨拉很快就丧失了全部的耐心。萨拉所读的童话故事里有一个可以实现人们愿望的小妖精国王，萨拉赌气地向他许愿，希望他能够带走烦人的弟弟，没想到愿望成真，小妖精国王贾斯（大卫·鲍伊 David Bowie 饰）出现在了萨拉的面前并掠走了托比。贾斯告诉萨拉若想救回弟弟，萨拉必须在规定时间内穿越一座巨大而复杂的迷宫，若失败了，托比将永远呆在妖精的世界里再也回不了家。为了弥补自己所犯下的过错，勇敢的萨拉毅然踏上了冒险的旅途。<br />
-<br />
-<fieldset><legend> 引用 </legend><br />
-★★★★★ General Information ★★★★★<br />
-Release Name...: Labyrinth.1986.Hybrid.1080p.UHD.BluRay.FLAC2.0.DoVi.HDR10+.x265-PTer<br />
-Source.........: Labyrinth.1986.Hybrid.2160p.UHD.Blu-ray.Remux.DV.HDR10P.HEVC.FLAC.2.0-CiNEPHiLES (Thanks!)<br />
-Container......: Matroska<br />
-Video Codec....: HEVC Main 10@L5.1@High<br />
-Resolution.....: 1920x804<br />
-Aspect ratio...: 2.388<br />
-Bit rate.......: 25.4 Mb/s<br />
-Frame rate.....: 23.976 fps<br />
-Chapters.......: Included (Named)<br />
-Duration.......: 1 h 41 min<br />
-Size...........: 19.6 GiB<br />
-Audio..........: Original Dolby Stereo Mix / Matrixed 2 channels FLAC @ 586 kb/s <br />
-Audio..........: Dolby Atmos Remix 6 channels Dolby Digital Plus with Dolby Atmos @ 1 024 kb/s <br />
-Audio..........: Commentary by Conceptual Designer Brian Froud 2 channels AAC @ 87.4 kb/s <br />
-Subtitle.......: American English UTF-8 <br />
-Subtitle.......: British English UTF-8 <br />
-Subtitle.......: American English / SDH UTF-8 <br />
-Subtitle.......: British English / SDH UTF-8 <br />
-Subtitle.......: American English / PGS PGS <br />
-Subtitle.......: British English / PGS PGS <br />
-Subtitle.......: American English / SDH / PGS PGS <br />
-Subtitle.......: British English / SDH / PGS PGS <br />
-Subtitle.......: Arabic UTF-8 <br />
-Subtitle.......: Arabic / PGS PGS <br />
-Subtitle.......: Bulgarian / PGS PGS <br />
-Subtitle.......: Chinese / Simplified UTF-8 <br />
-Subtitle.......: Chinese / Traditional UTF-8 <br />
-Subtitle.......: Chinese / Simplified / PGS PGS <br />
-Subtitle.......: Chinese / Traditional / PGS PGS <br />
-Subtitle.......: Croatian / PGS PGS <br />
-Subtitle.......: Czech UTF-8 <br />
-Subtitle.......: Czech / PGS PGS <br />
-Subtitle.......: Danish UTF-8 <br />
-Subtitle.......: Danish / PGS PGS <br />
-Subtitle.......: Dutch UTF-8 <br />
-Subtitle.......: Dutch / PGS PGS <br />
-Subtitle.......: Finnish UTF-8 <br />
-Subtitle.......: Finnish / PGS PGS <br />
-Subtitle.......: Metropolitan UTF-8 <br />
-Subtitle.......: Metropolitan / PGS PGS <br />
-Subtitle.......: German UTF-8 <br />
-Subtitle.......: German / PGS PGS <br />
-Subtitle.......: Greek UTF-8 <br />...</div>]]></description>
-</item>
-<item>
-<title>[未监控] [暗黑新娘！] The Bride! 2026 USA BluRay 2160p Atmos TrueHD7.1 DoVi HDR10 x265 10bit-CHD[暗黑新娘！/暗黑新娘(港)/科学新娘！(台) 国{公映长译}英双语  简繁双语四普通字幕/国配简繁双语四特效字幕][29.02 GB][anonymous]</title>
-<link>https://hdhome.org/details.php?id=292951</link>
-<guid isPermaLink="false">1393387b9e28c6c58aea347086591f5159f4d8fc</guid>
-<pubDate>Thu, 21 May 2026 00:53:48 +0800</pubDate>
-<source>hdhome</source>
-<enclosure url="https://hdhome.org/download.php?id=292951" type="application/x-bittorrent" />
-<description><![CDATA[<p><b>🔗 来源:</b> hdhome</p>
-<p><b>📅 发布时间:</b> Thu, 21 May 2026 00:53:48 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://hdhome.org/details.php?id=292951">https://hdhome.org/details.php?id=292951</a></p><hr/><p><b>📄 原文内容:</b></p>
-<div><fieldset><legend> 引用 </legend><b><span style="color: blue;">CHDBits官组作品，感谢原制作者发布。</span></b></fieldset><br />
-<fieldset><legend> 引用 </legend><font size="4"><b><span style="color: red;">本资源及相关素材未经CHD许可 严禁提取发布或二压使用，请注意礼节!</span></b></font></fieldset><br />
-<br />
-<img alt="image" src="https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg" /><br />
-<br />
-◎译　　名　暗黑新娘！/暗黑新娘(港)/弗兰肯斯坦的新娘/科学怪人的新娘/科学新娘！(台)/新娘/新娘！/The Bride of Frankenstein<br />
-◎片　　名　The Bride!<br />
-◎年　　代　2026<br />
-◎产　　地　法国/美国<br />
-◎类　　别　剧情/惊悚/犯罪<br />
-◎语　　言　英语/西班牙语<br />
-◎上映日期　2026-03-04(比利时)/2026-03-06(美国/中国大陆)<br />
-◎IMDb链接 &nbsp;<a class="faqlink" href="https://www.imdb.com/title/tt30851137/">https://www.imdb.com/title/tt30851137/</a><br />
-◎豆瓣评分　6.4/10 from 19324 users<br />
-◎豆瓣链接　<a class="faqlink" href="https://douban.com/subject/36503073/">https://douban.com/subject/36503073/</a><br />
-◎片　　长　127分钟<br />
-◎导　　演　玛吉·吉伦哈尔 Maggie Gyllenhaal<br />
-◎编　　剧　玛吉·吉伦哈尔 Maggie Gyllenhaal / 玛丽·雪莱 Mary Shelley<br />
-◎主　　演　杰西·巴克利 Jessie Buckley<br />
-　　　　 &nbsp;　克里斯蒂安·贝尔 Christian Bale<br />
-　　　　 &nbsp;　安妮特·贝宁 Annette Bening<br />
-　　　　 &nbsp;　佩内洛普·克鲁兹 Penélope Cruz<br />
-　　　　 &nbsp;　彼得·萨斯加德 Peter Sarsgaard<br />
-　　　　 &nbsp;　杰克·吉伦哈尔 Jake Gyllenhaal<br />
-　　　　 &nbsp;　约翰·马加罗 John Magaro<br />
-　　　　 &nbsp;　马修·马希尔 Matthew Maher<br />
-　　　　 &nbsp;　珍妮·柏林 Jeannie Berlin<br />
-　　　　 &nbsp;　兹拉特科·布里奇 Zlatko Buric<br />
-　　　　 &nbsp;　路易斯·坎瑟米 Louis Cancelmi<br />
-　　　　 &nbsp;　朱莉安·浩夫 Julianne Hough<br />
-　　　　 &nbsp;　马西尔·摩丹 Massiel Mordan<br />
-　　　　 &nbsp;　安东尼·阿巴图 Anthony Abbato<br />
-　　　　 &nbsp;　尼尔·文森特·史密斯 Neil Vincent Smith<br />
-　　　　 &nbsp;　莉迪亚·凯莉 Lydia Kelly<br />
-　　　　 &nbsp;　田纳西·金 Tennessee King<br />
-　　　　 &nbsp;　伊森·杜宾 Ethan Dubin<br />
-　　　　 &nbsp;　威尔·达格 Will Dagger<br />
-　　　　 &nbsp;　卡琳·德雷杰·安德森 Karin Dreijer Andersson<br />
-　　　　 &nbsp;　奥利弗·帕尔默 Oliver Palmer<br />
-　　　　 &nbsp;　罗布·凯洛格 Rob Kellogg<br />
-　　　　 &nbsp;　阿梅利亚·福勒 Amelia Fowler<br />
-　　　　 &nbsp;　阿什顿·穆尼兹 Ashton Muniz<br />
-　　　　 &nbsp;　玛丽·乔·梅卡 Mary Jo Mecca<br />
-　　　　 &nbsp;　拉莫娜·萨斯加德 Ramona Sarsgaard<br />
-　　　　 &nbsp;　亚历克斯·莫夫 Alex Morf<br />
-　　　　 &nbsp;　迈克尔·库伦 Michael Cullen<br />
-　　　　 &nbsp;　康纳·威廉·赖特 Conor William Wright<br />
-　　　　 &nbsp;　乔希·卡拉斯 Josh Caras<br />
-　　　　 &nbsp;　查理·雷 Charlie Ray<br />
-　　　　 &nbsp;　梅丽莎·贝丝·米勒 Melissa Beth Miller<br />
-　　　　 &nbsp;　摩根·麦吉 Morgan McGhee<br />
-　　　　 &nbsp;　艾米·穆林斯 Aimee Mullins<br />
-　　　　 &nbsp;　索菲娅·科 Sofía Ko<br />
-　　　　 &nbsp;　奥莉维亚·卢卡尔迪 Olivia Luccardi<br />
-　　　　 &nbsp;　小柯蒂斯·库克 Curtiss Cook Jr.<br />
-　　　　 &nbsp;　乔尔·加兰 Joel Garland<br />
-　　　　 &nbsp;　斯科特·尼科尔森 Scott Nicholson<br />
-　　　　 &nbsp;　威廉·希尔 William Hill<br />
-　　　　 &nbsp;　伊莲·阿普鲁泽西 Elaine Apruzzese<br />
-　　　　 &nbsp;　马科·查卡 Marko Caka<br />
-　　　　 &nbsp;　汤姆·约翰逊 Tom Johnson<br />
-　　　　 &nbsp;　鲍勃·莱斯扎克 Bob Leszczak<br />
-<br />
-◎简　　介<br />
-<br />
-　　<br />
-　　孤独的科学怪人弗兰肯斯坦（克里斯蒂安·贝尔 饰）来到了1930年代的芝加哥，恳请顶级科学家尤弗洛尼斯博士（安妮特·贝宁 饰）为他创造一位伴侣。两人成功复活了一名被谋杀的年轻女子，“新娘”（杰西·巴克利 饰）就此诞生。然而事态发展却远超两人想象：谋杀接踵而至，占有欲疯狂滋生，新娘能否挣脱“被创造”的命运？在暗黑混沌的逃亡路上，一场女性觉醒风暴开始席卷整个世界。<br />
-　　<br />
-<fieldset><legend> 引用 </legend>The Bride! 2026 USA BluRay 2160p TrueHD7.1 DoVi HDR10 x265 10bit-CHD<br />
-RELEASE DATE....: 05/13/2026<br />
-THEATRE DATE....: 2026<br />
-iMDB URL........: <a class="faqlink" href="http://www.imdb.com/title/tt30851137/" target="_blank">http://www.imdb.com/title/tt30851137/</a><br />
-iMDB RATiNG.....: 5.7/10 &nbsp; 19,900 votes<br />
-GENRE...........: Drama, Horror, Romance<br />
-SOURCE .........: The Bride 2026 2160p UHD Blu-ray DoVi HDR10 HEVC TrueHD 7.1 Atmos-MTeam[THANKS!]<br />
-ViDEO BiTRATE...: x265 L5.2 Main10 @ 26.4 Mbps<br />
-HDR format...........: Dolby Vision, Version 1.0, dvhe.08.10, BL+RPU, HDR10 compatible / SMPTE ST 2086, HDR10 compatible / SMPTE ST 2086, HDR10 compatible<br />
-FRAME RATE......: 23.976 fps<br />
-AUDiO 1.........: English Atmos / TrueHD 7.1 @ 3112 Kbps<br />
-AUDiO 2.........: English AC-3 5.1 @ 448 Kbps<br />
-AUDiO 3.........: English AC-3 5.1 @ 640 Kbps &nbsp;[COMMENTARY 1]<br />
-AUDiO 4.........: English AC-3 5.1 @ 640 Kbps &nbsp;[COMMENTARY 2]<br />
-AUDiO 5.........: English AC-3 5.1 @ 640 Kbps &nbsp;[COMMENTARY 3]<br />
-AUDiO 6.........: Mandarin AC-3 2.0 @ 448 Kbps &nbsp;[[GYCY@麦哈@cnlang.org]<br />
-RUNTiME.........: 02:06:10.912 (h:m:s)<br />
-ASPECT RATiO....: 2.40 : 1<br />
-RESOLUTiON......: 3840 x 1608 <br />
-SUBTiTLES.......: English | Chinese(CHS) | Chinese(CHS/ENG) | Chinese(CHT) | Chinese(CHT/ENG) | Chinese(TX-CHS[GP-GYZY@古早人@cnlang.org&amp;sh@CHDBits]) | Chinese(TX-CHS/ENG[@SUB HD&amp;sh@CHDBits]) | Chinese(TX-CHT[GP-GYZY@古早人@cnlang.org&amp;sh@CHDBits]) | Chinese(TX-CHT/ENG[@SUB HD&amp;sh@CHDBits])<br />
-FilE SiZE.......: 29.02 G<br />
-ENCODER.........: Anonymous @ CHD<br />
-<br />
-x265 [info]: frame I: &nbsp; &nbsp;2064, Avg QP:9.01 &nbsp;kb/s: 70510.78<br />
-x265 [info]: frame P: &nbsp;45561, Avg QP:10.63 &nbsp;kb/s: 38085.66<br />
-x265 [info]: frame B: 135195, Avg QP:12.92 &nbsp;kb/s: 22182.50</fieldset><br />...</div>]]></description>
-</item>
-<item>
-<title>[未监控] [泣船威利] Screamboat 2025 2160p UHD BluRay DTS-HD HRA 5.1 x265-LWRTD[泣船威利 / 尖叫船 | 类型: 喜剧 / 恐怖][26.31 GB]</title>
-<link>https://audiences.me/details.php?id=667240</link>
-<guid isPermaLink="false">76861a77d7439f752fc3e5434b3019a5bb7ec45b</guid>
-<pubDate>Wed, 20 May 2026 23:40:30 +0800</pubDate>
+<title>[未监控] [魔法少女伊莉雅：百变嘉年华] Fate Kaleid Liner Prisma Illya Prisma Phantasm 2019 1080p BluRay x265 10bit FLAC 2.0-ADE[魔法少女伊莉雅：百变嘉年华 / Fate / kaleid liner 魔法少女☆伊莉雅 / Prisma☆Phantasm / Fate / kaleid liner Prisma☆Illya / Fate / kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム / Fate/kaleid liner Prisma☆Illya プリズマ☆ファンタズム [简繁字幕] *Fate系列][2.40 GB]</title>
+<link>https://audiences.me/details.php?id=667479</link>
+<guid isPermaLink="false">c89edeb24dbde51e202ade523840feca3f4376b4</guid>
+<pubDate>Thu, 21 May 2026 08:27:08 +0800</pubDate>
 <source>audiences</source>
-<enclosure url="https://audiences.me/download.php?id=667240" type="application/x-bittorrent" />
+<enclosure url="https://audiences.me/download.php?id=667479" type="application/x-bittorrent" />
 <description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
-<p><b>📅 发布时间:</b> Wed, 20 May 2026 23:40:30 +0800</p>
-<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667240">https://audiences.me/details.php?id=667240</a></p>]]></description>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 08:27:08 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667479">https://audiences.me/details.php?id=667479</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [魔法少女伊莉雅：无名少女] Fate Kaleid Liner Prisma Illya Licht Nameless Girl 2021 1080p BluRay x265 10bit DTS 2Audio-ADE[魔法少女伊莉雅：无名少女 / Fate / kaleid liner プリズマ☆イリヤ / 魔法少女伊莉雅：Licht 無名的少女(港) / 劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女 [简体字幕] *Fate系列][5.66 GB]</title>
+<link>https://audiences.me/details.php?id=667471</link>
+<guid isPermaLink="false">3afb9003ec32afea703cb3f148c0e66a688fd760</guid>
+<pubDate>Thu, 21 May 2026 08:27:04 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667471" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 08:27:04 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667471">https://audiences.me/details.php?id=667471</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [命运] Fate Grand Order the Sacred Round Table Realm Camelot 2020 1080p BluRay x265 10bit DTS-ADE[命运/冠位指定 神圣圆桌领域卡美洛 前篇 / 劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 前編：Wandering; Agateram [简繁字幕] *Fate系列][4.64 GB]</title>
+<link>https://audiences.me/details.php?id=667461</link>
+<guid isPermaLink="false">98bf257c91fef0153c14241bf6b0ed7301793604</guid>
+<pubDate>Thu, 21 May 2026 07:22:33 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667461" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 07:22:33 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667461">https://audiences.me/details.php?id=667461</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [命运-冠位指定 -月光／失落之室-] Fate Grand Order MOONLIGHT LOSTROOM 2017 1080p BluRay x265 10bit FLAC 2.0-ADE[命运-冠位指定 -月光／失落之室- / FGO 特别篇 / Fate/Grand Order -MOONLIGHT/LOSTROOM- [简繁字幕] *Fate系列][1.72 GB]</title>
+<link>https://audiences.me/details.php?id=667458</link>
+<guid isPermaLink="false">0209db04fd82f3d3c247816cef1bcd45f7d0278c</guid>
+<pubDate>Thu, 21 May 2026 07:22:15 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667458" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 07:22:15 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667458">https://audiences.me/details.php?id=667458</a></p>]]></description>
+</item>
+<item>
+<title>[未监控] [命运] Fate Grand Order First Order 2016 1080p BluRay x265 10bit FLAC 2.0-ADE[命运/冠位指定：序章 / FGO / Fate/Grand Order: First Order / Fate/Grand Order -First Order- [简繁字幕] *Fate系列][3.14 GB]</title>
+<link>https://audiences.me/details.php?id=667451</link>
+<guid isPermaLink="false">44bdf59b51ec8c3edcfbaa5a75adad4e5f4dc749</guid>
+<pubDate>Thu, 21 May 2026 07:21:53 +0800</pubDate>
+<source>audiences</source>
+<enclosure url="https://audiences.me/download.php?id=667451" type="application/x-bittorrent" />
+<description><![CDATA[<p><b>🔗 来源:</b> audiences</p>
+<p><b>📅 发布时间:</b> Thu, 21 May 2026 07:21:53 +0800</p>
+<p><b>⬇️ 详情:</b> <a href="https://audiences.me/details.php?id=667451">https://audiences.me/details.php?id=667451</a></p>]]></description>
 </item>
 </channel>
 </rss>
